@@ -178,9 +178,12 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://skychx.com/
 
-### 行走少年郎-不羁阁
+### 行走少年郎
 
-- 不羁阁：https://bujige.net/about/
+博客地址：
+
+- 程序员充电站：https://itcharge.cn/
+- 不羁阁：https://bujige.net/
 
 ### Guanngxu
 
