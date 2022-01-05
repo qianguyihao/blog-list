@@ -201,10 +201,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 喜骑行、工具控、程序员。
 
-### Anthony Fu
-
-boke 
-
 ### 一嘉之盐糖
 
 - 博客地址：https://jiapeng.me/
@@ -385,6 +381,10 @@ boke
 ### Battle Le
 
 - 博客地址：https://battlele.com
+
+### 明远的自留地
+
+- 博客地址：https://mayandev.top/
 
 ### 掘墓人的小铲子
 
