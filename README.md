@@ -1,8 +1,10 @@
 # 优质中文独立博客列表
 
-## 相关链接
+## 前言
 
-- 中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
+收录条件：持续更新、高质量、阅读体验良好。
+
+欢迎提交 GitHub issues 进行补充。
 
 ## 一、中流砥柱
 
@@ -53,11 +55,27 @@
 
 - 博客地址：http://happyxiao.com
 
+关注的领域很广：流行哲学、数码产品、应用、Apple、阅读、创作视频、播客、blog、打篮球、跑步。
+
+博客、播客、视频、newsletter、twitter均值得关注。
+
 ### PlatyHsu
 
 - 博客地址：https://type.cyhsu.xyz
 
-Mac、软件、译文。
+Mac、软件、译文。站在科技和人文的交叉路口。
+
+PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）；他用英文写 about 页面，且毫无保留；他的 newsletter 会推送每天正在阅读的英文资讯。
+
+他的博客网站，名字叫 Neverland，意思是：你永远不要期望从中得到一些有用的东西，但你也不可能永远找不到。
+
+### 马大伟
+
+- 博客地址：https://www.bmpi.dev/
+
+全栈技术达人，长期关注学习、技术、投资三个领域。
+
+终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）
 
 ## 三、技术人的博客
 
@@ -327,3 +345,6 @@ Mac、软件、译文。
 
 一个行道者记录自己践行道路及思考的地方。
 
+## 十、相关链接
+
+- 中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
