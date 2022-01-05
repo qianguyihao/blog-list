@@ -123,6 +123,10 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 资深前端开发工程师。一边通过阅读体验别样人生，一边通过实践感受具体生活。
 
+### qcrao：码农桃花源
+
+博客地址：https://www.qcrao.com/
+
 ### zhaoolee：一个热衷开源事业的程序员
 
 博客地址：
@@ -166,7 +170,27 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://www.tortorse.com
 
+### 卤蛋实验室
 
+- 博客地址：https://skychx.com/
+
+### 行走少年郎-不羁阁
+
+- 不羁阁：https://bujige.net/about/
+
+### Guanngxu
+
+- 博客地址：https://guanngxu.com/
+
+喜骑行、工具控、程序员。
+
+### 一嘉之盐糖
+
+- 博客地址：https://jiapeng.me/
+
+### 犀利豆
+
+- 博客地址：https://xilidou.com/
 
 ## 四、创业者&独立开发者的博客
 
@@ -278,7 +302,9 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://emmmme.com
 
+### 彭宏豪
 
+- 博客地址：https://www.penghh.fun/
 
 ### 吴玉昆
 
@@ -344,6 +370,10 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 - 博客地址：https://juemuren4449.com
 
 有很多生活好物的测评，以及软件工具推荐。
+
+### lupeng
+
+- 博客地址：https://iamlupeng.com/
 
 ## 九、昔日重温
 
