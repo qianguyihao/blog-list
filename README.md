@@ -77,6 +77,12 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）
 
+### yihong0618
+
+- 博客地址：https://github.com/yihong0618
+
+喜爱[游戏](https://www.gcores.com/users/60793)，跑步，[读书](https://github.com/yihong0618/my_kindle_stats)，编程。 项目大多和这些相关。用 GitHub 记录blog 和生活日常。
+
 ## 三、技术人的博客
 
 ### 小胡子哥（李靖）
