@@ -109,7 +109,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://limboy.me/
 
-李忠，RAC实践的国内先驱者。关于 RAC 、组件化的文章流传很广。博客中对架构、编程的思考都很精髓。
+李忠，RAC实践的国内先驱者。关于 RAC、组件化的文章流传很广。博客中对架构、编程的思考都很精髓。
 
 ### 卢涛南
 
@@ -129,9 +129,18 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 资深前端开发工程师。一边通过阅读体验别样人生，一边通过实践感受具体生活。
 
+
+### 煎鱼
+
+- 博客地址：https://eddycjy.com/
+
 ### qcrao：码农桃花源
 
 博客地址：https://www.qcrao.com/
+
+### halfrost
+
+- 博客地址：https://halfrost.com/
 
 ### zhaoolee：一个热衷开源事业的程序员
 
@@ -166,16 +175,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://www.gracecode.com/
 
-### 咸糖
-
-- 博客地址：https://vim0.com/
-
-在新加坡 shopee工作的程序员。
-
-### 愆伏
-
-- 博客地址：https://www.tortorse.com
-
 ### 高行行
 
 - 博客地址：https://gaohanghang.cn/
@@ -191,23 +190,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 - 程序员充电站：https://itcharge.cn/
 - 不羁阁：https://bujige.net/
 
-### Anthony Fu
-
-博客地址：https://antfu.me/
-
-### Guanngxu
-
-- 博客地址：https://guanngxu.com/
-
-喜骑行、工具控、程序员。
-
-### 一嘉之盐糖
-
-- 博客地址：https://jiapeng.me/
-
-### 犀利豆
-
-- 博客地址：https://xilidou.com/
 
 ## 四、创业者&独立开发者的博客
 
@@ -396,7 +378,41 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://iamlupeng.com/
 
-## 九、昔日重温
+
+## 九、小而美的博客
+
+
+### 咸糖
+
+- 博客地址：https://vim0.com/
+
+在新加坡 shopee工作的程序员。
+
+### 愆伏
+
+- 博客地址：https://www.tortorse.com
+
+
+
+### Anthony Fu
+
+博客地址：https://antfu.me/
+
+### Guanngxu
+
+- 博客地址：https://guanngxu.com/
+
+喜骑行、工具控、程序员。
+
+### 一嘉之盐糖
+
+- 博客地址：https://jiapeng.me/
+
+### 犀利豆
+
+- 博客地址：https://xilidou.com/
+
+## 十、昔日重温
 
 > 很久不更新，但内容值得一看。
 
@@ -437,6 +453,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 
 
-## 十、相关链接
+## 相关链接
 
 - 中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
