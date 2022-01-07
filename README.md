@@ -233,6 +233,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 ### 王登科
 
 - 博客地址：https://greatdk.com
+- [RSS订阅](https://greatdk.com/feed)
 
 面包多创始人。
 
@@ -407,6 +408,28 @@ wordpress博文内容主要分为以下几大类型：
 
 - 博客地址：https://battlele.com
 
+### yzqzss：一座桥在水上
+
+- yzqzss | 一座桥在水上's Blog：https://blog.othing.xyz/
+
+相关链接：
+
+- GitHub：https://github.com/yzqzss
+- rss-sub-list | 独立博客&播客全订阅计划：https://github.com/saveweb/rss-list
+- 2021年终总结汇总：https://github.com/saveweb/review-2021
+
+### Jesse Chan：大破进击
+
+- 大破进击：https://jesor.me/
+
+靠写泛科技养活自己，同时尝试洞察技术、文化，致力于用健康的技术思想 hack 生活。
+
+在爱否科技做过主笔，期间最满意的作品是 [Nintendo Switch 评测](http://www.bilibili.com/video/av9780659)。给很多媒体供过稿，作品也在本博客多有发布。目前主要为[极客公园](https://www.geekpark.net/users/cc7b47a8-05f9-418c-9677-a655e8756fde)供稿，写硅谷、消费电子以及泛文娱。
+
+相关链接：
+
+- Telegram频道 | 小破不入渠：https://t.me/forwardlikehell
+
 
 ## 九、小而美的博客
 
@@ -424,8 +447,6 @@ wordpress博文内容主要分为以下几大类型：
 ### Anthony Fu
 
 - 博客地址：https://antfu.me/
-
-
 
 ### lupeng
 
@@ -461,6 +482,14 @@ wordpress博文内容主要分为以下几大类型：
 
 - 木木木木木：https://immmmm.com/
 
+### 郝杰东
+
+- jdhao's blog：https://jdhao.github.io/
+
+- [RSS订阅](https://jdhao.github.io/index.xml)
+
+编程; Nvim; 生活; 读书; 思考。
+
 ## 十、昔日重温
 
 > 超过一年未更新，但内容值得一看。
@@ -485,6 +514,12 @@ wordpress博文内容主要分为以下几大类型：
 - 博客地址：https://wangyue.blog/
 
 关于互联网和科技的IT评论博客。
+
+### 余果
+
+- 余果的博客：https://yuguo.us/
+
+2010年到2019年在腾讯ISUX，负责过QQ音乐、QQ空间、腾讯微云的产品设计。2019年从腾讯离职，加入了一家房产行业领先的产业互联网公司“房极客”，担任产品设计总监。
 
 ### 完美的胖达
 
