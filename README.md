@@ -2,7 +2,7 @@
 
 ## 前言
 
-已收录博客数量：73个博客站点。
+已收录博客数量：75个博客站点。
 
 收录条件：持续更新、高质量、阅读体验良好。欢迎提交 GitHub issues 进行补充。
 
@@ -89,7 +89,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 三流的人做干电池，二流的人做充电电池，一流的人做核电站。
 
-## 三、技术人的博客
+## 三、技术人的思考
 
 ### 小胡子哥（李靖）
 
@@ -97,9 +97,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 阿里语雀的前端工程师。一个有趣的灵魂，热爱思考。
 
-### 真没什么逻辑
 
-- 博客地址：https://draveness.me/
 
 ### 谢益辉
 
@@ -111,36 +109,17 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 李忠，RAC实践的国内先驱者。关于 RAC、组件化的文章流传很广。博客中对架构、编程的思考都很精髓。
 
-### 卢涛南
-
-- 博客地址：https://lutaonan.com
-
-作为前端开发者，作者的认知和思考很有深度。
-
-### 戴铭的博客-星光社
-
-- 博客地址：https://ming1016.github.io/
-
-滴滴iOS 技术专家。实打实的万字长文。
-
 ### 千古壹号
 
 - 博客地址：https://www.qianguyihao.com/
 
 资深前端开发工程师。一边通过阅读体验别样人生，一边通过实践感受具体生活。
 
+### 卢涛南
 
-### 煎鱼
+- 博客地址：https://lutaonan.com
 
-- 博客地址：https://eddycjy.com/
-
-### qcrao：码农桃花源
-
-博客地址：https://www.qcrao.com/
-
-### halfrost
-
-- 博客地址：https://halfrost.com/
+作为前端开发者，作者的认知和思考很有深度。
 
 ### zhaoolee：一个热衷开源事业的程序员
 
@@ -175,13 +154,9 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://www.gracecode.com/
 
-### 高行行
+### 明远的自留地
 
-- 博客地址：https://gaohanghang.cn/
-
-### 卤蛋实验室
-
-- 博客地址：https://skychx.com/
+- 博客地址：https://mayandev.top/
 
 ### 行走少年郎-程序员充电站
 
@@ -190,8 +165,41 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 - 程序员充电站：https://itcharge.cn/
 - 不羁阁：https://bujige.net/
 
+### 高行行
 
-## 四、创业者&独立开发者的博客
+- 博客地址：https://gaohanghang.cn/
+
+## 四、技术博客
+
+### 真没什么逻辑
+
+- 博客地址：https://draveness.me/
+
+### 戴铭的博客-星光社
+
+- 博客地址：https://ming1016.github.io/
+
+滴滴iOS 技术专家。实打实的万字长文。
+
+### 煎鱼
+
+- 博客地址：https://eddycjy.com/
+
+### halfrost
+
+- 博客地址：https://halfrost.com/
+
+
+
+### qcrao：码农桃花源
+
+- 博客地址：https://www.qcrao.com/
+
+### 卤蛋实验室
+
+- 博客地址：https://skychx.com/
+
+## 五、创业者&独立开发者的博客
 
 ### 王登科
 
@@ -205,7 +213,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 独立开发者。[Klib](https://itunes.apple.com/cn/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)、[iPic](https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)、[iText](https://itunes.apple.com/cn/app/id1314980676?ls=1&mt=12&at=1000lv4R&ct=iText_me)、[iHosts](https://itunes.apple.com/cn/app/id1102004240?ls=1&mt=12&at=1000lv4R&ct=iHosts_me)、[iPaste](https://itunes.apple.com/cn/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)、[iTimer](https://itunes.apple.com/cn/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_me) 作者。
 
-## 五、产品经理的博客
+## 六、产品经理的博客
 
 ### 见字如面
 
@@ -223,7 +231,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 
 
-## 六、设计师的博客
+## 七、设计师的博客
 
 ### iD公社
 
@@ -255,7 +263,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 「[片语](https://www.gentleflow.tech/)」设计师。作者追求干净优雅的视觉风格与简洁易用的产品使用体验，相信人类崇尚善良与美好的本性。 片语：回顾过去 · 记录当下 · 感知未来。
 
-## 七、思考&阅读&成长
+## 八、思考&阅读&成长&生活
 
 ### maxOS
 
@@ -264,6 +272,12 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 ### 陈仓颉
 
 - 博客地址：https://imzm.im/
+
+### 罗磊
+
+- 博客地址：https://luolei.org
+
+罗磊是ZUOLUOTV™制作人，左左文化创始人。 家在深圳，广州暨南大学，在北京(猎豹移动)和上海(阅文集团)当过5年前端工程师，俗称程序员，2018年辞职创业。 他的博客里，讲装修和旅行等方面内容很精致；也可以去B站上看看他制作的视频。
 
 ### 南百城
 
@@ -324,6 +338,8 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://freemind.pluskid.org/
 
+他的总结很好地诠释了什么叫「好好生活」。最开始身为学生的我被他的头衔吸引，MIT 计算机科学博士、机器学习框架 MXNet 的早期开发者、Google Brain 的科学家。但到头来，成为一个有趣的人才是吸引人的原因。
+
 ### 思考问题的熊
 
 - 博客地址：https://kaopubear.top/
@@ -346,13 +362,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：http://www.winature.com/
 
-## 八、具体生活
 
-### 罗磊
-
-- 博客地址：https://luolei.org
-
-罗磊是ZUOLUOTV™制作人，左左文化创始人。 家在深圳，广州暨南大学，在北京(猎豹移动)和上海(阅文集团)当过5年前端工程师，俗称程序员，2018年辞职创业。 他的博客里，讲装修和旅行等方面内容很精致；也可以去B站上看看他制作的视频。
 
 ### 庭说
 
@@ -364,9 +374,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://battlele.com
 
-### 明远的自留地
 
-- 博客地址：https://mayandev.top/
 
 ### 掘墓人的小铲子
 
@@ -374,9 +382,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 有很多生活好物的测评，以及软件工具推荐。
 
-### lupeng
 
-- 博客地址：https://iamlupeng.com/
 
 
 ## 九、小而美的博客
@@ -392,11 +398,13 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://www.tortorse.com
 
-
-
 ### Anthony Fu
 
 博客地址：https://antfu.me/
+
+### lupeng
+
+- 博客地址：https://iamlupeng.com/
 
 ### Guanngxu
 
