@@ -4,7 +4,7 @@
 
 ### 收录条件
 
-已收录博客数量：77个博客站点。
+已收录博客数量：88个博客站点。
 
 收录条件：持续更新、高质量、阅读体验良好、最好提供RSS订阅链接。
 
@@ -94,6 +94,22 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 - 博客地址：https://0792z.blogspot.com/
 
 三流的人做干电池，二流的人做充电电池，一流的人做核电站。
+
+### 费照君：五道口乐哥
+
+- 费照君：https://feizhaojun.com/
+
+前端工程师，拍照爱好者，资深梦想家。博客记录“每周分享”。
+
+其他链接：
+
+- 公众号：五道口乐哥
+
+### 王永贤：贤无常的探索
+
+- 贤无常的探索：http://yongxian.wang/
+
+博客每周记录“王永贤阅读周刊”、“王永贤周记”。
 
 ## 三、技术人的思考
 
@@ -551,5 +567,9 @@ wordpress博文内容主要分为以下几大类型：
 - 博客地址：https://blog.t9t.io/
 
 ## 其它链接
+
+- 独立博客&播客全订阅计划：https://box.othing.xyz/
+
+- rss-sub-list：https://github.com/saveweb/rss-list
 
 - 中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
