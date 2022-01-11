@@ -4,7 +4,7 @@
 
 ### 收录条件
 
-已收录博客数量：89个博客站点。
+已收录博客数量：91个博客站点。
 
 收录条件：持续更新、高质量、阅读体验良好、最好提供RSS订阅链接。
 
@@ -111,7 +111,11 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 贤无常的探索：http://yongxian.wang/
 
-理性智慧。感性人生。博客每周记录“王永贤阅读周刊”、“王永贤周记”。理性智慧。感性人生。
+理性智慧。感性人生。博客每周记录“王永贤阅读周刊”、“王永贤周记”。
+
+相关链接：
+
+- 公众号：
 
 ## 三、技术人的思考
 
@@ -238,6 +242,16 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - 博客地址：https://halfrost.com/
 
+### Gracker
+
+- Android Performance：https://www.androidperformance.com/
+
+Android系统工程师。目前主要在做 Android 系统开发、和应用快省稳优化相关的工作，主要的研究方向是 Android Framework、Android APM、Android 系统优化、性能优化等。
+
+相关链接：
+
+- 即刻：@[高爷](https://web.okjike.com/u/2c2f3505-ea4f-4b52-982f-6b511dced478)
+
 ### qcrao：码农桃花源
 
 - 博客地址：https://www.qcrao.com/
@@ -245,6 +259,8 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 ### 卤蛋实验室
 
 - 博客地址：https://skychx.com/
+
+
 
 ## 五、创业者&独立开发者的博客
 
@@ -581,6 +597,14 @@ wordpress博文内容主要分为以下几大类型：
 ### 透明创业实验
 
 - 博客地址：https://blog.t9t.io/
+
+### 徐宥
+
+- 4G Spaces：https://blog.youxu.info/
+
+[创业](https://www.ai.codes/)中。之前在 Fitbit (领导机器学习团队) 和 Google (广告和无人驾驶) 干活。华盛顿大学人工智能博士，南京大学数学学士。
+
+这个中文博客是博主的思考记录，主要用来帮助博主 debug/refactor 的思想，但本人不对任何因为阅读造成的后果负责。
 
 ## 其它链接
 
