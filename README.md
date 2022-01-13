@@ -311,6 +311,16 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 - 观影记录：https://weiyexing.ml/posts/film-record/
 - Telegram频道：https://t.me/weiyexing
 
+
+
+### Rethink
+
+- 博客地址：https://dengbiao.me/
+
+白天是个PM，晚上也是个PM。
+
+
+
 ### SKYue
 
 - 博客地址：https://www.skyue.com/
@@ -326,6 +336,8 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 ### kidult00
 
 - 博客地址：https://www.uegeek.com
+
+本科 [GIS](http://en.wikipedia.org/wiki/Geographic_information_system) 专业，硕士方向人文地理与旅游规划。之后莫名成为互联网从业者，做了 3 年产品经理，1 年用户研究，4 年交互设计。
 
 讲交互设计，很有体系。
 
