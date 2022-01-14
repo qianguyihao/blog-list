@@ -321,6 +321,16 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 
 
+### 东炜黄
+
+- 博客地址：https://huangweidong.me/
+
+广东土著，现居广州，日常活跃于番禺和海珠。[小睡眠](https://apps.apple.com/cn/app/小睡眠-白噪音冥想助眠-梦话睡眠记录/id1194338569)产品长，四只猫的首席铲屎官，Emoji/科幻片/摄影爱好者。
+
+
+
+
+
 ### SKYue
 
 - 博客地址：https://www.skyue.com/
