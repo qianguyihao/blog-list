@@ -363,6 +363,14 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 腾讯的游戏设计师。
 
+### Issei
+
+- 觉论：https://blog.ryouissei.com/
+
+一名UX设计师，在东京某 IT 公司工作。专注于用户体验、交互设计领域，但对字体、视觉艺术也感兴趣。
+
+「觉论」是博主发起的个人博客，具体可以诠释为「Sense of Design & Life」，旨在记录博主对世界的观察、审美、思考方式的沉淀和转变。
+
 ### 家樑：梦之飞鸟
 
 - 博客地址：https://tujialiang.me
@@ -384,6 +392,12 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 相关链接：
 
 - 公众号：白板报
+
+### XDash 范冰
+
+- XDash Weblog：http://xdash.one/
+
+《增长黑客》一书作者。
 
 ### maxOS
 
