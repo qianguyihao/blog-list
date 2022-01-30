@@ -109,6 +109,11 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 三流的人做干电池，二流的人做充电电池，一流的人做核电站。
 
+### COIN DOLLAR PAY
+
+- 博客地址：https://coindollarpay.com/
+
+
 ### 费照君：五道口乐哥
 
 - 费照君：https://feizhaojun.com/
@@ -610,6 +615,14 @@ wordpress博文内容主要分为以下几大类型：
 - [RSS订阅](https://jdhao.github.io/index.xml)
 
 编程; Nvim; 生活; 读书; 思考。
+
+### Domon
+
+- 博客地址：https://www.domon.cn/
+
+会写一点代码的伪程序员，爱好广泛等于没有爱好。一直希望世界如同小时候的那样，充满了奇幻色彩。但越长大越发现社会充满了魔幻色彩。
+
+
 
 ## 十、昔日重温
 
