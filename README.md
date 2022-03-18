@@ -416,6 +416,14 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 - 公众号：白板报
 
+### kaix.in
+
+- 博客地址：https://kaix.in/
+
+- [RSS订阅](https://kaix.in/feed)
+
+因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。
+
 ### XDash 范冰
 
 - XDash Weblog：http://xdash.one/
