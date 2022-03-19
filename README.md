@@ -158,6 +158,17 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 资深前端开发工程师。一边通过阅读体验别样人生，一边通过实践感受具体生活。
 
+### lenciel
+
+- 博客地址：https://lenciel.com/
+
+- [RSS订阅](https://lenciel.com/feed.xml)
+
+
+
+
+
+
 ### Free Mind
 
 - 博客地址：https://freemind.pluskid.org/
