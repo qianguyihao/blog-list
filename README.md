@@ -2,7 +2,7 @@
 
 ## 前言
 
-已收录博客数量：125 个博客站点。
+已收录博客数量：135 个博客站点。
 
 ### 收录条件
 
@@ -167,9 +167,20 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 ### limboy
 
-- 博客地址：https://limboy.me/
+博客地址：
+
+- https://limboy.me/
+
+- <https://2010-2021.limboy.me/>
+
+- [RSS订阅](https://limboy.me/index.xml)
+
 
 李忠，RAC实践的国内先驱者。关于 RAC、组件化的文章流传很广。博客中对架构、编程的思考都很精髓。
+
+作为程序员，先后在知乎、花瓣、蘑菇街、字节跳动等公司工作过。有一段时间对 iOS 开发比较感兴趣，也在 QCon / Arch Summit 大会做过几场分享。在意识到对移动端开发热情的降低和国内大厂的不适应后，选择了离开。然后就开始探索能够让我持续、有热情地做十年的事情。
+
+我希望这个网站的内容能让 10 年后的我（还有一定的智力，但很多东西都忘了）还有兴趣看，且看能看明白，其他看到这些内容的人也能有所收获，或者品尝到一些乐趣。同时保持足够的更新频率。
 
 ### 谢益辉
 
@@ -224,6 +235,36 @@ Lenciel，大部分人不知道怎么读。 06 年毕业之后，我上过几年
 - 英文博客：https://leihuang.io/
 
 现居上海的数字游民。
+
+### GeekPlux
+
+- 博客地址：<https://geekplux.com/>
+
+- [RSS订阅](https://geekplux.com/feed.xml)
+
+我是一个普通[程序员](https://www.linkedin.com/in/geekplux/)，擅长数据可视化和 Web 前端开发，可以在我的 [Github](https://github.com/geekplux) 上找到我做的开源项目。闲言碎语发 [Twitter](https://twitter.com/geekplux) 和[微博](http://weibo.com/cloud285), 偶尔写写[博客](http://geekplux.com/)，每周写一篇[周刊](https://geekplux.zhubai.love/)，所知所学会整理到 [Wiki](https://wiki.geekplux.com/)，当然也有个 [English Blog](https://geekplux.me/)。
+
+编程之外，我喜欢跑步，徒步，越野跑。你可以在 [Activity](https://activities.geekplux.com/) 上看到我所有的运动轨迹和训练数据，你也可以关注我的 [Strava](https://www.strava.com/athletes/geekplux)。风景照我偶尔会发到 [Instagram](https://www.instagram.com/geekplux/)，也会突发奇想上传一些视频到 [Bilibili](https://space.bilibili.com/14962772) 或 [YouTube](https://www.youtube.com/c/geekplux)。
+
+博客已经写了[十多年](https://geekplux.com/2018/09/26/blog-history)了。写作用于[思考](https://geekplux.com/2015/10/27/why-those-who-write-great-articles-is-so-powerful/)，博客用于展示思考的结果，多数文章为自己而写，但也希望能为他人提供价值，「"奇"文共欣赏，疑义相与析」。
+
+我认为衡量生命长度的不是时间而是经历，所以我会永远探索，把有限的时间浪费在无限的浅尝辄止上。
+
+希望自己成为一名：
+
+- 知行合一的理想主义者
+- 温和坚定的自由主义者
+- 骄傲谦逊的理性主义者
+
+### diygod
+
+- 博客地址：<https://diygod.me/>
+
+- [RSS订阅](https://diygod.me/atom.xml)
+
+一个可爱的人，一个纯粹的人，一个没有脱离低级趣味的人。
+
+作品：RSSHub、RSSHub Radar、DPlayer、APlayer。
 
 ### zhaoolee
 
@@ -346,6 +387,8 @@ Lenciel，大部分人不知道怎么读。 06 年毕业之后，我上过几年
 
 - 博客地址：https://halfrost.com/
 
+- [RSS订阅](https://halfrost.com/rss/)
+
 ### Gracker
 
 - Android Performance：https://www.androidperformance.com/
@@ -356,9 +399,41 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 - 即刻：@[高爷](https://web.okjike.com/u/2c2f3505-ea4f-4b52-982f-6b511dced478)
 
+### 峰云就她了
+
+- 博客地址：<https://xiaorui.cc/>
+
+代表作品：
+
+- 技术分享PPT：<https://github.com/rfyiamcool/share_ppt>
+
+
 ### qcrao：码农桃花源
 
 - 博客地址：https://www.qcrao.com/
+
+### Jerry Qu 屈光宇
+
+- 博客地址：<https://imququ.com/>
+- [RSS订阅](https://www.imququ.com/rss.html)
+
+博主名叫屈光宇，网上代号习惯用 JerryQu、qgy18，近几年来朋友们都叫我屈屈或 QuQu。08 年毕业于武汉科技大学自动化专业，湖北黄冈罗田县人。目前专注于 Web 端开发，关注 Web 性能优化与安全。
+
+随着最近我收到的咨询变多，为了处理起来更高效，这里我补充几点说明：
+
+- 不要上来就直接要 QQ 号或微信号。本人不提供有偿（更不提供无偿）陪聊服务；
+- 与本博客文章有关的问题，建议直接在文后评论。这样可以让更多人看到讨论的内容；
+- 其他技术或个人成长相关问题，建议发邮件。但「有没兴趣一起做点东西」这样的内容请不要发；
+- 无论通过何种方式咨询，请一次性把问题描述清楚。如果不知道怎么做，推荐阅读「[如何提问才能进阶成为前端大神](http://www.zhangxinxu.com/wordpress/2015/05/how-to-ask-web-front-question/)」。
+
+在本博客评论或者给我发邮件，我会即时收到手机提醒；Twitter 和微博的提醒被我关掉了，通常一天检查一次私信。但本人既无法保证回复时间，也不能做到有问必答，请理解。
+
+以下是我的工作经历：
+
+- [稀土掘金](https://juejin.cn/)，业务负责人，北京，2021.05 ~ ？
+- 奇虎 360，前端开发 & 技术团队管理 & 产品负责人，北京，2011.08 ~ 2021.05
+- 百度，前端开发，北京，2008.04 ~ 2011.05
+
 
 ### 卤蛋实验室
 
@@ -794,6 +869,47 @@ wordpress博文内容主要分为以下几大类型：
 
 - 《[我的 Rime 配置 2022](https://dvel.me/posts/my-rime-setting-2022/)》
 
+### idealclover 翠翠
+
+- 博客地址：<https://idealclover.top/>
+
+Product Manager @ByteDance 南京大学 2016 级本科生
+
+### BoHolder
+
+- 博客地址：<https://boholder.github.io/>
+
+- 一个在有灵感时会做些小制作的手艺人；
+- 一个信息收集者，乐于将符合 OSINT特征 的信息分享；
+- 一只为明天的奶酪着想的老鼠，为了适应新环境而积极改变自己的行动模式。
+
+我很乐意在空闲时间与有趣的人交朋友并相互学习，因为大量弱链接更利于个体生存在变数众多的现实环境中。
+
+### 米随想
+
+- 博客地址：<https://s5s5.me/>
+
+- [RSS订阅](https://s5s5.me/feed)
+
+曾就职于 Tencent Cloud ，岗位产品体验设计师，主要从事体验方面工作。平时喜欢阅读，也写点博客。
+
+本站是指 [米随随]s5s5(s5s5.me) ，网站于2003年开始创建，2005年申请 misuisui.com 域名。03至05年以网摘、技术笔记为主，05至07年内容由IT评论、生活琐事、技术笔记为主，07年后主要以技术笔记、网摘为主。建设本站的目的一开始只是看别人有所以我也要有的想法，结果发现Web开发这一领域非常有好玩且很有成就感，所以后来就业也从事这一领域工作。成为职业IT业者后，在工作中又更加深入的理解了Web，所以就更加希望通过Web技术来改善人类生活，以实现我的个人价值所在。
+
+### 郑昊天
+
+- JustZht's EchoChamber：<https://www.justzht.com/>
+
+- [RSS订阅](https://www.justzht.com/rss/)
+
+
+
+### 半瓶 OrangeCLK
+
+- 博客地址：<https://www.orangeclk.com/>
+
+- [即刻主页](https://web.okjike.com/u/4dc31286-9c96-42a1-b295-1dc5ba351c34)
+
+
 ## 十、昔日重温
 
 > 很久未更新，但内容值得一看。
@@ -870,6 +986,24 @@ wordpress博文内容主要分为以下几大类型：
 
 百姓网创始人。从2003年开始写博客。
 
+### 徐宥
+
+- 4G Spaces：<https://blog.youxu.info/>
+
+- [RSS订阅](https://blog.youxu.info/feed.xml)
+
+[创业中](https://www.ai.codes/)。之前在 Fitbit (领导机器学习团队) 和 Google (广告和无人驾驶) 干活。华盛顿大学人工智能博士，南京大学数学学士。
+
+这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。
+
+
+### 霍炬
+
+- 博客地址：<https://jhuo.ca/>
+
+- [RSS订阅](https://feeds2.feedburner.com/virushuo)
+
+
 ## 其它链接
 
 - 独立博客&播客全订阅计划：https://box.othing.xyz/
@@ -877,3 +1011,20 @@ wordpress博文内容主要分为以下几大类型：
 - rss-sub-list：https://github.com/saveweb/rss-list
 
 - 中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
+
+
+## yuhua.HK
+
+- 博客地址：<http://yuhua.hk/>
+
+余华，一九七三年出生于江西乐平，自幼在江苏南京长大，九十年代初独自闯荡深圳特区，现常年穿梭于港深两地，隐于都市，简单生活。
+
+九岁那年源于一次学校组织的郊游，疯狂爱上拍照，从此情系相机三十余年，口头禅“爱好摄影，好过于吃喝嫖赌”。
+
+一九九三年偶遇 CFIDO 网，从此走上网络这条不归路，至今依旧坚持在虚拟和现实的时光隧道中来回奔走，不分线上线下，网络永远在线。中国大陆第一代网虫，可以不吃饭不睡觉，但绝不能没有互联网。
+
+一九九六年开始制作个人网站，二十年来历经 N 多次起起伏伏，开开关关，写写删删，直到今天，铁了心要把博客进行到底。
+
+爱摄影，爱网络，爱生活。
+
+座右铭：简单，真实，自由。
