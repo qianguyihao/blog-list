@@ -1,4 +1,6 @@
-# 优质中文独立博客列表
+# 中文博客琅琊榜
+
+中文博客琅琊榜，只收录优质的中文独立博客。全网最精品。
 
 ## 前言
 
@@ -228,9 +230,9 @@ Lenciel，大部分人不知道怎么读。 06 年毕业之后，我上过几年
 
 作为前端开发者，作者的认知和思考很有深度。
 
-### Yu Zhang
+### Yu Zhang 张宇
 
-- 博客地址：<https://www.pseudoyu.com/>
+- Pseudoyu：<https://www.pseudoyu.com/>
 
 区块链开发工程师，香港大学计算机系硕士（ECIC, Electronic Commerce and Internet Computing）。喜欢探索新技术，空闲时也折腾 Logseq、Notion 等效率工具。
 
@@ -238,13 +240,11 @@ Lenciel，大部分人不知道怎么读。 06 年毕业之后，我上过几年
 
 代表文章：
 
-- 《个人工具箱（2022 年 5 月）》
+- 《[个人工具箱（2022 年 5 月）](https://www.pseudoyu.com/zh/2022/05/08/personal_tools_in_2022_may/)》
 
-<https://www.pseudoyu.com/zh/2022/05/08/personal_tools_in_2022_may/>
+- [《免费的个人博客系统搭建及部署解决方案（Hugo + GitHub Pages + Cusdis）》](https://www.pseudoyu.com/zh/2022/03/24/free_blog_deploy_using_hugo_and_cusdis/)
 
-
-
-
+- [《BitXHub 跨链插件（Fabric）源码解读》](https://www.pseudoyu.com/zh/2021/09/09/blockchain_crosschain_bitxhub/)
 
 ### 黄磊
 
