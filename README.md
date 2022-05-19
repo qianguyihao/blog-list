@@ -3,7 +3,7 @@
 
 ## 前言
 
-中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：156 个博客站点。
+中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：175 个博客站点。
 
 ### 收录条件
 
@@ -23,17 +23,19 @@
 
 - 博客地址：https://www.ruanyifeng.com/
 
+擅长领域：JavaScript、ECMAScript、科技周刊等。
+
 ### 酷壳（陈皓/左耳朵耗子）
 
 - 博客地址：https://coolshell.cn
 
-骨灰级程序员。
+骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。
 
 ### 王垠
 
 博客地址：
 
-- 当然我在扯淡：https://www.yinwang.org <br />
+- 当然我在扯淡：https://www.yinwang.org
 - 王垠的草稿本：https://yinwang1.wordpress.com
 
 ### 云风
@@ -193,6 +195,14 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 我希望这个网站的内容能让 10 年后的我（还有一定的智力，但很多东西都忘了）还有兴趣看，且看能看明白，其他看到这些内容的人也能有所收获，或者品尝到一些乐趣。同时保持足够的更新频率。
 
+### 唐巧
+
+- 博客地址：http://blog.devtang.com/
+
+唐巧，男，80 后，程序员。作为核心员工在 [猿辅导](https://www.yuanfudao.com/) 参与创业。曾作为产品技术负责人孵化了 [小猿搜题](https://www.yuansouti.com/) 和 [小猿口算](https://xiaoyuankousuan.com/)，现在作为负责人在孵化某新业务。
+
+前端、后端、iOS端都有涉及。著有[《iOS 开发进阶》](http://item.jd.com/11598468.html) 一书。曾开发 [网易邮箱](http://mail.163.com/)、网易微博、[有道云笔记](http://note.youdao.com/)、[猿题库](https://www.yuantiku.com/)、[小猿搜题](https://www.yuansouti.com/)。本博客主要的内容包括 iOS 开发技巧、创业感悟、读书心得、产品研究笔记。
+
 ### 谢益辉
 
 - 博客地址：<https://yihui.org>
@@ -202,6 +212,14 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 - 博客地址：https://www.qianguyihao.com/
 
 资深前端开发工程师。一边通过阅读体验别样人生，一边通过实践感受具体生活。
+
+
+
+### bang's blog
+
+- 博客地址：http://blog.cnbang.net/
+
+bang，88年生于广东陆丰，毕业于华南师范大学，程序员，喜欢做东西。
 
 ### lenciel
 
@@ -218,6 +236,18 @@ Lenciel，大部分人不知道怎么读。 06 年毕业之后，我上过几年
 - 博客地址：https://freemind.pluskid.org/
 
 他的总结很好地诠释了什么叫「好好生活」。最开始会被他的头衔吸引，MIT 计算机科学博士、机器学习框架 MXNet 的早期开发者、Google Brain 的科学家。但到头来，成为一个有趣的人才是吸引人的原因。
+
+### Phodal
+
+- 博客地址：https://www.phodal.com/
+
+houghtWorks 高级咨询师；工程师 / 咨询师 / 作家 / 设计学徒；开源深度爱好者。
+
+出版有《前端架构：从入门到微前端》《自己动手设计物联网》《全栈应用开发：精益实践》。
+
+
+
+
 
 ### Weichen
 
@@ -238,6 +268,12 @@ Lenciel，大部分人不知道怎么读。 06 年毕业之后，我上过几年
 - 博客地址：https://lutaonan.com
 
 作为前端开发者，作者的认知和思考很有深度。
+
+1995 年出生于广东中山的一个小城市。好编程，阅读，音乐，写作以及一切创造类活动。 2008 年起学习编程至今。2014 年参加高考，录取「广州大学华软软件学院」，本科一年后退学。曾在奇志科技、阿里巴巴、蚂蚁金服、虎牙直播工作。目前在微软中国工作。
+
+小时候的理想是成为一名程序员，用技术改变世界。现在的理想是用技术创造价值 —— 做出有人觉得好用的产品或服务，并愿意为之付费。未来的妄想是参与推动中国的民主化建设。如果人生可以选择，我希望我可以在一个法治国家参选议员从事政治，业余写代码和做音乐。
+
+做这个博客的原因是我喜欢写作和思考，我希望把我的思考和经验分享给所有人。
 
 ### Yu Zhang 张宇
 
@@ -402,6 +438,17 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 把生命浪费在美好的事物上。
 
+### Tinyfool 郝培强
+
+- 博客地址：<https://codechina.org/>
+
+Tinyfool，真名郝培强。1979年生人，自由职业（自媒体），资深（也就是老的意思）开发者，居住在上海，年老体胖。
+
+### Est's Blog
+
+- 博客地址：https://blog.est.im/
+
+
 
 ## 四、技术博客
 
@@ -414,7 +461,13 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 ### 真没什么逻辑
 
-- 博客地址：https://draveness.me/
+- 面向信仰编程：https://draveness.me/
+
+### 廖雪峰
+
+- 博客地址：<https://www.liaoxuefeng.com/>
+
+提供了经典的 JavaSE、JavaEE、JavaScript 和 Python、Git 等系列教程。
 
 ### 戴铭的博客-星光社
 
@@ -517,6 +570,30 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 《Lua设计与实现》一书的作者。
 
+### 风雪之隅-惠新宸
+
+- 博客地址：<https://www.laruence.com/>
+
+Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心成员, Zend顾问, PHP7及PHP8 JIT核心作者，Yaf等开源项目作者。博客里有PHP源码分析、PHP应用、JS/CSS以及随笔等栏目。
+
+### 纯洁的微笑
+
+- 博客地址：<http://www.ityouknow.com/>
+
+### 地瓜哥
+
+- 博客地址：https://www.diguage.com/
+
+热爱技术，喜欢开源，乐于分享，相信计算机可以改变世界。好读书不求甚解，偏爱历史，经济学，金融学，心理学(尤其是认知心理学、社会心理学)，数学，古典文学等。希望以书为马，畅游古今中外，做一个有趣的人。
+
+热衷摄影，希望用相机记录美好生活。喜欢户外运动、跑步、自驾游、露营、野炊等。感兴趣，欢迎勾搭…
+
+对于写作体验有近乎苛刻的追求。
+
+### 火丁笔记
+
+- 博客地址：https://blog.huoding.com/
+
 
 
 ## 五、创业者&独立开发者的博客
@@ -534,11 +611,39 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 独立开发者。[Klib](https://itunes.apple.com/cn/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)、[iPic](https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)、[iText](https://itunes.apple.com/cn/app/id1314980676?ls=1&mt=12&at=1000lv4R&ct=iText_me)、[iHosts](https://itunes.apple.com/cn/app/id1102004240?ls=1&mt=12&at=1000lv4R&ct=iHosts_me)、[iPaste](https://itunes.apple.com/cn/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)、[iTimer](https://itunes.apple.com/cn/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_me) 作者。
 
+### 图拉鼎 Tualatrix
+
+- 博客地址：<https://imtx.me/>
+
+独立开发者。主要作品：
+
+- [Ubuntu Tweak](http://ubuntu-tweak.com/)：2007 年时在大学时做起来的开源项目，曾经是 Ubuntu 上必装的软件之一，现已停止维护。
+- [Manico](http://manico.im/)：2013 年发布，为 macOS 设计开发的一个小巧易用的 App 快速启动和切换工具，目前在维护状态；
+- [奇点 for 微博](https://itunes.apple.com/app/id947792507)：2015 年发布，为 iOS 设计的一个第三方微博客户端，带给你不一般的刷微博体验，目前已下架；
+- [效率控](https://apps.apple.com/cn/app/id1435159279)：2019 年发布，为 iOS 设计的聚合了二十余款各种独立功能的实用小工具型 App，从缩小图片、图片打码到 PDF 水印。2020 年推出了 macOS 版本，目前在维护状态；
+- [One Switch](https://fireball.studio/oneswitch)：2019 年发布，为 macOS 设计的一个快捷开关工具，通过内置二十余个功能开关可以方便地完成诸如「隐藏桌面」、「切换黑暗模式」等操作，至今仍在不断更新；
+- [Moment](https://fireball.studio/moment)：2020 年发布，为 macOS 设计的简洁美观的记录日程与时间进度的工具，目前在维护状态；
+- [PasteNow](https://apps.apple.com/cn/app/id1552536109?mt=12)：2021 年发布，为 macOS 设计开发的剪贴板工具，通过增强系统级剪贴板的体验，让日常使用处理文本或其他各种工作时更高效和便捷，仍在不断开发。
+
+### 1Byte 江宏
+
+- 博客地址：https://1byte.io/
+
+江宏（@jiangh）。是 LeanCloud 的联合创始人和 CEO
+
 ## 六、产品经理的博客
 
 ### 见字如面
 
 - 博客地址：https://hiwannz.com
+
+### Mr. PM 下午先生
+
+- 博客地址：http://mrpm.cc/
+
+现任：资深产品顾问、企业内训讲师。擅长领域： APP企划、产品增长、数据分析、建构数据驱动的产品团队。
+
+《[8 篇值得精读的文章](http://mrpm.cc/?page_id=620)》
 
 ### 向远公园
 
@@ -627,7 +732,7 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 「[片语](https://www.gentleflow.tech/)」设计师。作者追求干净优雅的视觉风格与简洁易用的产品使用体验，相信人类崇尚善良与美好的本性。 片语：回顾过去 · 记录当下 · 感知未来。
 
-## 八、思考&阅读&成长&生活
+## 八、思考&阅读&成长&生活&随笔&文学
 
 ### 王佩的白板报
 
@@ -846,6 +951,8 @@ wordpress博文内容主要分为以下几大类型：
 - Telegram频道 | 小破不入渠：https://t.me/forwardlikehell
 
 
+
+
 ## 九、昔日重温
 
 > 很久未更新，但内容值得一看。
@@ -898,6 +1005,16 @@ wordpress博文内容主要分为以下几大类型：
 
 2010年到2019年在腾讯ISUX，负责过QQ音乐、QQ空间、腾讯微云的产品设计。2019年从腾讯离职，加入了一家房产行业领先的产业互联网公司“房极客”，担任产品设计总监。
 
+热爱互联网行业，热爱产品设计，相信好的产品设计能让这个世界变好。精通产品设计、前端开发、客户端开发、翻译、写作和演讲。《Web全栈工程师的自我修养》一书作者。
+
+### Hawstein
+
+- 博客地址：https://hawstein.com/
+
+干工程师/Indie Hacker，目前在做 [AlgoCasts](https://algocasts.io/)，专注于制作算法教学视频。在此之前我分别在豌豆荚担任后端工程师以及在 GrowingIO 担任后端技术负责人，同时是个 [Scala](https://www.scala-lang.org/) 选手，[Akka](https://akka.io/) 贡献者，北京 Scala Meetup 组织者，[Reactive Design Pattern](https://item.jd.com/12518824.html) 译者。
+
+代表文章：《[不上班的 613 天](https://hawstein.com/2020/02/17/be-an-indie-hacker-for-613-days/)》
+
 ### 完美的胖达
 
 - 博客地址：<https://wmdpd.com/>
@@ -927,6 +1044,7 @@ wordpress博文内容主要分为以下几大类型：
 
 - 博客地址：<https://blog.t9t.io/>
 
+代表文章：《[一个付费 chrome 插件的一生](https://blog.t9t.io/star-history-2021-01-21/)》
 
 ### 王建硕
 
@@ -954,7 +1072,29 @@ wordpress博文内容主要分为以下几大类型：
 
 - 大猫的无限游戏：<https://bigc.at/>
 
+### 余弦
 
+- 博客地址：<https://evilcos.me/>
+
+网络安全大佬。真正的黑客至少需要具备两大能力：0day 挖掘能力与黑客工程化能力，这是我永恒的追求。
+
+### 赵劼
+
+- 老赵点滴 - 追求编程之美：<http://blog.zhaojie.me/>
+
+赵劼，网名老赵，洋名Jeffrey Zhao，花名赵姐夫，金融行业程序员，目前就职于摩根大通（香港）。多年微软MVP，InfoQ中文站兼职编辑。虽然广泛涉猎各类技术，但早就被人民群众贴上“微软”标签，现已认命。
+
+经过多年寻觅起伏，目前已打算潜心在金融行业发展。关注前沿技术，热爱开源。对函数式编程，并行程序开发，语言设计与实现，代码之美以及程序员能力与修养等相关问题也有着浓厚的兴趣，非常希望能够写程序到60岁。热爱生活，在技术之余也时常健身做饭弹钢琴，立志为彰显码农正面形象做出贡献。
+
+希望可以给初学者以合适引导。坚定的北大青鸟反对者，强烈愤慨恶劣的培训机构对于处于懵懂期的初学者以误导，强烈抵制各种虚假广告给业界带来的不良影响，强烈建议有理想有抱负的从业青年放弃北大青鸟，不要做冤大头。
+
+### 透明思考
+
+- 博客地址：http://gigix.thoughtworkers.org/
+
+### the5fire
+
+- 博客地址：https://www.the5fire.com/
 
 ## 十、小而美的博客
 
@@ -1212,18 +1352,7 @@ Product Manager @ByteDance 南京大学 2016 级本科生
 
 职业：AI界的小学生，逆向分析工程师，非专业APP开发者。爱好：台球。喜欢：美女、丝袜、高跟鞋。毕业学校：山东大学。所修专业：信息安全。
 
-
-
-## 其它链接
-
-- 独立博客&播客全订阅计划：https://box.othing.xyz/
-
-- rss-sub-list：https://github.com/saveweb/rss-list
-
-- 中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
-
-
-## yuhua.HK
+### yuhua.HK
 
 - 博客地址：<http://yuhua.hk/>
 
@@ -1238,3 +1367,18 @@ Product Manager @ByteDance 南京大学 2016 级本科生
 爱摄影，爱网络，爱生活。
 
 座右铭：简单，真实，自由。
+
+
+## 其它链接
+
+- 独立博客&播客全订阅计划：https://box.othing.xyz/
+
+- rss-sub-list：https://github.com/saveweb/rss-list
+
+- 中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
+
+- 技术文：<https://www.jishuwen.com/>
+
+- [博主们的2021年终总结](https://saveweb.othing.xyz/blog/2022/01/21/review-2021/)
+
+- [博客集-ZDZN](https://www.zdzn.net/page/blog.html)
