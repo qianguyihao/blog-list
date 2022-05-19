@@ -892,13 +892,6 @@ wordpress博文内容主要分为以下几大类型：
 
 - 博客地址：<https://blog.t9t.io/>
 
-### 徐宥
-
-- 4G Spaces：<https://blog.youxu.info/>
-
-[创业](https://www.ai.codes/)中。之前在 Fitbit (领导机器学习团队) 和 Google (广告和无人驾驶) 干活。华盛顿大学人工智能博士，南京大学数学学士。
-
-这个中文博客是博主的思考记录，主要用来帮助博主 debug/refactor 的思想，但本人不对任何因为阅读造成的后果负责。
 
 ### 王建硕
 
