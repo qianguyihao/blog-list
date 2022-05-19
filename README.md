@@ -4,7 +4,7 @@
 
 ## 前言
 
-已收录博客数量：149 个博客站点。
+已收录博客数量：153 个博客站点。
 
 ### 收录条件
 
@@ -632,6 +632,12 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 
 - Yachen's Blog：<https://yach.me/>
 
+### 林小沐
+
+- 木木木木木：<https://immmmm.com/>
+
+
+
 ### XDash 范冰
 
 - XDash Weblog：http://xdash.one/
@@ -685,11 +691,7 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 - 2015年 – 2018年 币信 产品 Co-Founder
 - 2015年 字节跳动 资深产品经理
 
-### 南百城
 
-- 南百城的数字花园：https://publish.obsidian.md/cbyd
-
-[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao)的作者。
 
 ### 土木坛子
 
@@ -736,6 +738,12 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 ### 世说新语
 
 - 博客地址：https://www.wangyurui.top
+
+### 南百城
+
+- 南百城的数字花园：<https://publish.obsidian.md/cbyd>
+
+[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao)的作者。
 
 ### 掘墓人的小铲子
 
@@ -809,8 +817,118 @@ wordpress博文内容主要分为以下几大类型：
 - Telegram频道 | 小破不入渠：https://t.me/forwardlikehell
 
 
-## 九、小而美的博客
+## 九、昔日重温
 
+> 很久未更新，但内容值得一看。
+
+### 雷军
+
+博客地址：
+
+- <http://leijun.blog.techweb.com.cn/>
+- 新浪博客：<http://blog.sina.com.cn/leijun>
+
+
+
+
+### Fenng 冯大辉
+
+- 博客地址：<https://dbanotes.net/>
+
+### MacTalk 池建强
+
+- 博客地址：<http://macshuo.com/>
+
+### Willerce Zenn
+
+- 博客地址：<http://www.zhengjiale.com/>
+
+代表文章：
+
+- 《[GSeeker停止更新](http://www.zhengjiale.com/post/20/)》
+
+[GSeeker](http://www.gseeker.com/)是一个专门专注[Google](http://willerce.cn/tag/google/)和互联网新闻的博客，前身是幻灭的麦克风，2006年8月份改名了GSeeker并继续由原作者[Ken Wong](http://www.kenwong.cn/)继续编辑！在GSeeker里面可以了解到很多Google的应用技巧及最新的Google有趣的东西。
+
+但在08年的这个端午节,Ken Wong在GSeeker上宣布GSeeker将停止更新。
+
+### 望月的博客
+
+- 博客地址：<https://wangyue.blog/>
+
+关于互联网和科技的IT评论博客。
+
+### 余果
+
+- 余果的博客：<https://yuguo.us/>
+
+2010年到2019年在腾讯ISUX，负责过QQ音乐、QQ空间、腾讯微云的产品设计。2019年从腾讯离职，加入了一家房产行业领先的产业互联网公司“房极客”，担任产品设计总监。
+
+### 完美的胖达
+
+- 博客地址：<https://wmdpd.com/>
+
+一个行道者记录自己践行道路及思考的地方。
+
+### 张炎泼 Zhang Yanpo
+
+- 博客地址：<https://drmingdrmer.github.io/>
+
+代表文章：
+
+- 《[软件工程是个面包机]( https://drmingdrmer.github.io/tech/bla/2018/09/27/toaster.html)》
+
+### PiEgg
+
+- 博客地址：<https://molunerfinn.com/>
+- [RSS订阅](https://molunerfinn.com/atom.xml)
+
+腾讯微信部门前端开发。
+
+相关链接：
+
+- 图床工具 PicGo：<https://github.com/Molunerfinn/PicGo>
+
+### 透明创业实验
+
+- 博客地址：<https://blog.t9t.io/>
+
+### 徐宥
+
+- 4G Spaces：<https://blog.youxu.info/>
+
+[创业](https://www.ai.codes/)中。之前在 Fitbit (领导机器学习团队) 和 Google (广告和无人驾驶) 干活。华盛顿大学人工智能博士，南京大学数学学士。
+
+这个中文博客是博主的思考记录，主要用来帮助博主 debug/refactor 的思想，但本人不对任何因为阅读造成的后果负责。
+
+### 王建硕
+
+- 中文博客地址：<http://home.wangjianshuo.com/cn/>
+
+百姓网创始人。从2003年开始写博客。
+
+### 徐宥
+
+- 4G Spaces：<https://blog.youxu.info/>
+
+- [RSS订阅](https://blog.youxu.info/feed.xml)
+
+[创业中](https://www.ai.codes/)。之前在 Fitbit (领导机器学习团队) 和 Google (广告和无人驾驶) 干活。华盛顿大学人工智能博士，南京大学数学学士。
+
+这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。
+
+### 霍炬
+
+- 博客地址：<https://jhuo.ca/>
+
+- [RSS订阅](https://feeds2.feedburner.com/virushuo)
+
+### 大猫
+
+- 大猫的无限游戏：<https://bigc.at/>
+
+
+
+## 十、小而美的博客
 
 
 ### yonniye
@@ -890,6 +1008,10 @@ wordpress博文内容主要分为以下几大类型：
 
 - 博客地址：https://p0werdown.com/
 
+### Bambooom
+
+- 博客地址：<https://zhuzi.dev/>
+
 ### lupeng
 
 - 博客地址：https://iamlupeng.com/
@@ -920,9 +1042,7 @@ wordpress博文内容主要分为以下几大类型：
 
 - GitHub：https://github.com/MuYunyun
 
-### 林小沐
 
-- 木木木木木：https://immmmm.com/
 
 ### 郝杰东
 
@@ -1006,9 +1126,11 @@ Product Manager @ByteDance 南京大学 2016 级本科生
 
 - [RSS订阅](https://s5s5.me/feed)
 
-曾就职于 Tencent Cloud ，岗位产品体验设计师，主要从事体验方面工作。平时喜欢阅读，也写点博客。
+作者在腾讯待了14年，于2021年底离职。曾就职于 Tencent Cloud ，岗位产品体验设计师，主要从事体验方面工作。平时喜欢阅读，也写点博客。
 
 本站是指 [米随随]s5s5(s5s5.me) ，网站于2003年开始创建，2005年申请 misuisui.com 域名。03至05年以网摘、技术笔记为主，05至07年内容由IT评论、生活琐事、技术笔记为主，07年后主要以技术笔记、网摘为主。建设本站的目的一开始只是看别人有所以我也要有的想法，结果发现Web开发这一领域非常有好玩且很有成就感，所以后来就业也从事这一领域工作。成为职业IT业者后，在工作中又更加深入的理解了Web，所以就更加希望通过Web技术来改善人类生活，以实现我的个人价值所在。
+
+代表文章：《[小程序是不是应该淘汰了？](https://s5s5.me/4024)》
 
 ### 郑昊天
 
@@ -1056,98 +1178,12 @@ Product Manager @ByteDance 南京大学 2016 级本科生
 
 给自己看的文章，关于生活、技术和远方
 
-## 十、昔日重温
+### obaby
 
-> 很久未更新，但内容值得一看。
+- 博客地址：<http://h4ck.org.cn/>
 
+职业：AI界的小学生，逆向分析工程师，非专业APP开发者。爱好：台球。喜欢：美女、丝袜、高跟鞋。毕业学校：山东大学。所修专业：信息安全。
 
-
-### 雷军
-
-博客地址：
-
-- http://leijun.blog.techweb.com.cn/
-- 新浪博客：http://blog.sina.com.cn/leijun
-
-### Fenng 冯大辉
-
-- 博客地址：https://dbanotes.net/
-
-### MacTalk 池建强
-
-- 博客地址：http://macshuo.com/
-
-### 望月的博客
-
-- 博客地址：https://wangyue.blog/
-
-关于互联网和科技的IT评论博客。
-
-### 余果
-
-- 余果的博客：https://yuguo.us/
-
-2010年到2019年在腾讯ISUX，负责过QQ音乐、QQ空间、腾讯微云的产品设计。2019年从腾讯离职，加入了一家房产行业领先的产业互联网公司“房极客”，担任产品设计总监。
-
-### 完美的胖达
-
-- 博客地址：https://wmdpd.com/
-
-一个行道者记录自己践行道路及思考的地方。
-
-### 张炎泼 Zhang Yanpo
-
-- 博客地址：https://drmingdrmer.github.io/
-
-代表文章：
-
-- 《[软件工程是个面包机]( https://drmingdrmer.github.io/tech/bla/2018/09/27/toaster.html)》
-
-### PiEgg
-
-- 博客地址：https://molunerfinn.com/
-- [RSS订阅](https://molunerfinn.com/atom.xml)
-
-腾讯微信部门前端开发。
-
-相关链接：
-
-- 图床工具 PicGo：https://github.com/Molunerfinn/PicGo
-
-### 透明创业实验
-
-- 博客地址：https://blog.t9t.io/
-
-### 徐宥
-
-- 4G Spaces：https://blog.youxu.info/
-
-[创业](https://www.ai.codes/)中。之前在 Fitbit (领导机器学习团队) 和 Google (广告和无人驾驶) 干活。华盛顿大学人工智能博士，南京大学数学学士。
-
-这个中文博客是博主的思考记录，主要用来帮助博主 debug/refactor 的思想，但本人不对任何因为阅读造成的后果负责。
-
-### 王建硕
-
-- 中文博客地址：http://home.wangjianshuo.com/cn/
-
-百姓网创始人。从2003年开始写博客。
-
-### 徐宥
-
-- 4G Spaces：<https://blog.youxu.info/>
-
-- [RSS订阅](https://blog.youxu.info/feed.xml)
-
-[创业中](https://www.ai.codes/)。之前在 Fitbit (领导机器学习团队) 和 Google (广告和无人驾驶) 干活。华盛顿大学人工智能博士，南京大学数学学士。
-
-这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。
-
-
-### 霍炬
-
-- 博客地址：<https://jhuo.ca/>
-
-- [RSS订阅](https://feeds2.feedburner.com/virushuo)
 
 
 ## 其它链接
