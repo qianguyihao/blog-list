@@ -1,13 +1,11 @@
 # 中文博客琅琊榜
 
-中文博客琅琊榜，只收录优质的中文独立博客。全网最精品。
 
 ## 前言
 
-已收录博客数量：153 个博客站点。
+中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：156 个博客站点。
 
 ### 收录条件
-
 
 收录条件：持续更新、高质量、阅读体验良好、最好提供RSS订阅链接。
 
@@ -63,6 +61,17 @@
 - 博客地址：<https://haohailong.net/>
 
 《林中来信》出品人，长期从事出国考试培训和咨询业务。
+
+### 李如一
+
+- 一天世界：<https://blog.yitianshijie.net/>
+
+- Apple4us（不再更新）：<https://apple4us.com/>
+
+《一天世界》《滅茶苦茶》《無次元》作者；IPN（播客网络）创始人；唐茶（字节社）创始人。
+
+代表文章：《[李如一 | 论推荐之难](https://apple4us.com/2012/recommendation-is-hard)》《[李如一在《好奇心日報》（Qdaily.com）文章列表](https://apple4us.com/2014/lawrence-articles-for-qdaily)》
+
 
 ## 二、笔耕不辍
 
@@ -283,6 +292,16 @@ Lenciel，大部分人不知道怎么读。 06 年毕业之后，我上过几年
 一个可爱的人，一个纯粹的人，一个没有脱离低级趣味的人。
 
 作品：RSSHub、RSSHub Radar、DPlayer、APlayer。
+
+### lucida
+
+- 博客地址：<https://blog.lucida.me/>
+
+lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有十余篇文章。2021 年的年底，我打算重新写点东西。
+
+代表文章：《[Sublime Text 全程指引 by Lucida](https://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html)》《[我的算法学习之路](https://blog.lucida.me/blog/on-learning-algorithms/)》《[程序员必读书单 1.0 — 六年后的回顾](https://blog.lucida.me/blog/developer-reading-list-retro/)》
+
+
 
 ### zhaoolee
 
@@ -838,6 +857,12 @@ wordpress博文内容主要分为以下几大类型：
 - <http://leijun.blog.techweb.com.cn/>
 - 新浪博客：<http://blog.sina.com.cn/leijun>
 
+
+### 刘未鹏
+
+- 博客地址：<http://mindhacks.cn/>
+
+《暗时间》一书的作者。南京大学计算机系硕士毕业，现就职于微软亚洲研究院创新工程中心。兴趣爱好：计算机科学，人工智能，认知科学。著名综合技术讨论组Toplanguage创始人。
 
 
 
