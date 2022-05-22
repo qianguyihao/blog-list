@@ -3,7 +3,7 @@
 
 ## 前言
 
-中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：175 个博客站点。
+中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：202 个博客站点。
 
 ### 收录条件
 
@@ -239,8 +239,6 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 
 bang，88年生于广东陆丰，毕业于华南师范大学，程序员，喜欢做东西。
 
-###
-
 ### 小胡子哥（李靖）
 
 - 博客地址：https://www.barretlee.com/
@@ -271,10 +269,6 @@ houghtWorks 高级咨询师；工程师 / 咨询师 / 作家 / 设计学徒；�
 
 出版有《前端架构：从入门到微前端》《自己动手设计物联网》《全栈应用开发：精益实践》。
 
-
-
-
-
 ### Weichen
 
 - 博客地址：https://weichen.blog/
@@ -301,29 +295,15 @@ houghtWorks 高级咨询师；工程师 / 咨询师 / 作家 / 设计学徒；�
 
 做这个博客的原因是我喜欢写作和思考，我希望把我的思考和经验分享给所有人。
 
-### Yu Zhang 张宇
+### 代码家
 
-- Pseudoyu：<https://www.pseudoyu.com/>
+- 博客地址：https://daimajia.com/
 
-区块链开发工程师，香港大学计算机系硕士（ECIC, Electronic Commerce and Internet Computing）。喜欢探索新技术，空闲时也折腾 Logseq、Notion 等效率工具。
+创办了[掘金](http://juejin.im/)（2014-2016），在 [峰瑞资本](http://freesvc.com/) 深造过（2016-2019），目前在 [真格基金](http://zhenfund.com/)（2019-至今）。
 
-希望不断学习，不断成长。现阶段的目标是能够在忙碌的闲隙里不断思考，多阅读写作。
+热爱二级市场交易（股票+数字货币），看完后浪之后决定体验 up 主生活，实盘自己美股部分的交易记录在 B 站。时间感觉越过越快，优势好像越来越少，风险意识越来越强，生活责任越来越重。希望能永远年轻，永远热血澎湃。
 
-代表文章：
 
-- 《[个人工具箱（2022 年 5 月）](https://www.pseudoyu.com/zh/2022/05/08/personal_tools_in_2022_may/)》
-
-- [《免费的个人博客系统搭建及部署解决方案（Hugo + GitHub Pages + Cusdis）》](https://www.pseudoyu.com/zh/2022/03/24/free_blog_deploy_using_hugo_and_cusdis/)
-
-- [《BitXHub 跨链插件（Fabric）源码解读》](https://www.pseudoyu.com/zh/2021/09/09/blockchain_crosschain_bitxhub/)
-
-### 黄磊
-
-- 石头落地前：https://levitating.blog/
-
-- 英文博客：https://leihuang.io/
-
-现居上海的数字游民。
 
 ### GeekPlux
 
@@ -363,8 +343,6 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 代表文章：《[Sublime Text 全程指引 by Lucida](https://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html)》《[我的算法学习之路](https://blog.lucida.me/blog/on-learning-algorithms/)》《[程序员必读书单 1.0 — 六年后的回顾](https://blog.lucida.me/blog/developer-reading-list-retro/)》
 
-
-
 ### zhaoolee
 
 一个热衷开源事业的程序员
@@ -390,7 +368,25 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 - 博客地址：https://blog.douchi.space
 
-女，现居美国湾区粗糙码农，家有俩猫。
+女，现居美国湾区粗糙码农，家有俩猫。电影、电子产品爱好者。喜欢就买，不行就分，多喝热水，重启电脑。
+
+### Timothy
+
+- 博客地址：https://xiaozhou.net/
+
+四川人也，较慵懒，质平庸，从业于IT民工之流，业未优亦不后；嗜零食，懒运动，喜CS,WOW,Coding,待人和善而喜交友。喜折腾，好DIY。VPS、Linux、机械键盘，均在折腾之列，获 “不折腾不舒服斯基” 之殊荣。
+
+微博标签：代码民工、苦逼程序员、果粉 A developer, a geek, an Ubuntu fans, a BBer, a christian and a father。微软.NET技术重度使用者，曾获MS MVP Visual C++ 2006,2007,2008,2009 称号。
+
+（从2004年开始写博客，到现在积累了500多篇）
+
+### 黄磊
+
+- 石头落地前：https://levitating.blog/
+
+- 英文博客：https://leihuang.io/
+
+前端开发者，现居上海的数字游民。
 
 ### 技术生活分享
 
@@ -474,7 +470,21 @@ Tinyfool，真名郝培强。1979年生人，自由职业（自媒体），资�
 
 - 博客地址：https://blog.est.im/
 
+### wzyboy
 
+- 博客地址：https://wzyboy.im/
+
+### Mu Lei
+
+- 博客地址：https://nalaginrut.com
+
+Mu Lei，CEO [@lambdachip](https://twitter.com/lambdachip)
+
+### 吕小荣
+
+- 博客地址：https://mednoter.com/
+
+基督教、软件开发者、Ruby-China.org 管理员。曾经是一名医学生；曾经是产品经理。
 
 ## 四、技术博客
 
@@ -537,6 +547,30 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 - 即刻：@[高爷](https://web.okjike.com/u/2c2f3505-ea4f-4b52-982f-6b511dced478)
 
+### Yu Zhang 张宇
+
+- Pseudoyu：<https://www.pseudoyu.com/>
+
+区块链开发工程师，香港大学计算机系硕士（ECIC, Electronic Commerce and Internet Computing）。喜欢探索新技术，空闲时也折腾 Logseq、Notion 等效率工具。
+
+希望不断学习，不断成长。现阶段的目标是能够在忙碌的闲隙里不断思考，多阅读写作。
+
+代表文章：
+
+- 《[个人工具箱（2022 年 5 月）](https://www.pseudoyu.com/zh/2022/05/08/personal_tools_in_2022_may/)》
+
+- [《免费的个人博客系统搭建及部署解决方案（Hugo + GitHub Pages + Cusdis）》](https://www.pseudoyu.com/zh/2022/03/24/free_blog_deploy_using_hugo_and_cusdis/)
+
+- [《BitXHub 跨链插件（Fabric）源码解读》](https://www.pseudoyu.com/zh/2021/09/09/blockchain_crosschain_bitxhub/)
+
+### 鸟窝
+
+- 博客地址：https://colobu.com/
+
+2000年毕业于中国科技大学，先后在[清华同方](http://www.thtf.com.cn/)、[Motorola](http://www.motorola.com.cn/home)、[Comcast](http://corporate.comcast.com/)、等公司工作，现在在[微博](http://weibo.com/)做架构和开发工作。极客时间专栏《Go并发编程实战课》作者。
+
+
+
 ### 峰云就她了
 
 - 博客地址：<https://xiaorui.cc/>
@@ -583,6 +617,25 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 - 奇虎 360，前端开发 & 技术团队管理 & 产品负责人，北京，2011.08 ~ 2021.05
 - 百度，前端开发，北京，2008.04 ~ 2011.05
 
+### 欧雷流
+
+- 博客地址：<https://ourai.ws/>
+
+一名从事泛客户端开发的软件工程师。致力于前端标准化、工业化，[让前端开发更加有序且可快速装配](https://ntks.ourai.ws/)，为新型开发方式及协作模式做支撑。拥护去中心化的开放网络（decentralized open web）。除了[编程](https://ourai.ws/topics/coding/)，我还喜欢[写作](https://ourai.ws/posts/)、[思考](https://ourai.ws/topics/ourairyu/)、[旅行](https://ourai.ws/tags/travel/)和[日语](https://ourai.ws/topics/waken/)等。
+
+自成立以来时不时在更新，经历了几个阶段性的重大变革，无论是设计风格、访问速度，还是内容质量、阅读体验都得到了很大提升。
+
+代表文章：《[聊聊中后台前端应用：目录结构划分模式](https://ourai.ws/posts/patterns-of-directory-structure-in-frontend-projects/)》《[聊聊前端 UI 组件：核心概念](https://ourai.ws/posts/the-core-concepts-of-frontend-ui-components/)》
+
+### Jiajun Huang
+
+- Jiajun的编程随想：https://jiajunhuang.com/
+
+`Jiajun Huang`，2016年毕业于软件工程专业。在分布式和高并发方面有一些粗浅的经验。工作上大多使用 `Golang`、`Python` 和 `JavaScript`，业余玩玩 `C语言`、`Rust` 和 `Haskell`，爱折腾，啥事都想搞个清楚，喜欢钻研底层。知其然也想知其所以然。
+
+个人认为把复杂的东西用平易近人的方式描述出来是一种很重要的能力，[这里](https://jiajunhuang.com/tutorial)是我写的一些科普性的系列文章， 更多的文章请访问 [此处](https://jiajunhuang.com/archive)。
+
+
 
 ### 卤蛋实验室
 
@@ -620,6 +673,16 @@ Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心
 
 - 博客地址：https://blog.huoding.com/
 
+### Nic Lin
+
+- 博客地址：https://blog.niclin.tw/
+
+
+
+### 臨池不輟
+
+- 博客地址：https://keelii.com/
+
 
 
 ## 五、创业者&独立开发者的博客
@@ -650,6 +713,16 @@ Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心
 - [One Switch](https://fireball.studio/oneswitch)：2019 年发布，为 macOS 设计的一个快捷开关工具，通过内置二十余个功能开关可以方便地完成诸如「隐藏桌面」、「切换黑暗模式」等操作，至今仍在不断更新；
 - [Moment](https://fireball.studio/moment)：2020 年发布，为 macOS 设计的简洁美观的记录日程与时间进度的工具，目前在维护状态；
 - [PasteNow](https://apps.apple.com/cn/app/id1552536109?mt=12)：2021 年发布，为 macOS 设计开发的剪贴板工具，通过增强系统级剪贴板的体验，让日常使用处理文本或其他各种工作时更高效和便捷，仍在不断开发。
+
+### 61
+
+- 61’s life：https://61.life/
+
+开发作品：‎[谜底时钟](https://apps.apple.com/cn/app/%E8%B0%9C%E5%BA%95%E6%97%B6%E9%92%9F-%E7%9C%8B%E8%A7%81%E6%97%B6%E9%97%B4/id1536358464)、[OffScreen](https://apps.apple.com/cn/app/offscreen-%E8%87%AA%E5%BE%8B%E7%95%AA%E8%8C%84%E9%92%9F-%E4%B8%8D%E5%81%9A%E6%89%8B%E6%9C%BA%E6%8E%A7/id1474340105)、‎方块小子、‎空空相册、谜底黑胶、‎花样文字、‎谜底空白、捷径社区
+
+- [即刻主页](https://jike.city/im61)
+
+
 
 ### 1Byte 江宏
 
@@ -954,6 +1027,14 @@ wordpress博文内容主要分为以下几大类型：
 
 - Telegram频道 | 小破不入渠：https://t.me/forwardlikehell
 
+### huhuhang
+
+- 博客地址：https://huhuhang.com/
+
+文章里经常推荐一些好用的工具。已经撰写了 418 篇文章，累计 456509 字。
+
+家在成都，目前在杭州工作。这个站点由我自己设计，并托管在 [Farbox](https://farbox.org/) 。
+
 
 
 
@@ -1100,6 +1181,20 @@ wordpress博文内容主要分为以下几大类型：
 
 - 博客地址：https://www.the5fire.com/
 
+### 夏永锋
+
+- 博客地址：http://blog.xiayf.cn/
+
+编程技术分享。GitHub主页：https://github.com/youngsterxyf
+
+
+
+### 囧克斯
+
+- 博客地址：https://jiongks.name/
+
+本名 赵锦江，昵称 勾三股四。在傲游 (Maxthon)、淘宝、阿里云上班。写代码是我的专业，前端开发是我的老本行。崇尚简单生活而不失激情，信科学、信W3C。
+
 ## 十、小而美的博客
 
 
@@ -1121,7 +1216,11 @@ wordpress博文内容主要分为以下几大类型：
 - 希望自己记住，亲密关系是要捧着100%的真心呵护的，更何况自己已经辜负过天上的明月光了。
 - 希望自己能坚持记录，言出必行。
 
+### chai2010
 
+- 博客地址：https://chai2010.cn/
+
+Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《Go语言圣经》](https://github.com/golang-china/gopl-zh)翻译者, [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)开源免费图书作者, [《WebAssembly标准入门》](https://github.com/chai2010/awesome-wasm-zh/blob/master/webassembly-primer.md)图书作者。
 
 ### starfury
 
@@ -1371,6 +1470,83 @@ Product Manager @ByteDance 南京大学 2016 级本科生
 爱摄影，爱网络，爱生活。
 
 座右铭：简单，真实，自由。
+
+### ChrAlpha
+
+- ChrAlpha's Blog：https://blog.ichr.me/
+
+### Frytea 宋天伦
+
+- 博客地址：https://blog.frytea.com/
+
+宋天伦，来自新疆石河子。毕业于**霍格沃茨魔法学校**，主修魔药学（Potions）、魔咒课（Charms）、黑魔法防御术（Defence Against the Dark Arts）、变形学（Transfiguration）。我喜欢摄影、阅读、[观影](https://blog.frytea.com/boies.html)、写作、演讲，安静的做事情。我[本科阶段](https://blog.frytea.com/index.php/bachelor.html)读于河南工业大学（2016-2020），空间信息与数字技术专业，主修计算机、地图及相关课程。在这里有一份我的[个人简历](https://home.frytea.com/resume/)，包含我的经历、技能以及主要的开源项目。本科院校距家 3000 多公里、横跨半个中国，一生中[走过的地方](https://blog.frytea.com/index.php/trackmap.html)不多，但我想去到更多的地方。
+
+一句话概括：爱自由，喜欢安静地做事情，好强，热爱奉献。
+
+我的原则：我只管做好自己的事情，吹牛这样的事情，留给别人去做吧。
+
+
+
+### Panda Home
+
+- 博客地址：https://old-panda.com/
+
+某公司搬砖码工，目前居于旧金山湾区，喜欢熊猫 ，喜欢逛各种有熊猫的动物园。
+
+
+### 小明明
+
+- 博客地址：https://www.dongwm.com/
+
+### Joe's Blog
+
+- 博客地址：https://hijiangtao.github.io/
+
+### 谢乾坤 | Kingname
+
+- 博客地址：https://www.kingname.info/
+
+NewsBreak | 高级研发工程师。
+
+### 遥远的街市
+
+- 博客地址：https://blog.henix.info/
+
+henix ，程序员，现居深圳。关注开放互联网，追求代码之美。日本漫画爱好者，[CLAMP](https://clamp-net.com/) 老师粉丝。
+
+### 音视频开发进阶
+
+- 博客地址：https://glumes.com/
+
+多媒体开发工程师，目前就职于抖音，从事音视频 SDK 开发工作。博客主要是记录在软件开发、音视频、图像渲染方面的积累，也会分享一些日常生活中有趣的事情。
+
+### 木匣子
+
+- 博客地址：https://blog.mutoo.im/
+
+代表文章：《[中文博客的字体选型 | 木匣子](https://blog.mutoo.im/2020/02/fonts-for-my-blog-theme/)》
+
+### Wenzi
+
+- 博客地址：https://www.xiabingbao.com/
+
+2013年毕业于[中北大学](http://www.nuc.edu.cn/)的软件工程专业，成绩还算不错，而且在学校的ACM实验室锻炼了很长的时间，熟悉常用的算法；也经常鼓捣些小东西，虽然没用到实际中，不过也提高了自己的编程能力，逐渐地喜欢上了前端开发，喜欢javascript+css做出的页面特效，喜欢HTML5+CSS3的新技术。从一开始，就选择了做前端开发，因为觉得前端开发更贴近用户，能够倾听用户的声音，更好玩，更有意思，美的更直观。我们总是在尝试最新的技术，尝试更炫的效果，希望更能优化用户的体验效果。
+
+凭着实习的基础，毕业后，去了一家公司做前端开发工程师。在这里，跟前辈学到很多的东西，代码写的比较标准，学习的比较系统，也少走弯路。前端的道路上打下了坚实的基础。后来因为个人的原因，加入到了更有发展的前端开发团队，希望在这里学习到更多的知识，不管是工作上还是生活上。
+
+### 张戈博客
+
+- 博客地址：https://zhang.ge/
+
+博主名叫张戈，英文名 Jager，目前是一名 Linux 运维工程师，曾经是一个狂热的 Cfan，俗称电脑发烧友。自大二买了第一台本本后就进入了电脑的折腾史，经常穿梭于学校各栋宿舍之间，为少男少女们解决系统故障。此举未给我带来一毛钱收入，却收获了丰富的经验、结交了不少朋友，当然，也认识了我的另一半。博客虽然以 IT 运维为主题，但绝非如 51CTO 一类的专业型技术博客。张戈博客更倾向于以分享为目的 IT 综合类的博客。绝不会拘泥于形式，只要有好的内容，博主都会拿来丰富之。
+
+### 江边的旱鸭子
+
+- 博客地址：https://blog.joouis.com/
+
+我喜欢很酷的新技术、音乐，尤其是爵士标准和爵士嘻哈、吉他、曼联和 VIM。喜欢嵌入式系统的东西，初中时曾获得湖北省无线电制作大赛一等奖和山东赛区全国大学生电子设计大赛一等奖，并在成大获得电子工程硕士学位。
+
+但是在我加入阿里 YunOS 之后，我被要求拥抱变化（这是阿里巴巴最重要的文化之一）成为一名 F2E 开发人员……因此我目前专注于 Web 前端工程师，在微软机器学习平台工作. 在此之前，我在阿里巴巴工作了 2 年多，为卖家部分开发了 Lazada 电子商务平台，从 PC web 到移动 H5/Hybrid 应用程序和 YunOS IDE 以及跨流行 PC 平台的相关工具。
 
 
 ## 其它链接
