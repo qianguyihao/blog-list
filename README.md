@@ -3,7 +3,7 @@
 
 ## 前言
 
-中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：202 个博客站点。
+中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：213 个博客站点。
 
 ### 收录条件
 
@@ -633,11 +633,15 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 个人认为把复杂的东西用平易近人的方式描述出来是一种很重要的能力，[这里](https://jiajunhuang.com/tutorial)是我写的一些科普性的系列文章， 更多的文章请访问 [此处](https://jiajunhuang.com/archive)。
 
-
-
 ### 卤蛋实验室
 
 - 博客地址：https://skychx.com/
+
+### 王大白
+
+- 博客地址：<https://yeee.wang/>
+
+阿里前端开发工程师。代表文章：《[这一年我的对组件的思考](https://yeee.wang/posts/eb1e.html)》《[Vite + React 组件开发实践](https://yeee.wang/posts/cb8c.html)》
 
 ### codedump的网络日志
 
@@ -1608,6 +1612,12 @@ henix ，程序员，现居深圳。关注开放互联网，追求代码之美�
 
 人生目标是“读万卷书，行万里路”。兴趣是收集信用卡，喜欢互联网和电子产品。读万卷书，才能学习到智慧，提升眼界和格局。已打卡记录如下： <https://www.colinjiang.com/books>
 
+
+### GVenusLeo
+
+- 应许之地：<https://promiseland.top/>
+
+已成年的 00 后，老家贵州，现在北京。想成为独立开发者的在读医学生。活跃在即刻：[GVenusLeo](https://web.okjike.com/u/561f7160-d58c-4156-ab66-a103c9955e52)。了解我的更多信息：[Yellow Page](https://jike.city/gvenusleo)
 
 ## 其它链接
 
