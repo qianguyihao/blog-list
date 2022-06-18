@@ -429,6 +429,12 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 代表文章：《[新加坡驾照转换指北 | iTimothy](https://xiaozhou.net/life-in-sg-driving-driving-license-conversion-2022-05-15.html)》
 
+### 天空的代码世界
+
+- 博客地址：<https://github.tiankonguse.com/>
+
+tiankonguse, 一个安静的程序员。来自河南, 现居深圳。大学四年 acmer，最高获得亚洲区银牌。2014年7月本科毕业工作。目前就职于腾讯视频公司，从事后台开发。
+
 ### 黄磊
 
 - 石头落地前：https://levitating.blog/
