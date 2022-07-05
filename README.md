@@ -1866,6 +1866,19 @@ oldj（老杰），男，80 后中年人，住在杭州。毕业于中科大统�
 - APELOVE BLOG：<https://apelove.top/>
 
 
+### zgq354 邹国清
+
+- 博客地址：https://blog.izgq.net
+
+毕业于华南师范大学。关注 Web 开发与在线教育领域。
+
+项目 & 作品：
+
+- 面向计算机自学爱好者的：[0xFFFF 社区](https://0xffff.one/)、
+
+- 微博转换 RSS 订阅源：[weibo-rss](https://rssfeed.today/weibo/)、
+
+- 试图帮助读者对 Web 领域建立 Overview 的：[Web 开发入门指南](https://www.yuque.com/0xffff.one/cs-learning/web-development)
 
 ## 其它链接
 
