@@ -932,6 +932,20 @@ Wannz，94年生于甘肃兰州，在2014年初正式开始了我的互联网工
 
 一名在北京的设计师。大部分空闲时间都花在研究网页设计技术上。现在，我正在研究如何将人工智能与设计更好地结合起来。
 
+### Hubo
+
+- 博客地址：https://achgdesign.com/
+
+目前就职于悦刻(Relx)，是一名UX Designer，担任悦刻(Relx)国际化产品设计负责人。
+
+AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地方，也是我们互相交流的窗口。我希望把所见所闻及思考分享给你，分享给每一位设计师。
+
+作者其它主页链接：
+
+- 语雀：https://www.yuque.com/u266165
+- pinterest：https://www.pinterest.com/achg111
+- twitter：https://twitter.com/Achgdesigner
+
 ### Issei
 
 - 觉论：https://blog.ryouissei.com/
