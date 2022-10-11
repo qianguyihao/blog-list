@@ -663,10 +663,11 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 查看历史文章不仅能够学到技术，更能了解我的生活，希望你能通过阅读我所写下的这些文章能给自己带来那怕一点点的收获。
 
+### pdai
 
-### qcrao：码农桃花源
+- Java全站知识体系：https://pdai.tech/
 
-- 博客地址：https://www.qcrao.com/
+
 
 ### Jerry Qu 屈光宇
 
@@ -1416,6 +1417,10 @@ Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《
 
 - 博客地址：<https://zhuzi.dev/>
 
+### qcrao：码农桃花源
+
+- 博客地址：https://www.qcrao.com/
+
 ### lupeng
 
 - 博客地址：https://iamlupeng.com/
@@ -1796,7 +1801,9 @@ henix ，程序员，现居深圳。关注开放互联网，追求代码之美�
 
 ### 胡和先
 
-- 青山绿水：https://www.huhexian.com/
+- 胡言胡语：https://husay.cc
+
+一个大学生的个人博客，2018年建立，分享读书与生活。
 
 ### oldj
 
@@ -1884,15 +1891,48 @@ oldj（老杰），男，80 后中年人，住在杭州。毕业于中科大统�
 
 - 博客地址：https://blog.izgq.net
 
-毕业于华南师范大学。关注 Web 开发与在线教育领域。
+毕业于华南师范大学，前 Tencent 前端工程师（关注 Web 开发与在线教育领域），目前在 [MoeGo](https://www.moego.pet/) 工作。业余在维护 [0xFFFF 技术社区](https://0xffff.one/)，关注 CS 核心学习氛围、开源文化的构建。
 
 项目 & 作品：
 
-- 面向计算机自学爱好者的：[0xFFFF 社区](https://0xffff.one/)、
+- 面向计算机自学爱好者的：[0xFFFF 社区](https://0xffff.one/)
 
-- 微博转换 RSS 订阅源：[weibo-rss](https://rssfeed.today/weibo/)、
+- 微博转换 RSS 订阅源：[weibo-rss](https://rssfeed.today/weibo/)
 
 - 试图帮助读者对 Web 领域建立 Overview 的：[Web 开发入门指南](https://www.yuque.com/0xffff.one/cs-learning/web-development)
+
+### 金吉
+
+
+- 博客地址：https://jinjipang.com/
+
+本科毕业于中国农业大学动物医学院，目前在爱荷华州立大学读博士，从事一些微生物、统计相关的研究。
+
+我的爱好有很多，大致可分为艺术，运动和学习。
+
+我承认自己性格是有些偏执的，想做的事情基本都会去做。从初中开始自己买一切物品，到上大学后的每一个决策，都是我自己决定的。用家乡话形容，这是个“特别有主意的人”。内心柔软，读书、看电影、电视剧，或是听音乐，常常泪流。内心坚硬，对于我不想管的人或事，非常冷淡。
+
+再说个缺（优）点吧，我非常注重个人形象，有轻度强迫症，不论是自己，还是家里，我都很讨厌邋遢、不修边幅。
+
+### owenyoung
+
+- 博客地址：https://www.owenyoung.com/
+
+我主要关注技术，读书，摘抄，杂胡和先谈，文章评论，工具分享，工作流，灵感，英文学习，注意力管理，反直觉，深度工作等方面。
+
+我在之前建立了一个个人的公开 [Wiki](https://wiki.owenyoung.com/)和 [Blog](https://blog.owenyoung.com/)，让我养成了记笔记，多写东西的习惯，由于习惯已经养成，所以就不再纠结博客的形式问题了，把个人的笔记，博客所有的产出通通都放在这里，这样让我自己更好维护，更省心，之前需要两个地方来回切换，有点麻烦，博客全部内容托管在这个[Github 的 Repo 里](https://github.com/theowenyoung/blog)。
+
+我更喜欢用明文纯文本记录东西。不喜欢把博客存放到数据库中，这样更有掌控感，更自由，同时也能不被运营商锁定。
+
+### Azhubaby
+
+- Azhubaby Blog：https://blog.azhubaby.com/
+
+写博客是记录自己的成长和思考。爱好文字、动漫、电影，偶尔玩炉石。
+
+
+
+
 
 ## 其它链接
 
