@@ -3,7 +3,7 @@
 
 ## 前言
 
-中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：261 个博客站点。
+中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：267 个博客站点。
 
 ### 收录条件
 
@@ -118,11 +118,7 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 - Twitter：[Camellia Yang 翊瑄](https://twitter.com/Camelliayang)
 
-### 核电站
 
-- 博客地址：https://0792z.blogspot.com/
-
-三流的人做干电池，二流的人做充电电池，一流的人做核电站。
 
 ### 尺宅叟
 
@@ -182,6 +178,12 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 - 熊言熊语：<https://kaopubear.top/>
 
 中科院生物信息学博士，目前人在生物医疗相关行业。生信技能树创始人团队成员、少数派高级作者。
+
+### Ouroboros
+
+- 博客地址：https://utopia.pursuitus.com/
+
+喜欢阅读、人文相关和一切新鲜事物。当前专注于MFA/性别研究/钢琴。
 
 
 ## 三、技术人的思考
@@ -422,6 +424,17 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 - [致那些自嘲码农的苦逼程序员](https://www.raychase.net/707)
 - [我眼中的工程师文化](https://www.raychase.net/1107)
+
+
+### owenyoung
+
+- 博客地址：https://www.owenyoung.com/
+
+我主要关注技术，读书，摘抄，杂胡和先谈，文章评论，工具分享，工作流，灵感，英文学习，注意力管理，反直觉，深度工作等方面。
+
+我在之前建立了一个个人的公开 [Wiki](https://wiki.owenyoung.com/)和 [Blog](https://blog.owenyoung.com/)，让我养成了记笔记，多写东西的习惯，由于习惯已经养成，所以就不再纠结博客的形式问题了，把个人的笔记，博客所有的产出通通都放在这里，这样让我自己更好维护，更省心，之前需要两个地方来回切换，有点麻烦，博客全部内容托管在这个[Github 的 Repo 里](https://github.com/theowenyoung/blog)。
+
+我更喜欢用明文纯文本记录东西。不喜欢把博客存放到数据库中，这样更有掌控感，更自由，同时也能不被运营商锁定。
 
 ### 甜菜欣欣
 
@@ -797,9 +810,17 @@ Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心
 
 代表文章：《[初识网络原理: 从浏览器地址栏输入 URL 到页面渲染之间都经历了什么 | Anran758's blog](https://anran758.github.io/blog/2018/04/06/URL-to-browser/)》《[Flexbox 布局入门 | Anran758's blog](https://anran758.github.io/blog/2020/02/05/css-getting-started-with-flexbox/)》《[Flexbox 布局实际用例 | Anran758's blog](https://anran758.github.io/blog/2020/02/22/flexbox-use-cases/)》《[计算机网络原理笔记 | Anran758's blog](https://anran758.github.io/blog/2021/08/15/note-04741/)》
 
+### 谭新宇
 
+- 博客地址：https://tanxinyu.work/
 
+清华大学软件学院研三在读，Apache IoTDB committer，Talent Plan Community mentor。
 
+### 赵晨阳
+
+- 博客地址：https://zhaochenyang20.github.io/
+
+清华大学2020级本科生，计算机专业；投身人类社会观察运动。
 
 ## 五、创业者&独立开发者的博客
 
@@ -1924,15 +1945,7 @@ oldj（老杰），男，80 后中年人，住在杭州。毕业于中科大统�
 
 再说个缺（优）点吧，我非常注重个人形象，有轻度强迫症，不论是自己，还是家里，我都很讨厌邋遢、不修边幅。
 
-### owenyoung
 
-- 博客地址：https://www.owenyoung.com/
-
-我主要关注技术，读书，摘抄，杂胡和先谈，文章评论，工具分享，工作流，灵感，英文学习，注意力管理，反直觉，深度工作等方面。
-
-我在之前建立了一个个人的公开 [Wiki](https://wiki.owenyoung.com/)和 [Blog](https://blog.owenyoung.com/)，让我养成了记笔记，多写东西的习惯，由于习惯已经养成，所以就不再纠结博客的形式问题了，把个人的笔记，博客所有的产出通通都放在这里，这样让我自己更好维护，更省心，之前需要两个地方来回切换，有点麻烦，博客全部内容托管在这个[Github 的 Repo 里](https://github.com/theowenyoung/blog)。
-
-我更喜欢用明文纯文本记录东西。不喜欢把博客存放到数据库中，这样更有掌控感，更自由，同时也能不被运营商锁定。
 
 ### Azhubaby
 
@@ -2013,6 +2026,22 @@ oldj（老杰），男，80 后中年人，住在杭州。毕业于中科大统�
 
 80后，互联网产品人，互联网金融参与者，伪Blogger，曾倒腾过网页游戏、折腾过电商，探索过社交网络，一直坚信互联网终将改变人们的生活。
 
+### 胡一派
+
+- 博客地址：https://yipai.me/
+
+### 核电站（打不开了）
+
+- 博客地址：https://0792z.blogspot.com/
+
+三流的人做干电池，二流的人做充电电池，一流的人做核电站。
+
+
+### 勇敢一点
+
+- 博客地址：https://wanghuibin0.github.io/
+
+
 ## 其它链接
 
 - 中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
@@ -2022,3 +2051,4 @@ oldj（老杰），男，80 后中年人，住在杭州。毕业于中科大统�
 - 独立博客&播客全订阅计划：https://box.othing.xyz/
 - rss-sub-list：https://github.com/saveweb/rss-list
 - [博主们的2021年终总结](https://saveweb.othing.xyz/blog/2022/01/21/review-2021/)
+
