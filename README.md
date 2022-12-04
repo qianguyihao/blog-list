@@ -252,6 +252,7 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 ### Airing
 
 - Airing的小屋：https://me.ursb.me/
+- Airing Weekly：https://weekly.ursb.me/
 
 95 (后)老鲜肉，目前是腾讯音乐高级前端工程师（毕业2.5年T10）。本科广州大学，主修教育技术学，辅修软件工程，硕士中山大学哲学系♂。爱好动漫、电影、技术、捣鼓一些新奇玩意。
 
@@ -346,7 +347,7 @@ houghtWorks 高级咨询师；工程师 / 咨询师 / 作家 / 设计学徒；�
 
 出版有《前端架构：从入门到微前端》《自己动手设计物联网》《全栈应用开发：精益实践》。
 
-### Weichen
+### 炜晨
 
 - 博客地址：https://weichen.blog/
 
@@ -501,17 +502,15 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 tiankonguse, 一个安静的程序员。来自河南, 现居深圳。大学四年 acmer，最高获得亚洲区银牌。2014年7月本科毕业工作。目前就职于腾讯视频公司，从事后台开发。
 
-### 黄磊
 
-- 石头落地前：https://levitating.blog/
 
-- 英文博客：https://leihuang.io/
+### 大数据最佳实践
 
-前端开发者，现居上海的数字游民。
+- 博客地址：https://bigdata.bihell.com/
 
-### 技术生活分享
+工具利器、最佳实践、全栈技术。
 
-- 博客地址：https://www.bihell.com/
+
 
 ### 明城：无标题文档
 
@@ -544,17 +543,6 @@ tiankonguse, 一个安静的程序员。来自河南, 现居深圳。大学四�
 - 博客地址：<https://www.howie6879.cn/>
 
 从事于游戏风控领域，工作使用Python，业余使用Rust。对后端、云原生、前端开发同样感兴趣。奇文共欣赏，疑义相与析。热爱开源&分享。
-
-### 行走少年郎-程序员充电站
-
-博客地址：
-
-- 程序员充电站：https://itcharge.cn/
-- 不羁阁：https://bujige.net/
-
-### 高行行
-
-- 博客地址：https://gaohanghang.cn/
 
 ### 云游君
 
@@ -962,6 +950,12 @@ Wannz，94年生于甘肃兰州，在2014年初正式开始了我的互联网工
 - 博客地址：https://frangezone.github.io/
 
 毕业于中国地质大学(武汉) CS专业，目前在一家游戏公司做产品策划。日常关注互联网、产品、商业、设计等领域。
+
+### DemoChen
+
+- 你好我是森林：https://demochen.com/
+
+
 
 ### Rethink
 
@@ -1438,6 +1432,20 @@ wordpress博文内容主要分为以下几大类型：
 
 [第四号大桥](https://en.wikipedia.org/wiki/Forth_Bridge)是链接爱丁堡和圣安德鲁斯的一座红色的大桥；它也是苏格兰工业革命的标志。坐火车通过第四号大桥的时候，是我在真正的家乡外唯一会有回家之感情的地方。如今逐渐搬离苏格兰，不知以后和它的缘分几何，那就索性用这不断且永远通往“故乡”的桥来命名写作的一隅之地吧。
 
+### 行走少年郎-程序员充电站
+
+博客地址：
+
+- 不羁阁：https://bujige.net/
+
+- 程序员充电站：https://itcharge.cn/
+
+  
+
+### 高行行
+
+- 博客地址：https://gaohanghang.cn/
+
 ## 十、小而美的博客
 
 
@@ -1484,7 +1492,7 @@ Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《
 
 ### 远飞闲记
 
-- 博客地址：<https://leonhe.cn/>
+- 博客地址：<https://leonhe.cn/>  （打不开了）
 
 创业者、无证程序员、Emacs 党、🎮 游戏开发者、🕹 喜欢折腾各种技术的人。
 
@@ -1500,6 +1508,14 @@ Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《
 那么，我在这个网站上都折腾了哪些东西呢？编程笔记。
 
 常言道，好记性不如烂笔头。平时经常会查询一些编程问题，花很多时间来寻找一个最佳解决方案；如果没将成果记下来，下次遇到同样的问题，又得重新来过。因此，编程笔记很重要！
+
+### 黄磊
+
+- 石头落地前：https://levitating.blog/  （打不开了）
+
+- 英文博客：https://leihuang.io/
+
+前端开发者，现居上海的数字游民。
 
 
 
@@ -1583,12 +1599,6 @@ Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《
 
 一个渺小的大学生，啥都不会，啥都不懂，感觉世界都抛弃了我，但我不会放弃，我要强。
 
-### 程序员的喵
-
-- 博客地址：<https://catcoding.me/>
-
-主要写技术、写作、英语、个人成长相关主题。
-
 ### 烟草的香味
 
 - 博客地址：<https://hujingnb.com/>
@@ -1601,7 +1611,7 @@ Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《
 
 ### 萌面大道 kingcos
 
-- 博客地址：<https://kingcos.me/posts/2022/my_like_1/>
+- 博客地址：https://kingcos.me
 
 iOS 开发者，也是「[绝绝子生成器](https://kingcos.me/jjz/)」的开发者。喜欢让我们生活得更好、更轻松的东西，比如大部分苹果的产品。
 
