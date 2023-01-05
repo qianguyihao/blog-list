@@ -857,6 +857,30 @@ Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心
 
 清华大学2020级本科生，计算机专业；投身人类社会观察运动。
 
+### 谢先斌
+
+- 博客地址：https://www.xiexianbin.cn/
+
+万事开头难，2013年，系统学习了 Java 开发，并进入郑州的一家云计算公司，开始接触 [Linux](https://www.xiexianbin.cn/linux/)、Exsi、[OpenStack](https://www.xiexianbin.cn/openstack/)、Python。参与 Exsi、[OpenStack](https://www.xiexianbin.cn/openstack/) 相关研发工作，那时学习的都是一些最新的技术，为自己未来 5~10 年奠定了技术基础，现在想想实属荣幸。
+
+14 下半年，[Docker](https://www.xiexianbin.cn/docker/) 即将 GA，系统学习了如何使用，给人耳目一新的感觉。
+
+15 年辗转来到了上海，在一家做安全的公司，继续从事云计算相关工作。那时候 [Ceph](https://www.xiexianbin.cn/ceph/) 很火，而以 [OpenStack](https://www.xiexianbin.cn/openstack/) 为代表云计算的需要高可用的存储技术，[Ceph](https://www.xiexianbin.cn/ceph/) 无疑称为了最佳选择。但 [OpenStack](https://www.xiexianbin.cn/openstack/) 对接 [Ceph](https://www.xiexianbin.cn/ceph/) 还不是很成熟，于是在相当长的一段时间内，均是在做 [OpenStack](https://www.xiexianbin.cn/openstack/) 对接 [Ceph](https://www.xiexianbin.cn/ceph/) 的相关开发，涉及到 Cinder、Glance、[libvert](https://www.xiexianbin.cn/kvm/) 等模块，也是在这个时候，对 [OpenStack](https://www.xiexianbin.cn/openstack/) 的各个模块也做了系统的学习。该年底，[Ceph](https://www.xiexianbin.cn/ceph/) 社区上海首次步道，有幸代表公司分享 [OpenStack](https://www.xiexianbin.cn/openstack/) 和 [Ceph](https://www.xiexianbin.cn/ceph/) 集成的各种问题和解决方案。
+
+再后来，参与基于 [OpenStack](https://www.xiexianbin.cn/openstack/) 开发了很对组件（类 [OpenStack](https://www.xiexianbin.cn/openstack/) 组件）做云安全的底层调度平台。多年后在回忆起，当时的很多思想还是很先进的。
+
+17 年开始做监控、[OpenStack](https://www.xiexianbin.cn/openstack/) CI 等，参与了 [OpenStack](https://www.xiexianbin.cn/openstack/) 的升级等工作。有幸对 [Kubernetes](https://www.xiexianbin.cn/kubernetes/) 进行了解。期间，获得了腾讯蓝鲸的开发、运维双认证，开起来自动化运维的新世界。
+
+此时，[OpenStack](https://www.xiexianbin.cn/openstack/) 已经很稳定，基本不需要太多的投入。开始从事云周边的研究，如 [Kubernetes](https://www.xiexianbin.cn/kubernetes/)、CDN、[DPDK](https://www.xiexianbin.cn/dpdk/) 等。
+
+随着计算机，特别是人工智能的发展，算力在部分场景中，由一虚多像多虚一转化，传统的虚拟化和云计算已经不能满足器需求。于是开始研究超算、智算相关的技术。
+
+### TsingChan
+
+- 9ong：http://www.9ong.com/
+
+PHP 方向的开发者，博客内容整理非常多。
+
 ## 五、创业者&独立开发者的博客
 
 ### 王登科
@@ -909,7 +933,37 @@ Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心
 一名生活在上海的前端开发工程师，也是一位独立开发者；创建了[简单简历](https://easycv.cn/), 五分钟打造程序员的金牌简历。 同时作者在教学上有一点天赋，在 2016 年和哥们出过一本书；从18年下半年到现在，在慕课网出品了 **7** 套课程，它们是作者目前的主要收入来源。
 
 
+### 陈梓聪
 
+- 网址：https://www.leoku.top/
+
+（博客网站的主题很漂亮）
+
+**网站介绍**：
+
+我是一名生活在东莞的软件开发者，目前从事前端产品的研发工作。
+
+我热爱设计，无论是在我的作品还是我的生活空间，我都会努力让它们拥有最佳的体验。
+
+我酷爱浏览和探索那些别出心裁的网站，当遇见创意独特的应用时，我会感到如获至宝，然后将它们收藏进我的“藏宝阁”。
+
+一直以来，我都专注于前端技术，并且坚持在做我喜欢的事情：构建令人赏心悦目的产品！
+
+在这里，我会记录我的想法和创意，随便逛逛吧。
+
+**个人介绍**：
+
+你好呀，我叫陈梓聪，很高兴遇见你。在网上，我通常称呼自己为 LeoKu 或者令狐聪。
+
+我是一名追逐创意的应用开发者，对构建美好的事物充满热情。2020 年毕业于软件工程专业后，正式从事前端开发相关的工作，目前正专注于低代码开发平台的研发。
+
+从我读小学后，我就对艺术类的东西颇感兴趣，比如绘画、书法（我小时候最投入的事情就是画手抄报 ◔.̮◔✧）。
+
+在刚进入大学后不久，我就加入了软件系的新媒体组织。在那里，我的日常工作就是负责编辑我们系的公众号文章、设计文章插图、制作活动宣传海报、剪辑视频，这让我接触到了很多设计资源和美学相关的知识。
+
+经过在新媒体组织中长达两年的工作，我发现我审美的能力在不断提高。在网页设计和人机交互这方面，我会有很多自己的创意和想法，并且常常会切身考虑用户的使用感受，这让我开发的网页作品常常受到同学和老师的称赞。渐渐的，我找到了自己的兴趣，我开始利用课余时间去更深入地学习前端技术，尝试实现更复杂的应用。
+
+除了编程，我最大的爱好就是收藏模型手办。饭后时间，我通常会跟同事打乒乓球。
 ## 六、产品经理的博客
 
 ### 见字如面
@@ -1092,6 +1146,10 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 
 - 博客地址：<https://hayami.typlog.io/>
 
+### 樹程Leslie
+
+- 博客地址：https://justgoidea.com/
+
 
 ### 韦海生博客
 
@@ -1172,6 +1230,14 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 ### 彭宏豪
 
 - 博客地址：https://www.penghh.fun/
+
+### MemoryStory
+
+- 博客地址：https://cnxiaobai.com/
+
+软件工具相关。同时还有公开的[网盘](https://file.cnxiaobai.com/)，存放了常用的软件工具。
+
+
 
 ### 吴玉昆
 
@@ -1433,7 +1499,7 @@ wordpress博文内容主要分为以下几大类型：
 
 - 程序员充电站：https://itcharge.cn/
 
-  
+
 
 ### 高行行
 
@@ -2129,6 +2195,14 @@ oldj（老杰），男，80 后中年人，住在杭州。毕业于中科大统�
 - 博客地址：https://seviche.cc/
 
 大学的时候在学工业设计，然后现在在学前端，对 UX/交互设计也有一些了解。
+
+### 频率
+
+- 博客地址：https://pinlyu.com/
+
+爱美食 / 纪录片 / 夜猫子。
+
+
 
 
 ## 其它链接
