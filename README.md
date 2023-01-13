@@ -3,7 +3,7 @@
 
 ## 前言
 
-中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：278 个博客站点。
+中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：286 个博客站点。
 
 ### 收录条件
 
@@ -200,6 +200,12 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 做啥都得讲点技术流。
 
 科学生活系列文章旨在把每一件事情都尽可能做到科学合理、尽可能自动化。自动化是我毕生追求，虽然我读的不是自动化专业，但对于自动化有着难以名状的执念，能减少一个手动步骤都是好的。不过这样一来也一定程度上把我兴趣领域局限在电脑方面，后面应该进一步拓展到生活的方方面面，这样才算是越活越明白。在科学系列文章开始前，首先把这个博客先弄弄好。
+
+### 核电站
+
+- 博客地址：https://hwv430.blogspot.com/
+
+三流的人做干电池，二流的人做充电电池，一流的人做核电站。
 
 ## 三、技术人的思考
 
@@ -478,13 +484,13 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 十几岁开始写博客。技术圈的欧阳娜娜，旅居美国硅谷。生命不息作死不止，探索人生无限可能。女权主义者，希望世界和平。
 
-### 椒盐鸵鸟
+### 椒盐豆豉
 
 - 博客地址：https://blog.douchi.space
 
 女，现居美国湾区粗糙码农，家有俩猫。电影、电子产品爱好者。喜欢就买，不行就分，多喝热水，重启电脑。
 
-### Timothy
+### iTimothy
 
 - 博客地址：https://xiaozhou.net/
 
@@ -602,8 +608,36 @@ Mu Lei，CEO [@lambdachip](https://twitter.com/lambdachip)
 代表文章《[iPotato | 浅谈《开端》在剧作上的瑕疵](https://ipotato.me/article/71)》《[iPotato | 当我反对中医时，我在反对什么？](https://ipotato.me/article/58)》
 
 
+### Pseudoyu
+
+- ：<https://www.pseudoyu.com/>
+
+Yu Zhang 张宇，区块链开发工程师，香港大学计算机系硕士（ECIC, Electronic Commerce and Internet Computing）。喜欢探索新技术，空闲时也折腾 Logseq、Notion 等效率工具。
+
+希望不断学习，不断成长。现阶段的目标是能够在忙碌的闲隙里不断思考，多阅读写作。
+
+代表文章：
+
+- 《[个人工具箱（2022 年 5 月）](https://www.pseudoyu.com/zh/2022/05/08/personal_tools_in_2022_may/)》
+
+- [《免费的个人博客系统搭建及部署解决方案（Hugo + GitHub Pages + Cusdis）》](https://www.pseudoyu.com/zh/2022/03/24/free_blog_deploy_using_hugo_and_cusdis/)
+
+- [《BitXHub 跨链插件（Fabric）源码解读》](https://www.pseudoyu.com/zh/2021/09/09/blockchain_crosschain_bitxhub/)
 
 
+### Images
+
+- 博客地址：https://imageslr.com/
+
+计算机硕士毕业，目前在字节跳动的Ads Infra 团队从事广告系统架构开发 (Golang/C++)；熟悉前端开发；热爱计算机底层理论，希望能成为一名基础架构师；总结，沉淀，分享，精进。
+
+文章和文档写得很有体系，值得学习。
+
+有一些开源作品，比如：
+
+- [Markdown 预览主题](https://github.com/imageslr/mweb-themes)
+
+- [在线借书平台小程序](https://github.com/imageslr/weapp-library)
 
 ## 四、技术博客
 
@@ -671,22 +705,6 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 相关链接：
 
 - 即刻：@[高爷](https://web.okjike.com/u/2c2f3505-ea4f-4b52-982f-6b511dced478)
-
-### Yu Zhang 张宇
-
-- Pseudoyu：<https://www.pseudoyu.com/>
-
-区块链开发工程师，香港大学计算机系硕士（ECIC, Electronic Commerce and Internet Computing）。喜欢探索新技术，空闲时也折腾 Logseq、Notion 等效率工具。
-
-希望不断学习，不断成长。现阶段的目标是能够在忙碌的闲隙里不断思考，多阅读写作。
-
-代表文章：
-
-- 《[个人工具箱（2022 年 5 月）](https://www.pseudoyu.com/zh/2022/05/08/personal_tools_in_2022_may/)》
-
-- [《免费的个人博客系统搭建及部署解决方案（Hugo + GitHub Pages + Cusdis）》](https://www.pseudoyu.com/zh/2022/03/24/free_blog_deploy_using_hugo_and_cusdis/)
-
-- [《BitXHub 跨链插件（Fabric）源码解读》](https://www.pseudoyu.com/zh/2021/09/09/blockchain_crosschain_bitxhub/)
 
 ### 鸟窝
 
@@ -1615,6 +1633,16 @@ Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《
 
 喜骑行、工具控、程序员。
 
+### Vaayne
+
+博客地址：
+
+- https://www.vaayne.com/
+
+- https://www.theboys.tech/
+
+软件开发工程师，现居北京。
+
 ### 一嘉之盐糖
 
 - 博客地址：https://jiapeng.me/
@@ -2177,11 +2205,7 @@ oldj（老杰），男，80 后中年人，住在杭州。毕业于中科大统�
 
 - 博客地址：https://yipai.me/
 
-### 核电站（打不开了）
 
-- 博客地址：https://0792z.blogspot.com/
-
-三流的人做干电池，二流的人做充电电池，一流的人做核电站。
 
 
 ### 勇敢一点
