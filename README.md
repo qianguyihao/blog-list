@@ -82,14 +82,6 @@
 
 ## 二、综合博主
 
-### happy xiao
-
-- 博客地址：https://happyxiao.com
-
-关注的领域很广：流行哲学、数码产品、应用、Apple、阅读、创作视频、播客、blog、打篮球、跑步。
-
-博客、播客、视频、newsletter、twitter均值得关注。
-
 ### PlatyHsu
 
 - 博客地址：https://type.cyhsu.xyz
@@ -100,7 +92,17 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 他的博客网站，名字叫 Neverland，意思是：你永远不要期望从中得到一些有用的东西，但你也不可能永远找不到。
 
+### 评论尸
 
+- 虹线-评论尸的自留地：https://1q43.blog/
+
+公众号“赤潮AKASHIO”，播客“二维吾码”[主理人](https://jike.city/pls)。
+
+代表作：
+
+- 《互联网是人类历史的一段弯路吗？》：5万字，收录于《读库2005》；
+- 《垄断的困境》：6万字，收录于《读库2105》
+- 《互联网与中国后现代性呓语》：8万字，收录于《读库2204》。
 
 
 
@@ -117,6 +119,16 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 - 公众号/播客：理想屯
 
 - Twitter：[Camellia Yang 翊瑄](https://twitter.com/Camelliayang)
+
+
+
+### happy xiao
+
+- 博客地址：https://happyxiao.com
+
+关注的领域很广：流行哲学、数码产品、应用、Apple、阅读、创作视频、播客、blog、打篮球、跑步。
+
+博客、播客、视频、newsletter、twitter均值得关注。
 
 
 
@@ -226,21 +238,6 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 
 我希望这个网站的内容能让 10 年后的我（还有一定的智力，但很多东西都忘了）还有兴趣看，且看能看明白，其他看到这些内容的人也能有所收获，或者品尝到一些乐趣。同时保持足够的更新频率。
 
-
-### 马大伟
-
-- 博客地址：https://www.bmpi.dev/
-
-全栈技术达人，长期关注学习、技术、投资三个领域。
-
-终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）
-
-### yihong0618
-
-- 博客地址：https://github.com/yihong0618
-
-喜爱[游戏](https://www.gcores.com/users/60793)，跑步，[读书](https://github.com/yihong0618/my_kindle_stats)，编程。 项目大多和这些相关。用 GitHub 记录blog 和生活日常。
-
 ### 唐巧
 
 - 博客地址：http://blog.devtang.com/
@@ -248,6 +245,13 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 唐巧，男，80 后，程序员。作为核心员工在 [猿辅导](https://www.yuanfudao.com/) 参与创业。曾作为产品技术负责人孵化了 [小猿搜题](https://www.yuansouti.com/) 和 [小猿口算](https://xiaoyuankousuan.com/)，现在作为负责人在孵化某新业务。
 
 前端、后端、iOS端都有涉及。著有[《iOS 开发进阶》](http://item.jd.com/11598468.html) 一书。曾开发 [网易邮箱](http://mail.163.com/)、网易微博、[有道云笔记](http://note.youdao.com/)、[猿题库](https://www.yuantiku.com/)、[小猿搜题](https://www.yuansouti.com/)。本博客主要的内容包括 iOS 开发技巧、创业感悟、读书心得、产品研究笔记。
+
+### Tw93
+
+- 博客地址：https://tw93.fun/
+- 潮流周刊：https://weekly.tw93.fun/
+
+[MiaoYan](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) / [cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese) 等产品的开发者。
 
 ### 千古壹号
 
@@ -265,6 +269,34 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 目前专注前端领域，包括但不限于 React、Flutter、iOS、Chromium 等。同时其他技术也基本都会一点儿，戳[这里](https://me.ursb.me/index.php/category/works/)可以浏览我学生时代的一些作品~
 
 现在每周都有在写周刊，但本博客不会全量同步周刊内容。若你感兴趣的话，可以访问 [Airing Weekly](https://weekly.ursb.me/) 查看所有周刊。
+
+### Ein Verne
+
+- 博客地址：https://blog.einverne.info/
+
+是一个兴趣广泛的人，其实也就是什么都不会，日常看看电影，书，偶尔写写博客，影评，都非专业，发发自己所思所想[而已](https://blog.einverne.info/about.html)。
+
+著有电子书：《[Markdown 书写风格指南](https://einverne.github.io/markdown-style-guide/zh.html)》《[Gitbook 使用教程](https://einverne.github.io/gitbook-tutorial)》《[Kafka 官方文档中文版](https://einverne.gitbook.io/kafka/)》等。
+
+
+
+### yihong0618
+
+- 博客地址：https://github.com/yihong0618
+
+喜爱[游戏](https://www.gcores.com/users/60793)，跑步，[读书](https://github.com/yihong0618/my_kindle_stats)，编程。 项目大多和这些相关。用 GitHub 记录blog 和生活日常。
+
+
+
+
+### 马大伟
+
+- 博客地址：https://www.bmpi.dev/
+
+全栈技术达人，长期关注学习、技术、投资三个领域。
+
+终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）
+
 
 ### 费照君：五道口乐哥
 
