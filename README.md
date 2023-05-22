@@ -850,7 +850,7 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 ### Jiajun Huang
 
-- Jiajun的编程随想：https://jiajunhuang.com/
+- 博客地址：https://jiajunhuang.com/
 
 `Jiajun Huang`，2016年毕业于软件工程专业。在分布式和高并发方面有一些粗浅的经验。工作上大多使用 `Golang`、`Python` 和 `JavaScript`，业余玩玩 `C语言`、`Rust` 和 `Haskell`，爱折腾，啥事都想搞个清楚，喜欢钻研底层。知其然也想知其所以然。
 
@@ -1524,11 +1524,6 @@ wordpress博文内容主要分为以下几大类型：
 
 热爱互联网行业，热爱产品设计，相信好的产品设计能让这个世界变好。精通产品设计、前端开发、客户端开发、翻译、写作和演讲。《Web全栈工程师的自我修养》一书作者。
 
-### 编程随想
-
-- 博客地址：https://program-think.blogspot.com
-
-涉猎广，内容成体系。互联网上最神秘的人之一。
 
 ### Hawstein
 
@@ -2500,3 +2495,8 @@ Java 后端开发，to B业务，趋于蓝色的性格，喜欢篮球等。
 - rss-sub-list：https://github.com/saveweb/rss-list
 - [博主们的2021年终总结](https://saveweb.othing.xyz/blog/2022/01/21/review-2021/)
 
+### Kevin Blog
+
+- 博客地址：https://blog.kevinzhow.com/
+
+独立开发者。著有书籍《Producter 让产品从 0 到 1》。
