@@ -3,7 +3,7 @@
 
 ## 前言
 
-中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：318 个博客站点。
+中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：322 个博客站点。
 
 ### 收录条件
 
@@ -30,6 +30,12 @@
 - 博客地址：https://coolshell.cn
 
 骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。
+
+### 和菜头：槽边往事
+
+- 博客地址：https://www.hecaitou.com/
+
+在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](https://www.hecaitou.com/2023/05/Reload-blog.html)》
 
 ### 王垠
 
@@ -2506,6 +2512,12 @@ Java 后端开发，to B业务，趋于蓝色的性格，喜欢篮球等。
 
 半路出家，只会Python，从事数据挖掘工作。为了看见更精彩的世界，正在努力学习英语。为了生活不枯燥，即将买相机准备学习摄影。
 
+### Kevin Blog
+
+- 博客地址：https://blog.kevinzhow.com/
+
+独立开发者。著有书籍《Producter 让产品从 0 到 1》。
+
 ## 其它链接
 
 - 中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
@@ -2516,8 +2528,3 @@ Java 后端开发，to B业务，趋于蓝色的性格，喜欢篮球等。
 - rss-sub-list：https://github.com/saveweb/rss-list
 - [博主们的2021年终总结](https://saveweb.othing.xyz/blog/2022/01/21/review-2021/)
 
-### Kevin Blog
-
-- 博客地址：https://blog.kevinzhow.com/
-
-独立开发者。著有书籍《Producter 让产品从 0 到 1》。
