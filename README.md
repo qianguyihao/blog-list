@@ -139,6 +139,11 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 关于本博客的创作宗旨，可参考[这篇文章](https://stephenleng.com/why-we-fight/)。本博客面向的预期读者是全世界能够使用中文的人，包括简体中文和繁體中文（或正體中文），包括母语和非母语。希望它创作的内容能得到普遍性的理解甚至共鸣，而不是局限于一时一地的特殊情况。
 
+### Luyao Zhang
+
+-博客地址：https://zhangluyao.com/
+
+这些年用自己的域名写 blog 的人不多了。其中有一些文章写的真好。尤其是那种深深的有趣感，是[我](https://mp.weixin.qq.com/s/nFnx0iDCSLkAreBtQUD7_g)很久没有感觉到的。
 ### happy xiao
 
 - 博客地址：https://happyxiao.com
