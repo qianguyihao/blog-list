@@ -2199,12 +2199,9 @@ henix ，程序员，现居深圳。关注开放互联网，追求代码之美�
 
 ### 胡和先
 
-- 青山绿水：https://eirms.com/
+- 印记：https://yinji.org
 
-- 胡言乱语：https://blog.huhexian.cn/
--
-
-一个大学生的个人博客，2018年建立，分享读书与生活。2022年以前为 WordPress 博客，之后更换了域名和博客主题。
+一个即将毕业的大学生的个人博客，2018年建立，分享读书、思考与生活。2022年以前为 WordPress 博客，之后更换了域名和博客主题。运营着一个博客相关的 Telegram 频道 [@FindBlog](https://t.me/findblog)，同时也维护着[中文博客圈微信群](https://yinji.org/1829.html)。目前是一名准人力资源从业人员。
 
 ### oldj
 
