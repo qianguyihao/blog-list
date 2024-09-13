@@ -325,7 +325,13 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 
 喜爱[游戏](https://www.gcores.com/users/60793)，跑步，[读书](https://github.com/yihong0618/my_kindle_stats)，编程。 项目大多和这些相关。用 GitHub 记录blog 和生活日常。
 
+### Frost Ming（明希）
 
+- 博客地址：https://frostming.com/
+
+微软 MVP / PyPA 成员 / PDM 作者。
+
+8 年 Python 开发经验，全栈开发者；擅长 Web 开发、CI/CD 自动化领域；爱好开源，维护多个开源项目；PyCon China 讲师。
 
 
 ### 马大伟
@@ -2731,6 +2737,18 @@ BIE别的”与优秀的创作者、品牌、平台开展合作，围绕明确�
 ### 山炮不二
 
 - 博客地址：https://xsinger.me/
+
+### 夏泉的后院
+
+- 博客地址：https://www.hxueh.net/
+
+
+### 涸河
+
+- 博客地址：https://hh.ee/
+
+
+
 
 
 ## 其它链接
