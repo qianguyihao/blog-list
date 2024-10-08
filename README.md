@@ -294,7 +294,7 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 
 ### Airing
 
-- Airing的小屋：https://me.ursb.me/
+- Airing的小屋：https://blog.ursb.me/
 - Airing Weekly：https://weekly.ursb.me/
 
 95 (后)老鲜肉，目前是腾讯音乐高级前端工程师（毕业2.5年T10）。本科广州大学，主修教育技术学，辅修软件工程，硕士中山大学哲学系♂。爱好动漫、电影、技术、捣鼓一些新奇玩意。
