@@ -287,14 +287,14 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 
 ### Airing
 
-- Airing的小屋：https://me.ursb.me/
+- Airing的小屋：https://blog.ursb.me/
 - Airing Weekly：https://weekly.ursb.me/
 
-95 (后)老鲜肉，目前是腾讯音乐高级前端工程师（毕业2.5年T10）。本科广州大学，主修教育技术学，辅修软件工程，硕士中山大学哲学系♂。爱好动漫、电影、技术、捣鼓一些新奇玩意。
+95 (后)老鲜肉，曾任腾讯音乐高级前端工程师（毕业 4 年 T11），目前创业中。本科广州大学，主修教育技术学，辅修软件工程，硕士中山大学哲学系♂。爱好动漫、电影、技术、捣鼓一些新奇玩意。
 
-目前专注前端领域，包括但不限于 React、Flutter、iOS、Chromium 等。同时其他技术也基本都会一点儿，戳[这里](https://me.ursb.me/index.php/category/works/)可以浏览我学生时代的一些作品~
+目前专注前端领域，包括但不限于 React、Flutter、iOS、Chromium 等。同时其他技术也基本都会一点儿，戳[这里](https://blog.ursb.me/index.php/category/works/)可以浏览学生时代的一些作品~
 
-现在每周都有在写周刊，但本博客不会全量同步周刊内容。若你感兴趣的话，可以访问 [Airing Weekly](https://weekly.ursb.me/) 查看所有周刊。
+现在每周都有在写周刊，可以访问 [Airing Weekly](https://weekly.ursb.me/) 查看所有周刊。
 
 ### 千古壹号
 
