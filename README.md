@@ -1550,6 +1550,12 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 
 [城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao)的作者。
 
+### 酷口家数字花园
+
+- 博客地址：https://weqoocu.com/
+
+实践卡片盒笔记法，打造第二大脑。
+
 ### 掘墓人的小铲子
 
 - 博客地址：https://juemuren4449.com
