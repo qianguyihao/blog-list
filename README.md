@@ -247,8 +247,12 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
  博客地址：http://www.gtdstudy.com/post/
 
 
+### 王如飞 Blog
 
+- 网址：https://wangrufei.com
+- 订阅：https://wangrufei.com/feed/
 
+一个生活相关的博客，让记录督促学习和进步。保持简单，减少消费，专注创造。
 
 
 ## 三、技术人的思考
