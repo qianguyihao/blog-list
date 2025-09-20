@@ -2529,7 +2529,9 @@ oldj（老杰），男，80 后中年人，住在杭州。毕业于中科大统�
 
 - 智朋的个人博客：https://coffeelize.top/
 
-
+### 多媒体、游戏设计与我
+小小的我，在这个大大的世界里，创造了一些有趣的小事。
+- 博客地址：https://youxisheji.blogspot.com/
 
 ### Albert
 
