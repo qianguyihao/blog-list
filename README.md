@@ -145,6 +145,12 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 这些年用自己的域名写 blog 的人不多了。其中有一些文章写的真好。尤其是那种深深的有趣感，是[我](https://mp.weixin.qq.com/s/nFnx0iDCSLkAreBtQUD7_g)很久没有感觉到的。
 
+### 辉格
+
+- 海德沙龙：https://headsalon.org/
+
+男，七十年代初生于江南；母语：吴语； 职业：程序员（1993-2007），商业与时事评论（2008至今）。著有书籍《[沐猿而冠](https://book.douban.com/subject/26415165/)》
+
 ### happy xiao
 
 - 博客地址：https://happyxiao.com
