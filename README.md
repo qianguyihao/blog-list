@@ -218,7 +218,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 现在每周都有在写周刊，可以访问 [Airing Weekly](https://weekly.ursb.me/) 查看所有周刊。
 
-
 ### 千古壹号
 
 - 博客地址：https://www.qianguyihao.com/
@@ -240,15 +239,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 - [致那些自嘲码农的苦逼程序员](https://www.raychase.net/707)
 - [我眼中的工程师文化](https://www.raychase.net/1107)
 
-### owenyoung
-
-- 博客地址：https://www.owenyoung.com/
-
-我主要关注技术，读书，摘抄，杂胡和先谈，文章评论，工具分享，工作流，灵感，英文学习，注意力管理，反直觉，深度工作等方面。
-
-我在之前建立了一个个人的公开 [Wiki](https://wiki.owenyoung.com/)和 [Blog](https://blog.owenyoung.com/)，让我养成了记笔记，多写东西的习惯，由于习惯已经养成，所以就不再纠结博客的形式问题了，把个人的笔记，博客所有的产出通通都放在这里，这样让我自己更好维护，更省心，之前需要两个地方来回切换，有点麻烦，博客全部内容托管在这个[Github 的 Repo 里](https://github.com/theowenyoung/blog)。
-
-我更喜欢用明文纯文本记录东西。不喜欢把博客存放到数据库中，这样更有掌控感，更自由，同时也能不被运营商锁定。
 
 ### 卢涛南（Randy）
 
@@ -604,17 +594,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 我和这个博客更像是创作者和作品的关系，作品本身尽管会反映作者的个性，但并不会明目张胆地把自己整个人写满在自己的创作上（就算是畅销书，书页里也只有一句话的作者简介）。所以，关于我是什么样的人，在这里不会多说，如果你感兴趣，我希望你能读一读我写的东西。
 
-### iTimothy
-
-- 博客地址：https://xiaozhou.net/
-
-四川人也，较慵懒，质平庸，从业于IT民工之流，业未优亦不后；嗜零食，懒运动，喜CS,WOW,Coding,待人和善而喜交友。喜折腾，好DIY。VPS、Linux、机械键盘，均在折腾之列，获 “不折腾不舒服斯基” 之殊荣。
-
-微博标签：代码民工、苦逼程序员、果粉 A developer, a geek, an Ubuntu fans, a BBer, a christian and a father。微软.NET技术重度使用者，曾获MS MVP Visual C++ 2006,2007,2008,2009 称号。
-
-（从2004年开始写博客，到现在积累了500多篇）
-
-代表文章：《[新加坡驾照转换指北 | iTimothy](https://xiaozhou.net/life-in-sg-driving-driving-license-conversion-2022-05-15.html)》
 
 
 ### 冬冬
@@ -768,17 +747,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 代表文章：《[写在博客发表文章600篇的节点 | 二丫讲梵](https://wiki.eryajf.net/pages/b4e432/)》
 
-### 老胡的储物柜
-
-- 博客地址：<https://www.howie6879.cn/>
-
-从事于游戏风控领域，工作使用Python，业余使用Rust。对后端、云原生、前端开发同样感兴趣。奇文共欣赏，疑义相与析。热爱开源&分享。
-
-### 天空的代码世界
-
-- 博客地址：<https://github.tiankonguse.com/>
-
-tiankonguse, 一个安静的程序员。来自河南, 现居深圳。大学四年 acmer，最高获得亚洲区银牌。2014年7月本科毕业工作。目前就职于腾讯视频公司，从事后台开发。
 
 ### lenciel
 
@@ -802,6 +770,32 @@ Lenciel，大部分人不知道怎么读。 06 年毕业之后，上过七年班
 
 「切勿以为，在不断拷问自己的内省过程里，得到的那些不快乐里有什么伟大之处。」这话不是我说的，是罗素。
 
+### Ramsay
+
+- 菠萝油与天光墟：https://ramsayleung.github.io/zh/
+
+希望成为个有趣的人, work hard and be nice to people.
+
+是位软件工程师，曾在蚂蚁金服、微信支付做程序员，现在在加拿大；现供职于AWS, 详见[Linkedin](https://www.linkedin.com/in/ramsayleung/)
+
+推崇开源与动手精神，使用 Emacs 与 Linux 多年，喜欢动手折腾。
+
+写过 C++, Java, Rust, Kotlin, Scala, Python, Javascript/Typescript这几种语言的生产代码，目前在[AWS S3](https://aws.amazon.com/s3/) 写Rust和Java养活自己，偶尔用[EmacsLisp](https://github.com/ramsayleung/emacs.d) 为自己的工作流写小工具，喜欢用 Python 做自动化，使用 Ruby on Rails 写 Web
+
+在职业生涯，作为核心开发深度参与开发&设计的产品:
+
+- [微信支付委托代扣](https://pay.weixin.qq.com/doc/v3/merchant/4012161105)
+- Founding Engineer @ [AWS S3 Metadata](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingMetadata.html)
+
+从16年开始在博客上写博文，期间经历过多次迁移。博客还有一个对应的英文版本，名为「In pursuit of Simplicity」，主要是记录一些英文写作与感悟的平台。
+
+关于为什么会有写博客的想法，可以看下我在 2017 年写的博文：[写博客的动机](https://ramsayleung.github.io/zh/post/2017/blog/)
+
+非纯技术文章大多会同步发布到公众号「宫孙说」上。
+
+### Est's Blog
+
+- 博客地址：https://blog.est.im/
 
 ### 马大伟
 
@@ -893,41 +887,6 @@ thoughtworks 高级咨询师；工程师 / 咨询师 / 作家 / 设计学徒；�
 - 温和坚定的自由主义者
 - 骄傲谦逊的理性主义者
 
-### lucida
-
-- 博客地址：<https://blog.lucida.me/>
-
-lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有十余篇文章。2021 年的年底，我打算重新写点东西。
-
-代表文章：《[Sublime Text 全程指引 by Lucida](https://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html)》《[我的算法学习之路](https://blog.lucida.me/blog/on-learning-algorithms/)》《[程序员必读书单 1.0 — 六年后的回顾](https://blog.lucida.me/blog/developer-reading-list-retro/)》
-
-### zhaoolee
-
-一个热衷开源事业的程序员
-
-博客地址：
-
-- 博客首页：<https://zhaoolee.com>
-- V2方圆（发稀缺资源）：https://v2fy.com/
-- 方圆小站（Zhaoolee不聊技术的杂谈站）：https://fangyuanxiaozhan.com/
-
-其他平台：
-
-- GitHub：https://github.com/zhaoolee
-- 公众号：0加1
-
-### 甜菜欣欣
-
-- 博客地址：https://tcxx.info/
-
-十几岁开始写博客。技术圈的欧阳娜娜，旅居美国硅谷。生命不息作死不止，探索人生无限可能。女权主义者，希望世界和平。
-
-### 椒盐豆豉
-
-- 博客地址：https://blog.douchi.space
-
-女，现居美国湾区粗糙码农，家有俩猫。电影、电子产品爱好者。喜欢就买，不行就分，多喝热水，重启电脑。
-
 
 ### 明明如月
 
@@ -941,41 +900,35 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 这个博客，希望能永久储存我在互联网上留下的痕迹。
 
+### Tinyfool
+
+- 博客地址：https://codechina.org/
+
+Tinyfool，真名郝培强。1979年生人，自由职业（自媒体），资深（也就是老的意思）开发者，居住在上海，年老体胖。
+
+### forecho
+
+- 博客地址：<https://blog.forecho.com/>
+
+把生命浪费在美好的事物上。
+
+### 吕小荣
+
+- 博客地址：https://mednoter.com/
+
+基督教、软件开发者、Ruby-China.org 管理员。医学生毕业，做了两年产品经理，后靠编程混口饭吃，如今是个三流程序员。
 
 
-### xxchan
+### 明城
 
-- 博客地址：https://xxchan.me/
+- 无标题文档：https://www.gracecode.com/
 
-喜欢编码，并希望构建一些有趣且有用的东西。代表文章：《[我对各种 AI Coding Agent 工具的看法](https://xxchan.me/ai/2025/06/08/ai-coding.html)》
+八零后、码农、宁波佬，现居杭州。
 
-### 大数据最佳实践
+要知道作为码农取名是件很难的事情，所以不想在取名这事情上太费心思。
 
-- 博客地址：https://bigdata.icu/
+作为八零后，自认为还仅存点点可能不怎么被理解的幽默感，以及对平淡生活的追求和向往。为了避免不必要的麻烦，声明本站所输出的内容以及观点仅代表个人，不代表自己所服务公司或组织的任何立场。
 
-工具利器、最佳实践、全栈技术。
-
-
-
-### 明城：无标题文档
-
-- 博客地址：https://www.gracecode.com/
-
-### 宫孙-自由庄园
-
-- 博客地址：https://ramsayleung.github.io/zh/
-
-曾在蚂蚁金服、微信支付做程序员，现在在加拿大。
-
-### 明远的自留地
-
-- 博客地址：https://mayandev.top/
-
-### 程序员的喵
-
-- 博客地址：<https://catcoding.me/>
-
-工作了十多年，热爱技术，长期参与开源。写作是我的乐趣，我主要写技术、写作、英语、个人成长相关主题。
 
 ### 松烟阁
 
@@ -995,9 +948,9 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 > 希望能成为一个有趣的人。希望能创造出可以成为他人回忆的事物。
 
-目前是国内的一名在读研究生，主修计算机专业，也辅修过动画，但可惜学艺不精。
-业余热衷开源与前端方面，主要包括写各种奇奇怪怪的小网站（雾）和开源项目，也有尝试写一些科幻小说。（还是个死宅二次元）
-对了，目前我也是 Element Plus 团队成员，不知有没有听说过？
+研究生学历，主修计算机专业，也辅修过动画，但可惜学艺不精。
+
+业余热衷开源与前端方面，主要包括写各种奇奇怪怪的小网站（雾）和开源项目，也有尝试写一些科幻小说。（还是个死宅二次元）。对了，目前我也是 Element Plus 团队成员，不知有没有听说过？
 
 我喜欢夏日冰凉的西瓜、在悠闲的午后睡觉，以及像哆啦 A 梦一样可以承载想象的动漫与科幻故事，还有可爱又有趣的女孩子，啊不对，是一切有趣的事物。我也想希望自己可以成为一个有趣的人，并创造出可以成为他人回忆的事物。
 
@@ -1008,66 +961,11 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 当然我也有几个隐藏的有些不切实际的梦想，比如成为一名独立游戏开发者、漫画家、作家、动画人、全职开源作者。
 简而言之就是可以不用上班，自己在家做觉得有趣的事情的人！（想必大家也是）
 
-### forecho
-
-- 博客地址：<https://blog.forecho.com/>
-
-把生命浪费在美好的事物上。
-
-### Tinyfool 郝培强
-
-- 博客地址：<https://codechina.org/>
-
-Tinyfool，真名郝培强。1979年生人，自由职业（自媒体），资深（也就是老的意思）开发者，居住在上海，年老体胖。
-
-### Est's Blog
-
-- 博客地址：https://blog.est.im/
-
 ### wzyboy
 
 - 博客地址：https://wzyboy.im/
 
-### Mu Lei
 
-- 博客地址：https://nalaginrut.com
-
-Mu Lei，CEO [@lambdachip](https://twitter.com/lambdachip)
-
-### 吕小荣
-
-- 博客地址：https://mednoter.com/
-
-基督教、软件开发者、Ruby-China.org 管理员。曾经是一名医学生；曾经是产品经理。
-
-### iPotato
-
-- 博客地址：https://ipotato.me/
-
-代表文章《[iPotato | 浅谈《开端》在剧作上的瑕疵](https://ipotato.me/article/71)》《[iPotato | 当我反对中医时，我在反对什么？](https://ipotato.me/article/58)》
-
-
-### Images
-
-- 博客地址：https://imageslr.com/
-
-计算机硕士毕业，目前在字节跳动的Ads Infra 团队从事广告系统架构开发 (Golang/C++)；熟悉前端开发；热爱计算机底层理论，希望能成为一名基础架构师；总结，沉淀，分享，精进。
-
-文章和文档写得很有体系，值得学习。
-
-有一些开源作品，比如：
-
-- [Markdown 预览主题](https://github.com/imageslr/mweb-themes)
-
-- [在线借书平台小程序](https://github.com/imageslr/weapp-library)
-
-### easonyang 杨宇晨
-
-- 博客地址：https://easonyang.com/
-
-美团后端开发工程师，长期从事后端研发和架构设计方面的工作，对技术和产品有一些自己的感悟和沉淀，这也是本博客所包含的主要内容。
-
-本博客的历史最早可以追溯到我的高中岁月，从 WordPress 到 Typehco 再到现在的 Hexo ，折腾了不少博客系统，但文章积累得并不多。这里立下个 flag ，以后要努力丰富本博客的内容，做到质优量高。 如果你对我的博客折腾历史感兴趣，可以在 [log](https://easonyang.com/log) 中查看细节。
 
 ### Bojie Li（李博杰）
 
@@ -1252,6 +1150,13 @@ Python 开发工程师，坐标深圳。微软 MVP / PyPA 成员 / PDM 作者。
 
 平时喜欢折腾技术，写写技术文章。也是个开源爱好者。
 
+### 甜菜欣欣
+
+- 博客地址：https://tcxx.info/
+
+十几岁开始写博客。技术圈的欧阳娜娜，旅居美国硅谷。生命不息作死不止，探索人生无限可能。女权主义者，希望世界和平。
+
+
 ### 小胡子哥（李靖）
 
 - 博客地址：https://www.barretlee.com/
@@ -1325,6 +1230,14 @@ Hillway，♂，乙丑年亦生于豫南的另一个小县城，却一直被他�
 
 我和Jasmine相识于校园，一个学理一个学文，初以「老乡」相称，后来发现彼此「志趣相投」，于是就「私定终生」，以至于结婚生子。我们不抽烟不喝酒不玩游戏，不发朋友圈不看短视频，不善于交际和演讲，琴棋书画样样不精通。我们喜欢看电影、看书、旅游，用RSS阅读器获取知识。（by Hillway）
 
+### SKYue（拾月）
+
+- 博客地址：https://www.skyue.com/
+
+产品经理；曾在字节做搜索产品。男生已婚，博客中经常出现的南瓜是我伴侣；在互联网行业做产品类工作；日常关注互联网、软件应用居多，也喜欢股票投资、社科历史；执着于掌控自己的数据，[self-host 爱好者](https://www.skyue.com/23021116.html)
+
+这个博客建于 [2015 年年初](https://www.skyue.com/15020121.html)，是我坚持最久的业余爱好。博客没有特定的主题，现在只想面向自己记录。
+
 ### 小F（Effie）
 
 - 博客地址：https://blog.fueis.com/
@@ -1342,7 +1255,17 @@ Hillway，♂，乙丑年亦生于豫南的另一个小县城，却一直被他�
 
 然后我的购物原则很简单，就是方便我买的，以及价格不夸张的。譬如欧美护肤在日本这边即便有柜台，但定价太夸张的我就不会去买。
 
+### 天空的代码世界
 
+- 博客地址：<https://github.tiankonguse.com/>
+
+tiankonguse, 一个安静的程序员。来自河南, 现居深圳。大学四年 acmer，最高获得亚洲区银牌。2014年7月本科毕业工作。目前就职于腾讯视频公司，从事后台开发。
+
+### 罗磊
+
+- 博客地址：https://luolei.org
+
+罗磊是ZUOLUOTV™制作人，左左文化创始人。 家在深圳，广州暨南大学，在北京(猎豹移动)和上海(阅文集团)当过5年前端工程师，俗称程序员，2018年辞职创业。 他的博客里，讲装修和旅行等方面内容很精致；也可以去B站上看看他制作的视频。
 
 ### Hugo.Linの生活志
 
@@ -1365,7 +1288,6 @@ Blog大事记：
 - 2021年12月31日 域名完成公安备案
 
 - 2021年12月31日 加入[十年之约](https://www.foreverblog.cn/)
-
 
 > 收录文学、随笔、旅行、摄影、美食、生活哲学、育儿等生活方式内容。
 
@@ -1488,9 +1410,15 @@ Blog大事记：
 
 - ：<https://www.pseudoyu.com/>
 
-Yu Zhang 张宇，区块链开发工程师，香港大学计算机系硕士（ECIC, Electronic Commerce and Internet Computing）。喜欢探索新技术，空闲时也折腾 Logseq、Notion 等效率工具。
+Yu Zhang 张宇，区块链开发工程师，香港大学计算机系硕士毕业（ECIC, Electronic Commerce and Internet Computing）。喜欢探索新技术，空闲时也折腾 Logseq、Notion 等效率工具。
 
 希望不断学习，不断成长。现阶段的目标是能够在忙碌的闲隙里不断思考，多阅读写作。
+
+我热衷于打造优秀的 Web 3 产品。我对区块链的各种技术栈都非常精通，从设计和构建 DApp 到使用智能合约解决实际问题，我都能游刃有余。您可以[在这里找到我的完整项目列表](https://www.pseudoyu.com/projects)。
+
+我写[博客文章的内容](https://www.pseudoyu.com/posts)包括生活、爱情、猫、开源、编程、教程等等。
+
+不上网的时候，我喜欢带着相机到处逛逛，做做视频剪辑。我的一些照片可以在[这个页面](https://www.pseudoyu.com/photos)找到。我也喜欢动画、电影和剧集，我的影视观看记录[在这里](https://www.pseudoyu.com/media)。我现在住在杭州，如果你也在附近，请联系我，我们可以一起喝杯咖啡或者一起工作。
 
 代表文章：
 
@@ -1500,6 +1428,23 @@ Yu Zhang 张宇，区块链开发工程师，香港大学计算机系硕士（EC
 
 - [《BitXHub 跨链插件（Fabric）源码解读》](https://www.pseudoyu.com/zh/2021/09/09/blockchain_crosschain_bitxhub/)
 
+### owenyoung
+
+- 博客地址：https://www.owenyoung.com/
+
+我主要关注技术，读书，摘抄，杂胡和先谈，文章评论，工具分享，工作流，灵感，英文学习，注意力管理，反直觉，深度工作等方面。
+
+我在之前建立了一个个人的公开 [Wiki](https://wiki.owenyoung.com/)和 [Blog](https://blog.owenyoung.com/)，让我养成了记笔记，多写东西的习惯，由于习惯已经养成，所以就不再纠结博客的形式问题了，把个人的笔记，博客所有的产出通通都放在这里，这样让我自己更好维护，更省心，之前需要两个地方来回切换，有点麻烦，博客全部内容托管在这个[Github 的 Repo 里](https://github.com/theowenyoung/blog)。
+
+我更喜欢用明文纯文本记录东西。不喜欢把博客存放到数据库中，这样更有掌控感，更自由，同时也能不被运营商锁定。
+
+### 椒盐豆豉
+
+- 博客地址：https://blog.douchi.space
+
+女，现居美国湾区粗糙码农，家有俩猫。电影、电子产品爱好者。喜欢就买，不行就分，多喝热水，重启电脑。
+
+写了二十年博客，2020 年入坑 [pixel art](https://blog.douchi.space/100-days-of-pixel-art/)，2023 开始做[播客](https://blog.douchi.space/tags/podcast/)，持续寻找新创作媒介中。
 
 
 ### 吴诗涛
@@ -1669,11 +1614,7 @@ Yu Zhang 张宇，区块链开发工程师，香港大学计算机系硕士（EC
 
 - 博客地址：https://imzm.im/
 
-### 罗磊
 
-- 博客地址：https://luolei.org
-
-罗磊是ZUOLUOTV™制作人，左左文化创始人。 家在深圳，广州暨南大学，在北京(猎豹移动)和上海(阅文集团)当过5年前端工程师，俗称程序员，2018年辞职创业。 他的博客里，讲装修和旅行等方面内容很精致；也可以去B站上看看他制作的视频。
 
 ### hayami's blog：日常人间观察
 
@@ -1953,6 +1894,19 @@ V2版本：
 
 声明：本博客内容仅代表本人观点，和我的雇主无关。本博客承诺**不含有 AI 生成的内容**，所有内容未加说明均为博主原创，一经发布自动进入[公有领域](https://zh.wikipedia.org/wiki/公有领域)，本人放弃所有权利。转载无需本人同意。但是依然建议在转载的时候留下本博客的链接，因为这里的很多内容在发布之后会还会不断地继续更新和追加内容。
 
+### iTimothy
+
+- 博客地址：https://xiaozhou.net/
+
+四川人也，较慵懒，质平庸，从业于IT民工之流，业未优亦不后；嗜零食，懒运动，喜CS,WOW,Coding,待人和善而喜交友。喜折腾，好DIY。VPS、Linux、机械键盘，均在折腾之列，获 “不折腾不舒服斯基” 之殊荣。
+
+微博标签：代码民工、苦逼程序员、果粉 A developer, a geek, an Ubuntu fans, a BBer, a christian and a father。微软.NET技术重度使用者，曾获MS MVP Visual C++ 2006,2007,2008,2009 称号。
+
+（从2004年开始写博客，到现在积累了500多篇）
+
+代表文章：《[新加坡驾照转换指北 | iTimothy](https://xiaozhou.net/life-in-sg-driving-driving-license-conversion-2022-05-15.html)》
+
+
 
 ### linuxtoy
 
@@ -2017,6 +1971,23 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 
 - Java全站知识体系：https://pdai.tech/
 
+### Yukang
+
+- 程序员的喵：<https://catcoding.me/>
+
+工作了十多年，热爱技术，兴趣广泛，并长期参与[开源](https://github.com/chenyukang)。写作是我的乐趣，我主要写技术、写作、英语、个人成长相关主题。[写作 12 年，我的经验和技巧](https://catcoding.me/p/writing-for-joy/)。
+
+2019 年开始我想锻炼自己的英文写作能力，所以在 [medium.com/@coderscat](https://medium.com/@coderscat) 发布了一些英文文章。
+
+2022 年开始我更多地写中文文章，通常我一周会写两篇，其中一篇为周刊形式。
+
+目前我主要写技术、写作、英语、个人成长相关主题。
+
+### xxchan
+
+- 博客地址：https://xxchan.me/
+
+喜欢编码，并希望构建一些有趣且有用的东西。代表文章：《[我对各种 AI Coding Agent 工具的看法](https://xxchan.me/ai/2025/06/08/ai-coding.html)》
 
 
 ### Jerry Qu 屈光宇
@@ -2041,6 +2012,15 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 - 奇虎 360，前端开发 & 技术团队管理 & 产品负责人，北京，2011.08 ~ 2021.05
 - 百度，前端开发，北京，2008.04 ~ 2011.05
 
+### 邹明远
+
+- 明远的自留地：https://mayandev.github.io/
+
+### 老胡的储物柜
+
+- 博客地址：https://www.howie6879.com/
+
+目前在一家跨境电商公司负责技术团队。从事于游戏风控领域，工作使用Python，业余使用Rust。从事过后端、大数据、机器学习，对云原生、前端开发同样感兴趣。奇文共欣赏，疑义相与析。热爱开源&分享。
 
 ### gacfox
 
@@ -2135,6 +2115,31 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 - 博客地址：<https://yeee.wang/>
 
 阿里前端开发工程师。代表文章：《[这一年我的对组件的思考](https://yeee.wang/posts/eb1e.html)》《[Vite + React 组件开发实践](https://yeee.wang/posts/cb8c.html)》
+
+### Images
+
+- 博客地址：https://imageslr.com/
+
+暂无 rss 链接。
+
+计算机硕士毕业，目前在字节跳动的Ads Infra 团队从事广告系统架构开发 (Golang/C++)；熟悉前端开发；热爱计算机底层理论，希望能成为一名基础架构师；总结，沉淀，分享，精进。
+
+文章和文档写得很有体系，值得学习。
+
+有一些开源作品，比如：
+
+- [Markdown 预览主题](https://github.com/imageslr/mweb-themes)
+
+- [在线借书平台小程序](https://github.com/imageslr/weapp-library)
+
+### iPotato
+
+- 博客地址：https://ipotato.me/
+
+我给自己贴上的几个标签：自由摄影师、博主，当然还有开发者。
+
+代表文章《[iPotato | 浅谈《开端》在剧作上的瑕疵](https://ipotato.me/article/71)》《[iPotato | 当我反对中医时，我在反对什么？](https://ipotato.me/article/58)》
+
 
 ### codedump的网络日志
 
@@ -2643,9 +2648,7 @@ Wannz，94年生于甘肃兰州，在2014年初正式开始了我的互联网工
 - 阅读笔记：https://weiyexing.win/tag/Read
 - Telegram频道：https://t.me/weiyexing
 
-### SKYue
 
-- 博客地址：https://www.skyue.com/
 
 ### Frange Zone
 
@@ -2947,6 +2950,14 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 
 热爱互联网行业，热爱产品设计，相信好的产品设计能让这个世界变好。精通产品设计、前端开发、客户端开发、翻译、写作和演讲。《Web全栈工程师的自我修养》一书作者。
 
+### lucida
+
+- 博客地址：<https://blog.lucida.me/>
+
+lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有十余篇文章。2021 年的年底，我打算重新写点东西。
+
+代表文章：《[Sublime Text 全程指引 by Lucida](https://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html)》《[我的算法学习之路](https://blog.lucida.me/blog/on-learning-algorithms/)》《[程序员必读书单 1.0 — 六年后的回顾](https://blog.lucida.me/blog/developer-reading-list-retro/)》
+
 
 ### Hawstein
 
@@ -3029,12 +3040,22 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 
 希望可以给初学者以合适引导。坚定的北大青鸟反对者，强烈愤慨恶劣的培训机构对于处于懵懂期的初学者以误导，强烈抵制各种虚假广告给业界带来的不良影响，强烈建议有理想有抱负的从业青年放弃北大青鸟，不要做冤大头。
 
-
 ### Linmi
 
 - 博客地址：<https://linmi.cc/>
 
 Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名运营，从业六年，在技术社区从业已四年半，其中技术知识付费领域已两年半，擅长技术知识付费内容生产，社区运营、增长与 SEO、技术 KOL 培养与运营、线下活动组织等。当然能力边界不止开发者这一垂直领域。目前在某大厂运营某项目管理工具。
+
+### 杨宇晨
+
+- 博客地址：https://easonyang.com/
+
+Eason Yang，美团后端开发工程师，长期从事后端研发和架构设计方面的工作，对技术和产品有一些自己的感悟和沉淀，这也是本博客所包含的主要内容。
+
+在生活中，我还是一名铲屎官，养了只小猫叫敲敲（这个奇怪的名字来源于当年的谐音梗，全称是「敲敲敲可爱」，哈哈哈）。
+
+本博客的历史最早可以追溯到我的高中岁月，从 WordPress 到 Typehco 再到现在的 Hexo ，折腾了不少博客系统，但文章积累得并不多。这里立下个 flag ，以后要努力丰富本博客的内容，做到质优量高。 如果你对我的博客折腾历史感兴趣，可以在 [log](https://easonyang.com/log) 中查看细节。
+
 
 ### 透明思考
 
@@ -3148,6 +3169,16 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 
 在  Fidelity Investments 做机器学习总监。
 
+
+### 大数据最佳实践
+
+> 网站暂无法访问。
+
+- 博客地址：https://bigdata.icu/
+
+工具利器、最佳实践、全栈技术。
+
+
 ## 十、小而美的博客
 
 ### yonniye
@@ -3209,6 +3240,25 @@ Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《
 那么，我在这个网站上都折腾了哪些东西呢？编程笔记。
 
 常言道，好记性不如烂笔头。平时经常会查询一些编程问题，花很多时间来寻找一个最佳解决方案；如果没将成果记下来，下次遇到同样的问题，又得重新来过。因此，编程笔记很重要！
+
+
+### zhaoolee
+
+一个热衷开源事业的程序员
+
+博客地址：
+
+- 博客首页：<https://zhaoolee.com>
+- V2方圆（发稀缺资源）：https://v2fy.com/
+- 方圆小站（Zhaoolee不聊技术的杂谈站）：https://fangyuanxiaozhan.com/
+
+暂无RSS链接。
+
+其他平台：
+
+- GitHub：https://github.com/zhaoolee
+- 公众号：0加1
+
 
 ### 黄磊
 
@@ -4444,6 +4494,13 @@ Web 前端爱好者，河南安阳人。
 
 [**G.K. Chesterton**](https://en.wikipedia.org/wiki/G._K._Chesterton) 比我早生115年，是个不折不扣的高产且全能的写手——哲学、小说、历史、诗歌、社论、新闻、护教，每类都写得有模有样，而且大部分都流传至今。我喜欢读他的专著，也喜欢时不时去他的[在线散文集](https://www.chesterton.org/)逛逛, 信手翻看一篇都是惊喜——比如这篇[哲学的复兴](https://www.chesterton.org/the-revival-of-philosophy-why/)。
 
+### Mu Lei
+
+- 博客地址：https://nalaginrut.com
+
+暂无RSS链接。
+
+Mu Lei，CEO [@lambdachip](https://twitter.com/lambdachip)
 
 
 ## 其它链接
