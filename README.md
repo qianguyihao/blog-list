@@ -2021,21 +2021,13 @@ I'm zac, 一个创业者、学习者，做过互联网运营，做过播客项�
 
 腾讯阅文集团前端开发。著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》
 
-### 真没什么逻辑
-
-- 面向信仰编程：https://draveness.me/
-
 ### 廖雪峰
 
 - 博客地址：<https://www.liaoxuefeng.com/>
 
+- 暂无RSS链接。
+
 提供了经典的 JavaSE、JavaEE、JavaScript 和 Python、Git 等系列教程。
-
-### 戴铭的博客-星光社
-
-- 博客地址：https://ming1016.github.io/
-
-滴滴iOS 技术专家。实打实的万字长文。
 
 ### plantegg
 
@@ -2047,23 +2039,7 @@ I'm zac, 一个创业者、学习者，做过互联网运营，做过播客项�
 
 [如何在工作中学习](https://plantegg.github.io/2018/05/23/如何在工作中学习/) 所有方法我都记录在这篇文章中了，希望对你能有所帮助。所有新文章从[这里可以看到](https://plantegg.github.io/archives)，即使再简单的一篇总结我可以持续总结三五年，有新的发现、感悟都是直接在原文上增减，不会发表新的文章。
 
-### 卡瓦邦噶
-
-- https://www.kawabangga.com/
-
-V1版本：
-
-这里是一个 SRE 的博客，讨论的内容有：Linux, Vim, Tmux, NixOS, Python, Java, TCP/IP, Container, Docker, Ansible, Git, Graphviz, Redis, Prometheus, SSH, Shell, Bash, GNU, Github, C, C++, Unix, Nginx, Lua, Django, React 以及运维的方法论，编程的思考，工作的感悟。除了技术上的内容之外，这个博客还会分享一些读书感悟，电影和音乐等。
-
-这个博客几乎无保留地发布了我的写作、翻译、技术笔记。我在工作时间之外做的事情基本都是处于自己的兴趣，比如这个博客。这些技术博客很多是我在探索和学习的时候记下来的，必定存在错误，请不要盲目地接受。有关个人想法的文章，有些只是过眼烟云，也记了下来，没有经过谨慎的思考，不成系统。这些想法很可能是错误的，甚至前后矛盾。我从高中的时候就开始记博客，本人现在的想法跟那个时候可能已经发生了较大的变化，阅读这些陈年旧事的时候请读者将这一点牢记在心。欢迎大家怀着批判的眼光阅读，和我进行讨论。
-
-另，我是一个痛恨错别字的人，但可能有些文章可能没有经过检查就发布了，难免存在错别字，如有发现，欢迎指正，多谢。
-
-V2版本：
-
-我是 laixintao，现在生活在新加坡。我的工作是 [SRE](https://sre.google/)，喜欢在终端完成大部分工作，对各种技术都感兴趣。我从 2013 年开始写这个博客，写的内容很广泛，运维的方法论，编程的思考，工作的感悟，除了技术内容之外，还会分享一些读书感想，旅行游记，电影和音乐等。欢迎留下你的评论。
-
-声明：本博客内容仅代表本人观点，和我的雇主无关。本博客承诺**不含有 AI 生成的内容**，所有内容未加说明均为博主原创，一经发布自动进入[公有领域](https://zh.wikipedia.org/wiki/公有领域)，本人放弃所有权利。转载无需本人同意。但是依然建议在转载的时候留下本博客的链接，因为这里的很多内容在发布之后会还会不断地继续更新和追加内容。
+为什么写博客而不是公众号，我见过20年前的互联网，深度依赖搜索引擎，所以还是喜欢博客。另外技术类文章更适合电脑阅读（随时摘录、实验）。
 
 ### iTimothy
 
@@ -2073,7 +2049,7 @@ V2版本：
 
 微博标签：代码民工、苦逼程序员、果粉 A developer, a geek, an Ubuntu fans, a BBer, a christian and a father。微软.NET技术重度使用者，曾获MS MVP Visual C++ 2006,2007,2008,2009 称号。
 
-（从2004年开始写博客，到现在积累了500多篇）
+本站创立于2004-09-07（从2004年开始写博客，到现在积累了500多篇）。
 
 代表文章：《[新加坡驾照转换指北 | iTimothy](https://xiaozhou.net/life-in-sg-driving-driving-license-conversion-2022-05-15.html)》
 
@@ -2081,7 +2057,7 @@ V2版本：
 
 - 博客地址：http://zhangtielei.com/
 
-暂无RSS链接。
+- 暂无RSS链接。
 
 爱好: 写作，小说，自然科学，哲学，Coding，诗词。
 
@@ -2089,33 +2065,44 @@ Career: 水木分子 | 快手 | 阿里 | 微爱CTO | 人人网 | 摩托罗拉(�
 
 Education: Tsinghua | BUPT
 
+### 戴铭
+
+- 戴铭的博客-星光社：https://ming1016.github.io/
+
+iOS 技术专家。实打实的万字长文。
+
+极客时间《[iOS开发高手课](https://time.geekbang.org/column/intro/100024501)》和纸书《[跟戴铭学iOS编程](https://item.jd.com/12827000.html)》作者。[博客](https://starming.com/)、[GitHub](https://github.com/ming1016)、[微博](https://weibo.com/allstarming)、[Twitter](https://twitter.com/daiming_cn)、[播客(铭莉双收)](https://www.xiaoyuzhoufm.com/podcast/668b45c5094e5a1fbfd51135)、[播客RSS](https://feed.xyzfm.space/4fw9n8q79hdk)、[Discord](https://discord.gg/sBksuXjQmj)。
+
+经历：快手（资深技术专家）、阿里（高级技术专家）、滴滴（技术专家）、事业单位。
+
 ### linuxtoy
 
 - 博客地址：https://linuxtoy.org/
 
 致力于提供 Linux 相关资讯和文章。
 
-### 煎鱼
-
-- 博客地址：https://eddycjy.com/
-
-### halfrost
-
-- 博客地址：https://halfrost.com/
-
-- [RSS订阅](https://halfrost.com/rss/)
-
-### polarisxu
-
-- 博客地址：<https://polarisxu.studygolang.com/>
-
-Go语言中文网的站长。
-
-### Gracker
+### Gracker（高建武）
 
 - Android Performance：https://www.androidperformance.com/
 
-Android系统工程师。目前主要在做 Android 系统开发、和应用快省稳优化相关的工作，主要的研究方向是 Android Framework、Android APM、Android 系统优化、性能优化等。
+Android系统工程师。目前主要在做 Android 系统开发优化 和 应用快省稳优化 相关的工作，主要的研究方向是 Android Framework、Android APM、Android 系统优化等，对 Android App 开发和 Linux 也有一定的了解，但是很多知识并没有非常深入，目前还在努力学习中，希望跟大家多交流。人在成都，欢迎各位面基。
+
+【技术分享】
+
+本人接触 Android 比较久，但是基本都是在手机厂商 ，在这一块有一定的的积累，也非常乐意把这些知识分享给大家 。博客记录了我业余时间写的一些文章 ，内容目前主要是 Android 开发相关的内容，后续会加入更多一些个人的想法和 Android APM \ Linux \ Android Framework 相关的内容 , 以及一些可以提高开发和工作效率的工具和 App.
+
+目前这里重点更新的是三个系列(主要更新的地址：[个人博客](https://www.androidperformance.com/)、[知乎专栏](https://www.zhihu.com/column/gracker)、[微信公众号](https://www.androidperformance.com/images/WechatIMG581.png)、[掘金](https://juejin.cn/column/7310168607341559848)).
+
+1. **Systrace 系列**：结合 Systrace 来梳理 Android 中的一些比较重要的运行机制，帮助你快速了解 Android Framework 相关的基础知识；同时 Systrace 工具也是分析性能问题的利器，用好 Systrace 可以事半功倍。
+2. **Perfetto 系列**：Perfetto 是 Google 退出的新一代性能分析工具，设计是用来取代 Systrace 工具的。Perfetto 拥有 Systrace 工具的所有功能，在这个基础上还增加了其他的一些功能，优化了性能，引入了 SQL。
+3. **性能分析和实战系列**：即遇到的一些实际的性能问题，如何去分析，使用什么样的工具，按照什么步骤去分析。
+4. **快省稳系列**：比如流畅性、响应速度、内存、ANR、Crash、功耗等，包括基础知识、案例分析和工具使用。
+
+如果大家在看文章的时候，发现有错误或者描述不清楚的地方，麻烦直接跟我联系修改，非常感谢！
+
+【交个朋友】
+
+我非常喜欢与各位交流 ，分享自己的经验 ，倾听各位的分享，大家可以通过下面的途径一起交流、分享 ，“三人行，则必有我师” ，也正如我每篇文章下面说的那句话 “一个人可以走得更快，一群人可以走的更远”
 
 相关链接：
 
@@ -2345,6 +2332,10 @@ Android系统工程师。目前主要在做 Android 系统开发、和应用快�
 - 博客地址：<https://www.laruence.com/>
 
 Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心成员, Zend顾问, PHP7及PHP8 JIT核心作者，Yaf等开源项目作者。博客里有PHP源码分析、PHP应用、JS/CSS以及随笔等栏目。
+
+### 真没什么逻辑
+
+- 面向信仰编程：https://draveness.me/
 
 ### 纯洁的微笑
 
@@ -2745,7 +2736,42 @@ SHEIN 研发效能工程师，曾经作为咨询师和软件工程师为各行�
 
 - 博客地址：https://tobyqin.cn/
 
+### 卡瓦邦噶
 
+- https://www.kawabangga.com/
+
+V1版本：
+
+这里是一个 SRE 的博客，讨论的内容有：Linux, Vim, Tmux, NixOS, Python, Java, TCP/IP, Container, Docker, Ansible, Git, Graphviz, Redis, Prometheus, SSH, Shell, Bash, GNU, Github, C, C++, Unix, Nginx, Lua, Django, React 以及运维的方法论，编程的思考，工作的感悟。除了技术上的内容之外，这个博客还会分享一些读书感悟，电影和音乐等。
+
+这个博客几乎无保留地发布了我的写作、翻译、技术笔记。我在工作时间之外做的事情基本都是处于自己的兴趣，比如这个博客。这些技术博客很多是我在探索和学习的时候记下来的，必定存在错误，请不要盲目地接受。有关个人想法的文章，有些只是过眼烟云，也记了下来，没有经过谨慎的思考，不成系统。这些想法很可能是错误的，甚至前后矛盾。我从高中的时候就开始记博客，本人现在的想法跟那个时候可能已经发生了较大的变化，阅读这些陈年旧事的时候请读者将这一点牢记在心。欢迎大家怀着批判的眼光阅读，和我进行讨论。
+
+另，我是一个痛恨错别字的人，但可能有些文章可能没有经过检查就发布了，难免存在错别字，如有发现，欢迎指正，多谢。
+
+V2版本：
+
+我是 laixintao，现在生活在新加坡。我的工作是 [SRE](https://sre.google/)，喜欢在终端完成大部分工作，对各种技术都感兴趣。我从 2013 年开始写这个博客，写的内容很广泛，运维的方法论，编程的思考，工作的感悟，除了技术内容之外，还会分享一些读书感想，旅行游记，电影和音乐等。欢迎留下你的评论。
+
+声明：本博客内容仅代表本人观点，和我的雇主无关。本博客承诺**不含有 AI 生成的内容**，所有内容未加说明均为博主原创，一经发布自动进入[公有领域](https://zh.wikipedia.org/wiki/公有领域)，本人放弃所有权利。转载无需本人同意。但是依然建议在转载的时候留下本博客的链接，因为这里的很多内容在发布之后会还会不断地继续更新和追加内容。
+
+
+### 煎鱼
+
+- 博客地址：https://eddycjy.com/
+
+### halfrost
+
+- 博客地址：https://halfrost.com/
+
+- [RSS订阅](https://halfrost.com/rss/)
+
+### polarisxu
+
+- 博客地址：<https://polarisxu.studygolang.com/>
+
+Go语言中文网的站长。
+
+目前在北京一家创业公司担任 CTO。2011 年春，北京大学硕士毕业，先后在开心网、奇虎 360 工作。本人一直从事服务端相关工作，有着丰富的经验，对前端也有所掌握，Android 开发也了解些。虽然目前管理方面的事情较多，但一直保持着技术学习。擅长服务端技术和架构。
 
 ## 六、独立开发
 
