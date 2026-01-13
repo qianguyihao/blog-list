@@ -1321,6 +1321,18 @@ Hillway，♂，乙丑年亦生于豫南的另一个小县城，却一直被他�
 
 我和Jasmine相识于校园，一个学理一个学文，初以「老乡」相称，后来发现彼此「志趣相投」，于是就「私定终生」，以至于结婚生子。我们不抽烟不喝酒不玩游戏，不发朋友圈不看短视频，不善于交际和演讲，琴棋书画样样不精通。我们喜欢看电影、看书、旅游，用RSS阅读器获取知识。（by Hillway）
 
+### 运维咖啡吧
+
+- 博客地址：<https://blog.ops-coffee.cn/>
+
+追求技术的道路上，我从不曾停下脚步。
+
+运维咖啡吧仅是作为个人博客在维护，所有文章均由我一人书写，代表一家之言，更新较为佛系，分享技术和生活。运维咖啡吧暂时还不考虑变现，粉丝增长也不是当下关注的重点，所以同行互推或是商业软文推广就不要加我了，感谢理解。
+
+查看历史文章不仅能够学到技术，更能了解我的生活，希望你能通过阅读我所写下的这些文章能给自己带来那怕一点点的收获。
+
+云服务操作员，涉猎广泛，重原则，有态度。
+
 ### SKYue（拾月）
 
 - 博客地址：https://www.skyue.com/
@@ -2081,6 +2093,31 @@ iOS 技术专家。实打实的万字长文。
 
 致力于提供 Linux 相关资讯和文章。
 
+### Jerry Qu 屈光宇
+
+- 博客地址：<https://imququ.com/>
+- [RSS订阅](https://www.imququ.com/rss.html)
+
+> 「JerryQu 的博客」已于 2024-12-28 12:00 关闭服务。2008-07-28 ~ 2024-12-28，感谢你一路相伴！
+
+博主名叫屈光宇，网上代号习惯用 JerryQu、qgy18，近几年来朋友们都叫我屈屈或 QuQu。08 年毕业于武汉科技大学自动化专业，湖北黄冈罗田县人。目前专注于 Web 端开发，关注 Web 性能优化与安全。
+
+随着最近我收到的咨询变多，为了处理起来更高效，这里我补充几点说明：
+
+- 不要上来就直接要 QQ 号或微信号。本人不提供有偿（更不提供无偿）陪聊服务；
+- 与本博客文章有关的问题，建议直接在文后评论。这样可以让更多人看到讨论的内容；
+- 其他技术或个人成长相关问题，建议发邮件。但「有没兴趣一起做点东西」这样的内容请不要发；
+- 无论通过何种方式咨询，请一次性把问题描述清楚。如果不知道怎么做，推荐阅读「[如何提问才能进阶成为前端大神](http://www.zhangxinxu.com/wordpress/2015/05/how-to-ask-web-front-question/)」。
+
+在本博客评论或者给我发邮件，我会即时收到手机提醒；Twitter 和微博的提醒被我关掉了，通常一天检查一次私信。但本人既无法保证回复时间，也不能做到有问必答，请理解。
+
+以下是我的工作经历：
+
+- [稀土掘金](https://juejin.cn/)，业务负责人，北京，2021.05 ~ ？
+- 奇虎 360，前端开发 & 技术团队管理 & 产品负责人，北京，2011.08 ~ 2021.05
+- 百度，前端开发，北京，2008.04 ~ 2011.05
+
+
 ### Gracker（高建武）
 
 - Android Performance：https://www.androidperformance.com/
@@ -2108,36 +2145,14 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 - 即刻：@[高爷](https://web.okjike.com/u/2c2f3505-ea4f-4b52-982f-6b511dced478)
 
+
 ### 鸟窝
 
 - 博客地址：https://colobu.com/
 
-2000年毕业于中国科技大学，先后在[清华同方](http://www.thtf.com.cn/)、[Motorola](http://www.motorola.com.cn/home)、[Comcast](http://corporate.comcast.com/)、等公司工作，现在在[微博](http://weibo.com/)做架构和开发工作。极客时间专栏《Go并发编程实战课》作者。
+2000年毕业于中国科技大学，先后在[清华同方](http://www.thtf.com.cn/)、[Motorola](http://www.motorola.com.cn/home)、[Comcast](http://corporate.comcast.com/)、[微博](http://weibo.com/)等公司工作（在微博做架构和开发工作），现在在[百度](http://baidu.com/)做网络监控相关工作。极客时间专栏《Go并发编程实战课》作者。
 
-
-
-### 峰云就她了
-
-- 博客地址：<https://xiaorui.cc/>
-
-代表作品：
-
-- 技术分享PPT：<https://github.com/rfyiamcool/share_ppt>
-
-### 运维咖啡吧
-
-- 博客地址：<https://blog.ops-coffee.cn/>
-
-追求技术的道路上，我从不曾停下脚步。
-
-
-运维咖啡吧仅是作为个人博客在维护，所有文章均由我一人书写，代表一家之言，更新较为佛系，分享技术和生活。运维咖啡吧暂时还不考虑变现，粉丝增长也不是当下关注的重点，所以同行互推或是商业软文推广就不要加我了，感谢理解。
-
-查看历史文章不仅能够学到技术，更能了解我的生活，希望你能通过阅读我所写下的这些文章能给自己带来那怕一点点的收获。
-
-### pdai
-
-- Java全站知识体系：https://pdai.tech/
+微服务框架作者，go语言和rust语言布道师， 百度 Go CMC 委员会主席。
 
 ### Yukang
 
@@ -2157,32 +2172,11 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 喜欢编码，并希望构建一些有趣且有用的东西。代表文章：《[我对各种 AI Coding Agent 工具的看法](https://xxchan.me/ai/2025/06/08/ai-coding.html)》
 
+### pdai
 
-### Jerry Qu 屈光宇
+- Java全站知识体系：https://pdai.tech/
 
-- 博客地址：<https://imququ.com/>
-- [RSS订阅](https://www.imququ.com/rss.html)
-
-博主名叫屈光宇，网上代号习惯用 JerryQu、qgy18，近几年来朋友们都叫我屈屈或 QuQu。08 年毕业于武汉科技大学自动化专业，湖北黄冈罗田县人。目前专注于 Web 端开发，关注 Web 性能优化与安全。
-
-随着最近我收到的咨询变多，为了处理起来更高效，这里我补充几点说明：
-
-- 不要上来就直接要 QQ 号或微信号。本人不提供有偿（更不提供无偿）陪聊服务；
-- 与本博客文章有关的问题，建议直接在文后评论。这样可以让更多人看到讨论的内容；
-- 其他技术或个人成长相关问题，建议发邮件。但「有没兴趣一起做点东西」这样的内容请不要发；
-- 无论通过何种方式咨询，请一次性把问题描述清楚。如果不知道怎么做，推荐阅读「[如何提问才能进阶成为前端大神](http://www.zhangxinxu.com/wordpress/2015/05/how-to-ask-web-front-question/)」。
-
-在本博客评论或者给我发邮件，我会即时收到手机提醒；Twitter 和微博的提醒被我关掉了，通常一天检查一次私信。但本人既无法保证回复时间，也不能做到有问必答，请理解。
-
-以下是我的工作经历：
-
-- [稀土掘金](https://juejin.cn/)，业务负责人，北京，2021.05 ~ ？
-- 奇虎 360，前端开发 & 技术团队管理 & 产品负责人，北京，2011.08 ~ 2021.05
-- 百度，前端开发，北京，2008.04 ~ 2011.05
-
-### 邹明远
-
-- 明远的自留地：https://mayandev.github.io/
+工作10+年，擅长软件开发与设计；曾经肉身翻墙，拿到美国H1B工作签, 在纽约曼哈顿工作；目前在一家外资公司任专家研究员，从事网络安全平台设计和研发工作。
 
 ### 老胡的储物柜
 
@@ -2194,11 +2188,15 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 - 博客地址：https://gacfox.com/
 
-2007年生。
+暂无 RSS 链接。
 
 - 知识库：https://gacfox.com/notes/README.md
 
 - 仓库地图：https://gacfox.com/sitemap.html
+
+2007年生。Gacfox这个名字没有什么特殊的意义，可能是觉得发音有点类似Geek Fox，6个字母也很简短，域名也未被别人占用，于是就使用了这个名字，我的很多代码包名和作者署名也用的它。
+
+编程方面博主对C#语言比较熟悉，最喜欢的代码编辑器是VSCode（曾经是Atom），其他编程语言和工具只是稍微了解一点点皮毛，总而言之编程这方面仍然是个萌新，站内的大部分内容都为摸鱼时间创作，有些文章可能是上古时期编写已经严重过时，如内容有误或观点您不认同请轻拍_(:з」∠)_。
 
 笔记库设计哲学：
 
@@ -2213,22 +2211,37 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 - 谨慎处理目录结构，一个混乱的目录结构不会便于查找和使用
 - 保留更新历史，一旦数据出现问题，便于恢复
 
-
 ### imbAnt
 
 - 博客地址：https://imbant.github.io/blog/
 
-毕业于同济大学软件学院，本科学历。前端开发者，在做一些 VS Code Extension 和语言服务器的开发。
+- 暂无RSS链接。
 
-### ConardLi 世奇
+我是一名前端开发者，VS Code 插件和语言服务器开发者，也是半个游戏开发者；我目前在开发基于 LSP 的 [语言服务器](https://marketplace.visualstudio.com/items?itemName=craftLandstudio.ffugclanguage)，也在维护用 Go 构建的编译器。我希望通过这个博客记录技术知识，提升影响力。
 
-- code秘密花园：https://blog.conardli.top/
+毕业于同济大学软件学院，本科学历。前端开发者，在做一些 VS Code Extension 和语言服务器的开发。就职于一家上海的游戏公司，我的主要工作是开发 UGC 业务的游戏编辑器，这是一个基于 Electron 的大型桌面应用；我还负责内部自研的编程语言，包括由 Go 实现的编译器，以及由 Node 实现的[VS Code 语言插件](https://marketplace.visualstudio.com/items?itemName=craftLandstudio.ffugclanguage)。它集成了基于 `LSP` 的语言服务器，提供智能编程服务。
 
-一名乐于分享的前端开发者。前沿的前端技术、最新的前端消息、最精品的技术文章、最好用的工具推荐。
+我的博客登上了几次阮一峰的科技爱好者周刊：
 
-### 欧雷流
+- [348 期](https://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html) [用 Go 移植 TypeScript 的重要影响](https://imbant.github.io/blog/2025/05/07/ts-go/)
+- [324 期](https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html) [我为 VS Code 贡献了代码](https://imbant.github.io/blog/2024/10/29/VS-Code-Thankyou/)
 
-- 博客地址：<https://ourai.ws/>
+我对 VS Code 的一些贡献，进入了 Thank you 列表：
+
+- [v1.100](https://code.visualstudio.com/updates/v1_100#_thank-you) 增加了 LSP 规范文档中关于多个请求之间文档状态同步的说明
+- [v1.90](https://code.visualstudio.com/updates/v1_90#_thank-you) 修复了乱序的 semantic tokens 不会正确高亮的问题
+
+我在播客 [`Web Worker`](https://www.xiaoyuzhoufm.com/episode/66a1197533ddcbb53cd7a063) 上和几位 Vue 生态的大佬、团队成员们聊过 Vue 插件，欢迎收听。
+
+我也会在[即刻](https://okjk.co/OUqto1)分享语言服务器相关的开发心得，计划将它们整理成系列文章，欢迎关注。
+
+平时会把学习笔记写到本[博客](https://imbant.github.io/blog)。参与了一些简单的翻译工作，例如 [MDN](https://github.com/mdn/translated-content/pulls?q=is:pr+author:imbant+) 和 [Astro](https://astro.badg.es/contributor/imbant/)。
+
+我在各个平台的昵称为：imbAnt，前缀取自 imbalance，在游戏领域意为 awesome。后缀取自高中绰号「蚂蚁」。
+
+### 欧雷
+
+- 欧雷流：<https://ourai.ws/>
 
 一名从事泛客户端开发的软件工程师。致力于前端标准化、工业化，[让前端开发更加有序且可快速装配](https://ntks.ourai.ws/)，为新型开发方式及协作模式做支撑。拥护去中心化的开放网络（decentralized open web）。除了[编程](https://ourai.ws/topics/coding/)，我还喜欢[写作](https://ourai.ws/posts/)、[思考](https://ourai.ws/topics/ourairyu/)、[旅行](https://ourai.ws/tags/travel/)和[日语](https://ourai.ws/topics/waken/)等。
 
@@ -2236,11 +2249,42 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 代表文章：《[聊聊中后台前端应用：目录结构划分模式](https://ourai.ws/posts/patterns-of-directory-structure-in-frontend-projects/)》《[聊聊前端 UI 组件：核心概念](https://ourai.ws/posts/the-core-concepts-of-frontend-ui-components/)》
 
+消除「人生」与「协同」中的「混沌」，探索「知识＋工作流」提效方向。
+
+【关于本站】
+
+本站的内容主要是[生活](https://ourai.ws/categories/life/)、[思想](https://ourai.ws/categories/thoughts/)和[技术](https://ourai.ws/categories/web-development/)类，并按照我的「多元性」将文章等信息做了聚合：
+
+- [思考者](https://ourai.ws/topics/ourairyu/)
+- [程序员](https://ourai.ws/topics/coding/)
+
+这些「聚合」在本站被称作「专题」，可以到[专题列表](https://ourai.ws/topics/)查看全部。
+
+推荐在进行一切操作之前先阅读《[玩法手册](https://ourai.ws/manual/)》了解一下如何很好地使用本站。
+
+【关于站长】
+
+曾是一名从事泛客户端开发的软件工程师——这是对内行的说法，向外行介绍的话，就是「程序员」。致力于前端标准化、工业化，[让前端开发更加有序且可快速装配](https://ntks.ourai.ws/)，为新型开发方式及协作模式做支撑。
+
+现为拥护去中心化的开放网络（decentralized open web）且专注于生活方式领域的「反混沌工程师」，探索提升人生体验的思维方式与实操方法，以尽可能地消除人生中的混沌，详见「[雷叔的生活研究](https://oreilia.com/projects/ourais-life-research/)」。
+
+若要用几个关键词标签化我的个性、思想等以便快速了解的话，那么可以是：双鱼座、[INTJ-A](https://www.16personalities.com/intj-personality)、世界公民。即便如此，希望还是不要过于刻板印象，请通过[我的创作](https://linxoid.com/ourai/?utm_source=ourai.ws&utm_medium=common-header#works)或[线下接触](https://linxoid.com/ourai/?utm_source=ourai.ws&utm_medium=common-header#contact)来了解更为具体、真实的我。
+
 ### Jiajun Huang
 
 - 博客地址：https://jiajunhuang.com/
 
 `Jiajun Huang`，2016年毕业于软件工程专业。在分布式和高并发方面有一些粗浅的经验。工作上大多使用 `Golang`、`Python` 和 `JavaScript`，业余玩玩 `C语言`、`Rust` 和 `Haskell`，爱折腾，啥事都想搞个清楚，喜欢钻研底层。知其然也想知其所以然。
+
+以下是我这几年业余时间做的一些值的骄傲的事情：
+
+- 写过 [高性能熔断器](https://github.com/jiajunhuang/guard) ，单机QPS可达22k/s
+- 写过基于UVLoop和Cython的 [高性能Web框架](https://github.com/jiajunhuang/storm)，单机QPS可达13k/s
+- 为 CPython, Grafana, Sanic, Cython等多个开源项目贡献过代码
+- 读过不少比较出名的源码比如 Go, CPython, Nginx, Redis, Gevent, GIN 以及大大小小的各种开源库等等
+- 从2015年至今，坚持写了很多年博客，输出了近500篇内容，其中有不少单篇和系列文章都收到了好评
+
+时间一年一年流逝，希望之后能做出更多值得骄傲的事情，不负韶华。
 
 个人认为把复杂的东西用平易近人的方式描述出来是一种很重要的能力，[这里](https://jiajunhuang.com/tutorial)是我写的一些科普性的系列文章， 更多的文章请访问 [此处](https://jiajunhuang.com/archive)。
 
@@ -2248,9 +2292,21 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 - 博客地址：https://yutengjing.com/
 
-98 年出生，本科毕业于江西师范大学，有三年前端开发经验。曾经在字节跳动，稿定设计工作过，目前在 OpenArt 搬砖。
+98 年出生的前端程序员，本科毕业于江西师范大学。曾经在字节跳动、稿定设计、OpenArt 工作过，目前从事 AI 行业。
 
 乐于技术分享，积极参与开源，追求极致的开发体验，愿意抛出问题并主动解决问题。
+
+📚 教育经历：
+
+- 江西师范大学 | 2016.09 - 2020.06 全日制统招本科 · 物联网工程 · 江西南昌
+
+👔 工作经历：
+
+**[openart.ai](https://openart.ai/)** | 深圳 · 全栈开发工程师 | 2024.04 - 2025.02
+
+**[稿定设计](https://www.gaoding.com/)** | 厦门 · 前端开发工程师 | 2020.06 - 2023.10
+
+**字节跳动** | 北京 · 前端开发工程师 · 实习 | 2019.07 - 2019.10
 
 ### Power's Wiki
 
@@ -2264,7 +2320,9 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 在猿辅导担任前端Teach Lead。业余博客写手，主要记录自身对于某些技术的理解；技术书籍收藏家，偏爱计算机科学、底层原理、编程语言，喜欢研究技术的底层实现原理。
 
-### 张晓辉-乱世浮生
+2017年7月至今，猿辅导，参与过猿题库、小猿搜题、小猿口算、海豚 AI 学、Leap Math 等 C 端产品开发。
+
+### 张晓辉
 
 - 乱世浮生：https://atbug.com/
 
@@ -2274,9 +2332,11 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 曾任职于汇丰软件、唯品会、数人云、小鹏汽车，有多年的微服务和基础架构实践经验，主要工作涉及微服务、容器、Kubernetes、DevOps 等。
 
-### 卤蛋实验室
+### 卤代烃
 
-- 博客地址：https://skychx.com/
+- 卤代烃实验室：https://supercodepower.com/
+
+- RSS 链接：https://supercodepower.com/rss.xml
 
 ### 王大白
 
@@ -2308,7 +2368,6 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 代表文章《[iPotato | 浅谈《开端》在剧作上的瑕疵](https://ipotato.me/article/71)》《[iPotato | 当我反对中医时，我在反对什么？](https://ipotato.me/article/58)》
 
-
 ### Guangzheng Li
 
 - 博客地址：https://guangzhengli.com/
@@ -2317,11 +2376,9 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 代表文章：《[独立开发穷鬼套餐(Web实践篇)](https://guangzhengli.com/blog/zh/indie-hacker-poor-stack)》、《[谈谈 AI 编程工具的进化与 Vibe Coding](https://guangzhengli.com/blog/zh/vibe-coding-and-context-coding)》
 
-
-
 ### codedump的网络日志
 
-- 博客地址：https://www.codedump.info/
+- codedump的网络日志：https://www.codedump.info/
 
 喜欢研究代码的原理，所以就取名“code dump”了。个人感兴趣领域：分布式存储（业余）、系统编程（略懂）、存储引擎（爱好）、编程语言的实现（民科）。“发表是最好的记忆”。
 
@@ -2772,6 +2829,27 @@ V2版本：
 Go语言中文网的站长。
 
 目前在北京一家创业公司担任 CTO。2011 年春，北京大学硕士毕业，先后在开心网、奇虎 360 工作。本人一直从事服务端相关工作，有着丰富的经验，对前端也有所掌握，Android 开发也了解些。虽然目前管理方面的事情较多，但一直保持着技术学习。擅长服务端技术和架构。
+
+### 峰云就她了
+
+- 博客地址：<https://xiaorui.cc/>
+
+专注于Golang、Kubernetes、Nosql、Istio。
+
+代表作品：
+
+- 技术分享PPT：<https://github.com/rfyiamcool/share_ppt>
+
+### 邹明远
+
+- 明远的自留地：https://mayandev.github.io/
+
+### ConardLi 世奇
+
+- code秘密花园：https://blog.conardli.top/
+
+一名乐于分享的前端开发者。前沿的前端技术、最新的前端消息、最精品的技术文章、最好用的工具推荐。
+
 
 ## 六、独立开发
 
