@@ -1536,7 +1536,7 @@ Blog大事记：
 
 - 博客地址：https://battlele.com
 
-暂无RSS链接。
+- RSS链接：https://battlele.com/atom.xml
 
 用车轮丈量大地，视野所及是世界。
 
