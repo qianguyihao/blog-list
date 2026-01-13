@@ -1202,6 +1202,61 @@ V2版本：
 
 这里并没有固定的更新频率，全看心情，日更、周更、月更、年更都有可能。如果你恰好对以上内容也感兴趣，可以考虑订阅邮件或者 RSS。
 
+### Kalan
+
+- 博客地址：https://blog.kalan.dev/
+
+我在2014 年左右进入网页开发领域，目前为职涯的第十年。直至为止，我仍然喜欢建构介面与写程式。
+
+参与的专案多样，包含活动页面开发、直播服务前端串接、金融服务、后台系统开发、资料视觉化等前端常见的应用场景与技术领导。 2019 年来到日本工作后，决定定居福冈。
+
+在工作十年后决定探索人生的各种可能性，决定裸辞在日本以独立开发闯荡。
+
+你也可以到[这里](https://me.kalan.dev/)看看更详细的自我介绍。
+
+### 邓布利多
+
+- 邓布利多的冥想盆：https://pensieve.wangxindi.org/
+
+邓布利多教授的博客，主要记录 PhD Life，Art 相关，以及一些杂七杂八的「人生感悟」。
+
+欢迎进入 Albus’s Pensieve —— 邓布利多的冥想盆。本博客主要记录社畜生活里的精神食粮，以及一些杂七杂八的『人生感悟』。此博客于2018年10月30日正式启用，迁移了之前博客[邓布利多的冥想盆](http://albus1993.lofter.com/)的部分文章。
+
+日常不务正业的社畜。Permanent Head Damage.
+
+喜欢啥：
+
+🎻 古典音乐学习者：欢迎关注我的古典音乐 [telegram channel](https://t.me/exploreclassical)
+🎹 弹琴：constantly struggle with practicing regularly
+🧑🏻‍🎨 画画 + brush lettering：similar situation as piano practicing
+🏛 逛博物馆等文娱活动
+📖 看闲书：欢迎访问[邓布利多的图书馆](https://dumbledorepensieve.notion.site/056b0a7375d545f48e04eb00ec23f3e4?v=f2e442cc450746c7995dd85b7553555e&pvs=4)
+⚡️ 哈迷: which is pretty obvious 🤣
+
+Quotes I love：
+
+- 正因为我们看不清未来，所以才能成为命运的主人
+- Happiness is just temporary, but interest lasts longer
+- 生きている限り、バッドエンドがない。僕たちはまだまだ途中だ。
+- 仓促本身就是最要不得的态度。当你做某件事的时候，一旦想要求快，就表示你不再关心它，而是想做下一件事。
+- You can have it all but not at the same time.
+- 我们在逃避命运的路上遇到命运
+
+### 小马
+
+- 查令十字街 84 号：https://javis.me/
+
+ENFP-T，爱好读书观影、自由搏击、偶尔弹吉他。博客用来记录日常，分享体验、经验与思考。
+
+你可以喊我小马。喜欢📖读闲书、📝 写作、🛝散步、🍻喝酒、👩‍🎤看Live和🐆逛动物园（坚决抵制动物表演）。
+
+我发起了一份「众筹表单」，一方面记录城市周边好玩好喝的地方，另一方面分享给你——想出门但不知道去哪的你。如果你有想分享的去处也欢迎填写：[深圳喝酒妙处&广东周边游](https://duou3lhpix.feishu.cn/wiki/FF34wedKpijkyskr9m9cm8lynlh?from=from_copylink)
+
+2023 年最喜欢的一句话出自读库老六「项目的结果，更大的可能是一事无成。但希望大家不是一无所获。」
+
+2022 年最喜欢的一句话出自彭 萦「吵架目的不是只发泄情绪，而是解决问题、表达脆弱、增进理解、和建立 connetion。」
+
+与他人建立联结的最简单方式，就是向他们分享一些东西。分享一次谈话，分享一次经历，分享一个故事，分享一个笑话，分享一顿美食，分享一个游戏，分享真实的自己。在人生中有无数次机会，我们可以跟其他人分享有趣的时光。
 
 ## 三、人间烟火
 
@@ -1405,6 +1460,11 @@ Blog大事记：
 
 > 阅读+笔记+工具、个人知识管理（PKM）、工作流等。
 
+### Dayu
+
+- Another Dayu：https://anotherdayu.com/
+
+叫我 Dayu（大宇）吧，这是我的小名，也是我的英文名。网络上的我是碎片化的，有多少个平台，就有多少个我。这个博客，是最接近于我的，依旧非完整的我。我与我周旋久，宁作「我」。
 
 ### Pseudoyu
 
@@ -1428,6 +1488,14 @@ Yu Zhang 张宇，区块链开发工程师，香港大学计算机系硕士毕�
 
 - [《BitXHub 跨链插件（Fabric）源码解读》](https://www.pseudoyu.com/zh/2021/09/09/blockchain_crosschain_bitxhub/)
 
+### 椒盐豆豉
+
+- 博客地址：https://blog.douchi.space
+
+女，现居美国湾区粗糙码农，单机游戏玩家，家有俩猫。电影、电子产品爱好者。喜欢就买，不行就分，多喝热水，重启电脑。
+
+写了二十年博客，2020 年入坑 [pixel art](https://blog.douchi.space/100-days-of-pixel-art/)，2023 开始做[播客](https://blog.douchi.space/tags/podcast/)，持续寻找新创作媒介中。
+
 ### owenyoung
 
 - 博客地址：https://www.owenyoung.com/
@@ -1438,13 +1506,6 @@ Yu Zhang 张宇，区块链开发工程师，香港大学计算机系硕士毕�
 
 我更喜欢用明文纯文本记录东西。不喜欢把博客存放到数据库中，这样更有掌控感，更自由，同时也能不被运营商锁定。
 
-### 椒盐豆豉
-
-- 博客地址：https://blog.douchi.space
-
-女，现居美国湾区粗糙码农，家有俩猫。电影、电子产品爱好者。喜欢就买，不行就分，多喝热水，重启电脑。
-
-写了二十年博客，2020 年入坑 [pixel art](https://blog.douchi.space/100-days-of-pixel-art/)，2023 开始做[播客](https://blog.douchi.space/tags/podcast/)，持续寻找新创作媒介中。
 
 
 ### 吴诗涛
@@ -1760,12 +1821,6 @@ Pinchlime 则是自己自创的单字，它念起来的感觉有点像中文的P
 - 博客地址：https://juemuren4449.com
 
 有很多生活好物的测评，以及软件工具推荐。
-
-### anotherdayu
-
-- 博客地址：https://anotherdayu.com/
-
-叫我 Dayu（大宇）吧，这是我的小名，  也是我的英文名。网络上的我是碎片化的，有多少个平台，就有多少个我。这个博客，是最接近于我的，依旧非完整的我。我与我周旋久，宁作「我」。
 
 ### VeryJack
 
@@ -4607,6 +4662,20 @@ Web 前端爱好者，河南安阳人。
 
 Mu Lei，CEO [@lambdachip](https://twitter.com/lambdachip)
 
+
+### Jarry
+
+- 99 problems：https://jarrywangcn.github.io/
+
+各种杂谈，涉及书、摄影、爵士乐和编程。
+
+童年时期生活在上海，后来在杭州（浙江）、佛山（广州）、成都（四川）和台州（浙江）生活过一年或一年以上。
+
+我目前在爱尔兰都柏林生活和学习，从事软件工程师的工作。这是我的GitHub页面。
+
+我或许算不上专业摄影师，但我热爱摄影。虽然我通常拍摄街头快照，但我对人像、美食和建筑也颇感兴趣。
+
+我最喜欢的摄影师是马丁·帕尔、薇薇安·迈尔、杰夫·沃尔、马克·吕布、上田庄司、吕楠和伯纳德·福孔。这是我的作品集页面。最近我会在Instagram上发布我的照片。
 
 ## 其它链接
 
