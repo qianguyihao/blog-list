@@ -619,7 +619,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 第三方评价：他的总结很好地诠释了什么叫「好好生活」。最开始会被他的头衔吸引，MIT 计算机科学博士、机器学习框架 MXNet 的早期开发者、Google Brain 的科学家。但到头来，成为一个有趣的人才是吸引人的原因。
 
-
 ### 极客死亡计划
 
 - 博客地址：https://www.geedea.pro/
@@ -2114,9 +2113,15 @@ I'm zac, 一个创业者、学习者，做过互联网运营，做过播客项�
 - [MarkMark](https://apps.apple.com/app/apple-store/id6475077023?pt=126819514&ct=imtx&mt=8)：2024 年发布，以“Read it later”和「网络收藏夹」为切入口，目标是做好一部分信息管理。目前在积极迭代中。
 - [PopTranslate](https://poptranslate.app/)：2025 年 3 月上线的面向 macOS 系统的 AI 翻译工具。
 
+## 五、人工智能
+
+### 宝玉
+
+- 宝玉的分享：https://baoyu.io/
 
 
-## 五、技术博客
+
+## 六、技术博客
 
 ### 张鑫旭
 
