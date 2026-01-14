@@ -27,6 +27,8 @@
 
 擅长领域：JavaScript、ECMAScript、科技周刊等。
 
+对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。
+
 ### 和菜头：槽边往事
 
 - 博客地址：https://www.hecaitou.com/
@@ -2400,6 +2402,21 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 《Lua设计与实现》一书的作者。
 
+### 於清樂
+
+- This Cute World：https://thiscute.world/
+
+中文昵称「於清樂」「二花」，英文 ID「ryan4yin」「ryan_yin」。运维工程师。
+
+曾在 Mobiuspace 担任 SRE 工程师，主要负责维护与优化 K8s 服务平台及流量链路，分析与管控 AWS/GCP 云计算成本。2025.5至今，在某海外公司担任 Senior SRE(remote)，仍然是做云基础设施维护优化、云成本缩减等工作。
+
+我从 2016 年开始写博客，已经有很多年了，也试用过国内外很多的写作平台，不过最终还是选择了搭建一个自己的站点，因为它完全受我自己管控，自由度最高，文章不会无故被删除或封锁。其次是很多免费的静态站点服务可用（如 GitHub Pages、Vercel 等），基本不花钱。
+
+不论是生活博客还是技术博客，每位写博客的博主，都有着自己的目的，我写博客的目的变化过很多次。最开始我只是想尝试下新鲜事物；后来变成想获得更多的阅读量跟评论，因为这能给我强烈的成就感；再后来我也试过把博客当成技术笔记本跟日记本来用，写了很多琐碎的东西；接着呢就到了现在，**现在我写博客的首要目的是通过它梳理与构建我的知识体系，我的博客跟我的个人笔记[ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) 就是我的知识宝库，我在不断往里面补充新的内容的同时，也越来越多地依赖它完成自己的日常工作甚至业余玩乐；而次要目标则是将自己学到的知识分享给有需要的人，助人为乐嘛；最后一个目的，是记录我自己，记录我的喜怒哀乐，记录我的成长**。
+
+我的域名都买了最长的十年，而且隔几年就续满，我希望这个博客能陪伴我很久很久。下一个十年，再回头看看我的博客，看到我这十年走过的路，我想那个时候一定会很有趣！
+
+
 ### 地瓜哥
 
 - 博客地址：https://www.diguage.com/
@@ -2443,18 +2460,6 @@ V1版本：清华大学软件学院研三在读，Apache IoTDB committer，Talen
 此时，[OpenStack](https://www.xiexianbin.cn/openstack/) 已经很稳定，基本不需要太多的投入。开始从事云周边的研究，如 [Kubernetes](https://www.xiexianbin.cn/kubernetes/)、CDN、[DPDK](https://www.xiexianbin.cn/dpdk/) 等。
 
 随着计算机，特别是人工智能的发展，算力在部分场景中，由一虚多像多虚一转化，传统的虚拟化和云计算已经不能满足器需求。于是开始研究超算、智算相关的技术。
-
-### TsingChan
-
-- 9ong：http://www.9ong.com/
-
-PHP 方向的开发者，博客内容整理非常多。
-
-### This Cute World
-
-- 博客地址：https://thiscute.world/
-
-中文昵称「於清樂」「二花」，英文 ID「ryan4yin」「ryan_yin」。运维工程师。在 Mobiuspace 担任 SRE 工程师，主要负责维护与优化 K8s 服务平台及流量链路，分析与管控 AWS/GCP 云计算成本。
 
 ### soulteary 苏洋
 
@@ -2886,6 +2891,12 @@ Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心
 
 代表文章：《[初识网络原理: 从浏览器地址栏输入 URL 到页面渲染之间都经历了什么 | Anran758's blog](https://anran758.github.io/blog/2018/04/06/URL-to-browser/)》《[Flexbox 布局入门 | Anran758's blog](https://anran758.github.io/blog/2020/02/05/css-getting-started-with-flexbox/)》《[Flexbox 布局实际用例 | Anran758's blog](https://anran758.github.io/blog/2020/02/22/flexbox-use-cases/)》《[计算机网络原理笔记 | Anran758's blog](https://anran758.github.io/blog/2021/08/15/note-04741/)》
 
+### TsingChan
+
+- 9ong：http://www.9ong.com/
+- 博客暂无法访问
+
+PHP 方向的开发者，博客内容整理非常多。
 
 
 ## 六、独立开发
