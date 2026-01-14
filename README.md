@@ -2426,12 +2426,6 @@ V2版本：清华本硕，对分布式系统和性能优化感兴趣。Apache Io
 
 V1版本：清华大学软件学院研三在读，Apache IoTDB committer，Talent Plan Community mentor。
 
-### 赵晨阳
-
-- 博客地址：https://zhaochenyang20.github.io/
-
-清华大学2020级本科生，计算机专业；投身人类社会观察运动。
-
 ### 谢先斌
 
 - 博客地址：https://www.xiexianbin.cn/
