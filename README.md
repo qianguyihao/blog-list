@@ -2392,27 +2392,13 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 代表文章：《[独立开发穷鬼套餐(Web实践篇)](https://guangzhengli.com/blog/zh/indie-hacker-poor-stack)》、《[谈谈 AI 编程工具的进化与 Vibe Coding](https://guangzhengli.com/blog/zh/vibe-coding-and-context-coding)》
 
-### codedump的网络日志
+### codedump
 
 - codedump的网络日志：https://www.codedump.info/
 
 喜欢研究代码的原理，所以就取名“code dump”了。个人感兴趣领域：分布式存储（业余）、系统编程（略懂）、存储引擎（爱好）、编程语言的实现（民科）。“发表是最好的记忆”。
 
 《Lua设计与实现》一书的作者。
-
-### 风雪之隅-惠新宸
-
-- 博客地址：<https://www.laruence.com/>
-
-Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心成员, Zend顾问, PHP7及PHP8 JIT核心作者，Yaf等开源项目作者。博客里有PHP源码分析、PHP应用、JS/CSS以及随笔等栏目。
-
-### 真没什么逻辑
-
-- 面向信仰编程：https://draveness.me/
-
-### 纯洁的微笑
-
-- 博客地址：<http://www.ityouknow.com/>
 
 ### 地瓜哥
 
@@ -2422,41 +2408,23 @@ Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心
 
 热衷摄影，希望用相机记录美好生活。喜欢户外运动、跑步、自驾游、露营、野炊等。感兴趣，欢迎勾搭…
 
-对于写作体验有近乎苛刻的追求。
-
-### 火丁笔记
-
-- 博客地址：https://blog.huoding.com/
-
-### Nic Lin
-
-- 博客地址：https://blog.niclin.tw/
-
-
+对于写作体验有近乎苛刻的追求。所以，针对博客，折腾过好多次。
 
 ### 臨池不輟
 
 - 博客地址：https://keelii.com/
 
+- 暂无RSS链接。
 
-
-### Anran758
-
-- 博客地址：https://anran758.github.io/blog/
-
-在日常工作中，我们总遇到不同的问题和难点。或许这次遇到了这种业务场景，几个月后或者更久又碰到了相同的场景，虽然我们有了前面的经验知道大致思路该如何处理，但是时隔已久再重新回想的话需要一定的时间，中间还可能丢失一些细节。但此时如果有文字纪录的话就能很快的回想起当初的场景，这也是笔者开始写博客的契机。
-
-写博客说到底就是梳理知识的一个过程，将碎片化的知识通过写作转换为较为完整的知识结构和解决方案，这样一来可以温故知新，二来还可以回馈社区。
-
-这个博客主要分享工作中所遇到的一些疑难杂症的解决方案、具体业务场景的分析与实现、梳理过后的 web 相关知识点、计算机基础相关的学习笔记等。内容更多偏向实际应用与现成的解决方案。
-
-代表文章：《[初识网络原理: 从浏览器地址栏输入 URL 到页面渲染之间都经历了什么 | Anran758's blog](https://anran758.github.io/blog/2018/04/06/URL-to-browser/)》《[Flexbox 布局入门 | Anran758's blog](https://anran758.github.io/blog/2020/02/05/css-getting-started-with-flexbox/)》《[Flexbox 布局实际用例 | Anran758's blog](https://anran758.github.io/blog/2020/02/22/flexbox-use-cases/)》《[计算机网络原理笔记 | Anran758's blog](https://anran758.github.io/blog/2021/08/15/note-04741/)》
+前端技术博客。
 
 ### 谭新宇
 
 - 博客地址：https://tanxinyu.work/
 
-清华大学软件学院研三在读，Apache IoTDB committer，Talent Plan Community mentor。
+V2版本：清华本硕，对分布式系统和性能优化感兴趣。Apache IoTDB/TsFile/Ratis PMC & Talent Plan Community mentor
+
+V1版本：清华大学软件学院研三在读，Apache IoTDB committer，Talent Plan Community mentor。
 
 ### 赵晨阳
 
@@ -2838,6 +2806,10 @@ V2版本：
 
 - [RSS订阅](https://halfrost.com/rss/)
 
+### 真没什么逻辑
+
+- 面向信仰编程：https://draveness.me/
+
 ### polarisxu
 
 - 博客地址：<https://polarisxu.studygolang.com/>
@@ -2865,6 +2837,61 @@ Go语言中文网的站长。
 - code秘密花园：https://blog.conardli.top/
 
 一名乐于分享的前端开发者。前沿的前端技术、最新的前端消息、最精品的技术文章、最好用的工具推荐。
+
+### Laruance
+
+- 风雪之隅：<https://www.laruence.com/>
+
+Laruance惠新宸，国内最有影响力的PHP技术专家，PHP开发组核心成员, Zend顾问, PHP7及PHP8 JIT核心作者，Yaf等开源项目作者。博客里有PHP源码分析、PHP应用、JS/CSS以及随笔等栏目。
+
+### 纯洁的微笑
+
+- 博客地址：<http://www.ityouknow.com/>
+
+想做的事： 赚更多的钱，去做风骚又能产生价值的事。
+坚持的信念： 做一个保持纯洁、保持微笑的程序员。
+
+2009 年，因为数学建模接触编程，爱上了代码的世界。
+2010 年，经过培训正式成为程序员。
+2010 ~ 2013 年，在西安扎根三年，专注通讯领域。
+2013 年，清明节北漂，辗转第三方支付与互联网金融企业。
+2014 年，从零参与搭建某互联网金融公司并在 2015 年负责技术团队。
+2016 年开始写博客，2017 年开通微信公众号，2018 年任第三方支付公司研发副总。
+2019 年离职成为自由职业者，开始探索新角色。
+2020 年回到西安成立工作室，与伙伴共同创业。
+最喜欢的一本书是《平凡的世界》，平凡人生也可以有不平凡的精神。
+
+### 火丁笔记
+
+- 博客地址：https://blog.huoding.com/
+
+- 博客已无法访问。
+
+### Nic Lin
+
+- 博客地址：https://blog.niclin.tw/
+
+会跳Breaking 的网站开发者，擅用Ruby on Rails 进行开发。现于区块链行业工作。
+
+我在国小时开始接触按键精灵等脚本，在高中的时候喜欢研究后门木马加壳及社交工程，所以很早就对于程式开发有浓厚的兴趣，直到现在。
+
+大学也因此就读资讯工程系，曾在补习班打工当助教，对于教学也有一定熟悉。
+
+喜欢解决问题，这使我有成就感，每一个Small Win 都是我成长的动力。
+
+
+### Anran758
+
+- 博客地址：https://anran758.github.io/blog/
+
+在日常工作中，我们总遇到不同的问题和难点。或许这次遇到了这种业务场景，几个月后或者更久又碰到了相同的场景，虽然我们有了前面的经验知道大致思路该如何处理，但是时隔已久再重新回想的话需要一定的时间，中间还可能丢失一些细节。但此时如果有文字纪录的话就能很快的回想起当初的场景，这也是笔者开始写博客的契机。
+
+写博客说到底就是梳理知识的一个过程，将碎片化的知识通过写作转换为较为完整的知识结构和解决方案，这样一来可以温故知新，二来还可以回馈社区。
+
+这个博客主要分享工作中所遇到的一些疑难杂症的解决方案、具体业务场景的分析与实现、梳理过后的 web 相关知识点、计算机基础相关的学习笔记等。内容更多偏向实际应用与现成的解决方案。
+
+代表文章：《[初识网络原理: 从浏览器地址栏输入 URL 到页面渲染之间都经历了什么 | Anran758's blog](https://anran758.github.io/blog/2018/04/06/URL-to-browser/)》《[Flexbox 布局入门 | Anran758's blog](https://anran758.github.io/blog/2020/02/05/css-getting-started-with-flexbox/)》《[Flexbox 布局实际用例 | Anran758's blog](https://anran758.github.io/blog/2020/02/22/flexbox-use-cases/)》《[计算机网络原理笔记 | Anran758's blog](https://anran758.github.io/blog/2021/08/15/note-04741/)》
+
 
 
 ## 六、独立开发
