@@ -1298,6 +1298,12 @@ ENFP-T，爱好读书观影、自由搏击、偶尔弹吉他。博客用来记�
 坐标中国广东广州；web 前端开发者，Vue 👌 React 👌 Vanilla 更 👌；unity 学习中（更新：荒废中）；RN、iOS、android 同样荒废中，替代方案：Tauri。
 
 
+### Atlas
+
+- 博客地址：https://atlas.xlog.app/
+
+
+
 ## 三、人间烟火
 
 ### BYVoid
@@ -5001,6 +5007,19 @@ Mu Lei，CEO [@lambdachip](https://twitter.com/lambdachip)
 
 - 博客地址：https://hyoban.cc/
 
+### 默默小屋
+
+- 默默小屋：https://www.gexiao.me/
+
+主业写代码，然而技艺不精，努力中。
+
+建过地区论坛，带过大学贴吧，熟悉中国网民习性，很多人叫我「默默」。现在常看 V2EX 和微博、Twitter。
+
+性情温顺，不爱闲聊，经常帮人，朋友众多，非常耐撕，尊重逻辑。
+
+缺乏仪式感，对任何无意义的表演性质场合感到不适。
+
+思维放荡，平权主义者，强调个体独立和自由。
 
 ## 其它链接
 
