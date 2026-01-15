@@ -303,6 +303,37 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 擅长研究用户心理, 可以快速从 0 到 1 构建交互体验极佳的产品；全能选手， 上到客户需求沟通、 研发团队管理， 下到接网线写代码；自学能力极强、 精力旺盛， 平常没事就喜欢看书玩会儿电脑。
 
+
+
+### Fenng 冯大辉
+
+- DBA Notes | 闲思录：https://dbanotes.net/
+
+现在是一个创业者，无码科技创始人。
+
+大学所学专业为生物技术，当然，学到的东西都留给了学校，毕业后因为个人兴趣转而从事计算机行业。
+
+在 IT 行业的前几年基本上是做 Oracle 数据库相关的技术工作，对大型 Oracle 数据库的管理与性能优化有一点研究，有点实践经验，乐于分享技术经验，是 Oracle 授予的 ACE Director ![ACE Director](https://www.dbanotes.net/Images/123555.gif)([bio](http://apex.oracle.com/pls/otn/f?p=19297:4:3216419336219328::NO:4:P4_ID:331),中文[介绍](http://www.oracle.com/technology/global/cn/community/oracle_ace/ace1.html#feng))。技术杂家，自认为可以做个 Evangelist。我的技术背景包括:
+
+- Oracle/MySQL RDBMS
+- Unix / Linux
+- Web Arch / Security
+- User Experience
+- e-Payment
+
+曾经参与编辑两本 Oracle 的技术图书:
+
+- [《Oracle数据库性能优化》](https://www.google.com/search?hl=zh-CN&q=Oracle数据库性能优化+ITpub+&btnG=搜索&lr=)
+- [《Oracle数据库DBA专题技术精粹》](https://www.google.com/search?hl=zh-CN&q=Oracle数据库DBA专题技术精粹&btnG=搜索&lr=)
+
+此外曾参与翻译过四本计算机图书。最新合译的作品[《Oracle性能诊断艺术》](https://www.dbanotes.net/top.html)(Troubleshooting Oracle Performance 中文版)于2009 年 11 月出版。
+
+从2010年6月11日开始出任丁香园（ [http://DXY.com](http://dxy.cn/) ）CTO。之前就职于阿里巴巴集团旗下[支付宝(中国)网络技术有限公司](https://www.alipay.com/) 五年有余。曾负责领导数据库技术团队。热爱互联网，欣然看到电子支付对互联网的改变，在这个行业爬摸滚打了几年，稍微有一点成就感。
+
+这个站点是我实验 **Web 技术与知识积累**的场所，秉承”最简约的技术取得最大的收益”的理念，希望也能对其他人有点用。当然，偶尔也会发表一些不合时宜但还能负责的言论。如您所知，本人发布的文章与评论内容仅代表本人观点。
+
+我是东北人，现在和妻子生活在杭州。养了一只猫(猫泽西)。 喜欢 [The Cure](http://www.thecure.com/) 的音乐. 一般在网上我用 “Fenng” 这个ID 进行技术交流。
+
 ### 天仙子（秦海碗）
 
 - 博客地址：https://tianxianzi.me/
@@ -1417,6 +1448,29 @@ Leixus 是我的网名，灵感取自那款日系车的名字（因为以前很�
 
 - DayDay.Plus：https://dayday.plus/
 
+### 友人C
+
+- 博客地址：https://www.ihewro.com/
+
+所在地：北京；目标：做最酷的人；目前岗位：c++ 客户端 & chromium developer & 全栈。
+
+相关经历：
+
+- 2015-2019 北京化工大学 本科 计算机科学与技术专业
+- 2019-2021 北京邮电大学 计算机科学与技术专业，实验室：东信北邮
+- 2021.5 - 2021.10 飞书实习
+
+相关作品：
+
+- [handsome](https://www.ihewro.com/archives/489/) (typecho blog theme)
+- [focus](https://www.ihewro.com/archives/948)（Android RSS 订阅软件）
+- [geek云会议](https://www.ihewro.com/archives/1081/) (基于Java的会议软件)
+
+### 冯唐
+
+- 博客地址：https://www.fengtang.com
+
+冯唐，作家、诗人、艺术家、战略专家，著有多部作品。
 
 ## 三、人间烟火
 
@@ -1693,6 +1747,25 @@ Blog大事记：
 
 自 2019 年 09 月 19 日起，本站已运行 2309 天，截至 2026 年 01 月 12 日，写了博文 1984 篇，334 万 7257 字。
 
+### 筚路蓝缕
+
+- 博客地址：https://bilulanlv.com/
+
+筚路蓝缕，以启山林。
+
+### winegrower
+
+- 博客地址：https://www.winegrower.cn/
+
+是一个来自农村的男孩，从小学-初中-高中-大学一步步走来，在家人和自己的努力下，从西部的一个小山村，来到了大都市。他经历过不同的社会，接触过不同的人群，学习了不同的知识，但由于他的悟性不足，努力不够，所以一直在路上。这是他的博客，我将在这里记录他的所见所闻，所思所想，希望和大家多多交流~
+
+
+
+### Mr.He
+
+- 飞絮落叶雪：https://www.mrhe.net/
+
+一位中老年大叔，自 20 岁起被称为老何，于是便自称老何。对什么都感兴趣，但没有一样精通。 从小不喜欢语文,也不会说话,性格偏激,说话很冲,不过脑,喜欢胡言乱语。 写博客是很随性，没有水平,没有逻辑性，写不出来深度文章，仅仅想记录一下当时的状态和想法,倡导陌生人社交,从未向身边的人提及过此博客。
 
 ## 四、数字花园
 
@@ -3422,22 +3495,19 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 
 小站虽然粗陋，亦是我思我忆，愿友人多访之。
 
+
+
 ## 九、昔日重温
 
 > 很久未更新，但内容值得一看。
 
 ### 雷军
 
-博客地址：
-
-- <http://leijun.blog.techweb.com.cn/>
 - 新浪博客：<http://blog.sina.com.cn/leijun>
 
+- 博客地址：<http://leijun.blog.techweb.com.cn/>
 
-
-### 冯唐
-
-- 博客地址：https://www.fengtang.com/blog/
+  
 
 
 
@@ -3447,14 +3517,11 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 ### 刘未鹏
 
 - 博客地址：<http://mindhacks.cn/>
+- 暂无法访问。
 
 《暗时间》一书的作者。南京大学计算机系硕士毕业，现就职于微软亚洲研究院创新工程中心。兴趣爱好：计算机科学，人工智能，认知科学。著名综合技术讨论组Toplanguage创始人。
 
 
-
-### Fenng 冯大辉
-
-- 博客地址：<https://dbanotes.net/>
 
 ### MacTalk 池建强
 
@@ -5288,6 +5355,34 @@ Loekman，是初中第一次上英语课时给自己取的英文名，那时英�
 
 博客最早从2008年开始，断断续续更换过很多域名，“漫漫长路”起自2019年12月，以四位首字母“mmcl.net”为域名，彼时正在感叹人生之路漫漫，藉此将博客成为记录思考与成长的精神家园。
 博客里分享一些生活感悟，偶尔也记录下旅途中的风景；这里没有浮夸的噱头，只有真诚的思考和平凡日子里的点点星光。
+
+### 简简
+
+- 苍术：http://www.iiros.com/
+- 暂无RSS链接。
+
+家乡：南宁；爱好：画画；喜欢：五月天/罗杰·费德勒；欢的电影：生活大爆炸/哈利波特；相机：富士X100T。
+
+### 致郁系
+
+- 致郁系-61：https://www.juroku.net/
+
+16，坐标广州。
+饭圈属性：ko，KAT-TUN，袖章 →2025年了谁能想到PK成最大赢家(≖ᴗ≖)✧（众所周知PARK里的R不发音）。而现实中：手帐er（hobonichi→GoodNotes） 死宅 社恐 上班族 带娃。
+
+### 木先森 
+
+- 地址：https://www.meizg.cn/
+
+### 山野愚人居
+
+- 地址：https://www.iyuren.com/
+
+### 雅岚
+
+- Yalan's Life 雅岚文藝博客：https://yalanlife.net/
+
+非著名的黑色浪漫主义文人, 水彩插画人, 哥特艺术与金属音乐爱好者, 热衷于沾花惹草、东涂西画，尤喜漫步山川海洋，静赏四季变幻风情，或带小女乡间骑行，闻香拾果，闲绘花开花落。
 
 ## 其它链接
 
