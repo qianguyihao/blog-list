@@ -790,9 +790,29 @@ Victor，职业是UI/UX设计师，现居杭州。至于42，是个神奇数字�
 
 ### yihong0618
 
-- 博客地址：https://github.com/yihong0618
+- 博客地址：https://blog.yihong0618.me/
 
-喜爱[游戏](https://www.gcores.com/users/60793)，跑步，[读书](https://github.com/yihong0618/my_kindle_stats)，编程。 项目大多和这些相关。用 GitHub 记录blog 和生活日常。
+- GitHub博客地址：https://github.com/yihong0618
+
+- 记录自己跑步 15 年了：https://yihong.run/
+
+生活工作在[大连](https://github.com/yihong0618/dalian-IT)。 喜爱[游戏](https://www.gcores.com/users/60793)，[跑步](https://www.yihong.run/)，[读书](https://github.com/yihong0618/kindle_download_helper)，编程和[有趣的东西](https://github.com/yihong0618/blue)。用 GitHub 记录blog 和生活日常。
+
+about：
+
+性格还算温和，偶尔气急了也骂人；写了 20 多年日记，但大部分都丢了；我不用 RSS；不太喜欢加微信群；现在还能背下来将近一百位圆周率；能背下来《琵琶行》和大部分学过没学过的诗；哦对忘了我喜欢诗歌；读过王小波的所有书；读完过《浮士德》；读完过还不止一遍村上春树的所有书；读了不少历史书；看过几百部电影，喜欢的电影是《搏击俱乐部》；最喜欢的游戏是《Dream Quest》《血源》；喜欢的编程语言是 Python；有同好交朋友特别欢迎，但现在不怎么主动加微信了，邮件 tg 都欢迎；防疫时候失去了曾经非常要好的朋友，但也不算后悔；媳妇是初恋；跑过马拉松，PB 4 小时 1 分钟，半马 PB 1 小时 40 分钟；生活在大连；心情不太好时候会跑到海边看海；遇到过贵人，几个帮助我的领导老师都让我成长学到了不少，包括现在的领导，同事。；不想去谈顿悟，但是有时候突然间会针对自己的境遇想明白一些东西；在 2024 年初依然喜欢用 Google 搜索大于 ChatGPT, 因为能发现有趣的人；喜欢读有趣的人的博客；需要聊缺点么？；不聊了就写到这儿先，想到再补充；补充，经常激励自己和说给朋友的话是 The best is yet to come.；迷茫的时候会听 Bad day；0618 是 0.618 的意思，不是我生日，我也不是刘强东粉丝；喜欢喝酒，酒量一般，但是家人不咋让喝了，痛风。；跑了 10000km；下一个期望是学会日语。
+
+### 螺莉莉
+
+- 螺莉莉的数据中心：https://roriri.one/
+
+- RSS订阅：https://roriri.one/atom.xml
+
+男性，自我性别认同男，并为之自豪，不幸的是常被小朋友误认为阿姨。自我感觉非常良好，认为四舍五入自己可以算是美女。对吃药特别有一套，是一个 Podcast 主播。
+
+技能树点得枝繁叶茂，主要节点包括前端开发、社会认知神经科学、心理学、教育学、频率学派统计学、写作、书法、设计、中国传统绘画、素描与速写、萨克斯。
+
+
 
 ### 白宦成(@bestony)
 
@@ -3038,9 +3058,9 @@ SHEIN 研发效能工程师，曾经作为咨询师和软件工程师为各行�
 
 - 博客地址：https://tobyqin.cn/
 
-### 卡瓦邦噶
+### 赖信涛
 
-- https://www.kawabangga.com/
+- 卡瓦邦噶：https://www.kawabangga.com/
 
 V1版本：
 
@@ -5720,7 +5740,20 @@ github：https://github.com/xhuaxs
 
 2022年8月：刷B站时候刷到了[圆周率](https://www.yuanzj.top/)博主的[视频](https://www.rua.ink/go/aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMTVkNHkxQTdMaw)开始萌生自己建博客想法。
 
+### 阿宏
 
+- 阿宏的随笔：https://iachieveall.com/
+- 订阅：https://iachieveall.com/rss.xml
+
+专注前端领域面试、基础技术等，偶尔写写技术外的探索。
+
+理念：知行合一，实践主义。标签：互联网大厂钉子户、实战派技术
+
+博客定位：深耕技术领域，打造无冗余、不追热点的「精准技术补给站」—— 让每一篇内容都直击核心痛点，每一个工具都适配日常高频需求。
+
+在技术由浅入深的同时，还延伸行业前沿趋势与跨领域实践，让博客技术学习和技术前瞻思维的双向价值，让技术学习与效率提升更直接、更纯粹。
+
+创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。
 
 ## 其它链接
 
