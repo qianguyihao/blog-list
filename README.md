@@ -3727,7 +3727,7 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 
 ### 余果
 
-- 余果的博客：<https://yuguo.us/>
+- 余果的博客：https://yuguo.github.io/
 
 2010年到2019年在腾讯ISUX，负责过QQ音乐、QQ空间、腾讯微云的产品设计。2019年从腾讯离职，加入了一家房产行业领先的产业互联网公司“房极客”，担任产品设计总监。
 
@@ -3740,15 +3740,6 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有十余篇文章。2021 年的年底，我打算重新写点东西。
 
 代表文章：《[Sublime Text 全程指引 by Lucida](https://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html)》《[我的算法学习之路](https://blog.lucida.me/blog/on-learning-algorithms/)》《[程序员必读书单 1.0 — 六年后的回顾](https://blog.lucida.me/blog/developer-reading-list-retro/)》
-
-
-### Hawstein
-
-- 博客地址：https://hawstein.com/
-
-干工程师/Indie Hacker，目前在做 [AlgoCasts](https://algocasts.io/)，专注于制作算法教学视频。在此之前我分别在豌豆荚担任后端工程师以及在 GrowingIO 担任后端技术负责人，同时是个 [Scala](https://www.scala-lang.org/) 选手，[Akka](https://akka.io/) 贡献者，北京 Scala Meetup 组织者，[Reactive Design Pattern](https://item.jd.com/12518824.html) 译者。
-
-代表文章：《[不上班的 613 天](https://hawstein.com/2020/02/17/be-an-indie-hacker-for-613-days/)》
 
 ### 完美的胖达
 
@@ -3813,16 +3804,6 @@ lucida.me 是我在 2014 年时创建的 blog。7 年之后，lucida.me 只有�
 
 网络安全大佬。真正的黑客至少需要具备两大能力：0day 挖掘能力与黑客工程化能力，这是我永恒的追求。
 
-### 赵劼
-
-- 老赵点滴 - 追求编程之美：<http://blog.zhaojie.me/>
-
-赵劼，网名老赵，洋名Jeffrey Zhao，花名赵姐夫，金融行业程序员，目前就职于摩根大通（香港）。多年微软MVP，InfoQ中文站兼职编辑。虽然广泛涉猎各类技术，但早就被人民群众贴上“微软”标签，现已认命。
-
-经过多年寻觅起伏，目前已打算潜心在金融行业发展。关注前沿技术，热爱开源。对函数式编程，并行程序开发，语言设计与实现，代码之美以及程序员能力与修养等相关问题也有着浓厚的兴趣，非常希望能够写程序到60岁。热爱生活，在技术之余也时常健身做饭弹钢琴，立志为彰显码农正面形象做出贡献。
-
-希望可以给初学者以合适引导。坚定的北大青鸟反对者，强烈愤慨恶劣的培训机构对于处于懵懂期的初学者以误导，强烈抵制各种虚假广告给业界带来的不良影响，强烈建议有理想有抱负的从业青年放弃北大青鸟，不要做冤大头。
-
 ### Linmi
 
 - 博客地址：<https://linmi.cc/>
@@ -3840,19 +3821,9 @@ Eason Yang，美团后端开发工程师，长期从事后端研发和架构设�
 本博客的历史最早可以追溯到我的高中岁月，从 WordPress 到 Typehco 再到现在的 Hexo ，折腾了不少博客系统，但文章积累得并不多。这里立下个 flag ，以后要努力丰富本博客的内容，做到质优量高。 如果你对我的博客折腾历史感兴趣，可以在 [log](https://easonyang.com/log) 中查看细节。
 
 
-### 透明思考
-
-- 博客地址：http://gigix.thoughtworkers.org/
-
 ### the5fire
 
 - 博客地址：https://www.the5fire.com/
-
-### 夏永锋
-
-- 博客地址：http://blog.xiayf.cn/
-
-编程技术分享。GitHub主页：https://github.com/youngsterxyf
 
 
 ### 曲政
@@ -3880,10 +3851,6 @@ Eason Yang，美团后端开发工程师，长期从事后端研发和架构设�
 - 不羁阁：https://bujige.net/
 
 - 程序员充电站：https://itcharge.cn/
-
-### 高行行
-
-- 博客地址：https://gaohanghang.cn/
 
 ### 辉格
 
@@ -4013,53 +3980,25 @@ wordpress博文内容主要分为以下几大类型：
 
 ## 十、小而美的博客
 
-### yonniye
-
-- 博客地址：<https://yonniye.com/>
-
-关于网站：这个网站主要用来记录自己学习GIS道路上的心得，留存个人生活与成长的记忆，以及展示一些自己感兴趣的事物。
-
-博主是谁：叶宇轩，yonniye。这个奇怪的英文名来自于突发奇想，读着不顺口，看着像logo。正常配置，南京土著，传统中锋，白日梦患者，代码搬运工，朋友圈潜水员。就读于南京师范大学地理信息科学系，大三啦。
-
-博主的愿望：
-
-- 希望自己能终身学习。“吾生也有涯，而知也无涯”，我想尽可能多地去知晓无用的知识。
-- 希望自己不要成为一个功利与油腻的人，而是能够拥抱自己真正热爱与感兴趣的事物，带着好奇心与想象力感知生命。我向往那些心性自由、来去如风的灵魂，他们可以仅凭自己的天性和兴趣去探索，不会为功名与暂停而焦虑。
-- 希望自己每天都能进步一点点。我是余生的信徒，坚信未来能赋予我想要的东西，所以我会怀着理想，永远朝气蓬勃。
-- 希望自己做出决定的时候，一定要保持清醒，对自己彻底地诚实，不要因欲望作祟而做出不负责任的举动。我再也不想伤害愿意真心待我的人与折磨自己带着杂念的心了。
-- 希望自己能少说多做，行动决定一切，自己的想法对除自己以外的人来说什么也不是，但自己的做法会实实在在地影响他人。
-- 希望自己记住，亲密关系是要捧着100%的真心呵护的，更何况自己已经辜负过天上的明月光了。
-- 希望自己能坚持记录，言出必行。
-
 ### chai2010
 
 - 博客地址：https://chai2010.cn/
 
 Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《Go语言圣经》](https://github.com/golang-china/gopl-zh)翻译者, [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)开源免费图书作者, [《WebAssembly标准入门》](https://github.com/chai2010/awesome-wasm-zh/blob/master/webassembly-primer.md)图书作者。
 
-### starfury
-
-- 博客地址：<http://starfury.tech/>
-
-程序员，架构师，目前在蚂蚁集团，在此之前经历集中电商和外企。
-
-高中辍学，入行相对较早。喜欢用代码用技术解决问题的感觉。
-但工作中团队管理、系统架构师的工作占比更大。
-
-应用方向上擅长高性能应用和数智化应用，业务方向上对金融和互联网实践比较丰富，其中在银行和电商方向有些比较厚的实践总结可以分享。
-
-目前在杭州和成都两地，喜欢骑行，喜欢泪湖、枪花，其余爱好不多了。
-
-喜欢价值创造的感觉，希望未来能创建自己的公司，或入伙一个更需要我的公司，以此为目标提升学习中。这里写了一个简单[经历回顾](http://starfury.tech/archives/1)。
-
-开博是为了记录下自己，也提升一下文字能力，会在这里分享技术、架构、管理以及一些感悟，欢迎留言交流，可以通过zsuil#live.com联系到我。
-
 ### 远飞闲记
 
-- 博客地址：<https://leonhe.cn/>  （打不开了）
+- 博客地址：<https://leonhe.cn/>
+
+一名热爱阅读、生活和思考的自由职业者。
 
 创业者、无证程序员、Emacs 党、🎮 游戏开发者、🕹 喜欢折腾各种技术的人。
 
+👨‍🎨 博客主要记录✍️分享一些个人生活、阅读、编程技术开发相关的手写文章.
+
+- 🎮 自由职业者、全栈开发者、游戏开发者.
+- 🕹 喜欢折腾各种技术的人.
+- 🐈 一只萌小猫（中华田园猫🐱）的主人
 
 ### 小菜学编程
 
@@ -4091,18 +4030,6 @@ Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《
 - GitHub：https://github.com/zhaoolee
 - 公众号：0加1
 
-
-### 黄磊
-
-- 石头落地前：https://levitating.blog/  （打不开了）
-
-- 英文博客：https://leihuang.io/
-
-前端开发者，现居上海的数字游民。
-
-
-
-
 ### 咸糖
 
 - 博客地址：https://vim0.com/
@@ -4117,9 +4044,19 @@ Go语言代码的[贡献者](https://golang.org/CONTRIBUTORS)(Chaishushan), [《
 
 - 博客地址：https://antfu.me/
 
-### p0werdown：很少明白
+### 很少明白@p0werdown
 
 - 博客地址：https://p0werdown.com/
+
+科普行业从业者，具体来讲就是做科普短视频的，你还记得回形针吗？我跟他们没关系。算是靠写稿养活自己，但也会点儿剪辑，不精通，但能接活赚零花钱那种。由于智商不是很够，加上学习太不努力，这辈子定是与科研无缘，只能努力做一点点传播科学的事情了，也确实算做出来一点成绩。
+
+小时候学过围棋，但下得不好，有业 2 证书，野狐 3D–4D 水平。
+
+本身是一个很拧巴的人，很多我认为正确的事，但自己却做不到。我可以很轻易地说出一大堆理想主义的宣言，但毅然决然选择最现实的路。说难听点就是「双标狗」，但谁又能不双标呢？
+
+话虽如此，也有底线，比如不吹中医，对，给多少钱都不吹那种。这就不是钱的事儿。另外不信星座，不信各种心理测试，用这些打招呼、搭话一律拉黑。
+
+「很少明白」是我很多年前一个中二的想法：郑板桥有书「难得糊涂」，我自以为智力才学远不及这位古人，故自嘲「很少明白」。
 
 ### Bambooom
 
@@ -5862,6 +5799,15 @@ github：https://github.com/xhuaxs
 - 地址：http://stuit.cn/
 
 内容非常丰富的网站，始建于2001年12月21日。
+
+### Hawstein
+
+- 博客地址：https://hawstein.com/
+
+干工程师/Indie Hacker，目前在做 [AlgoCasts](https://algocasts.io/)，专注于制作算法教学视频。在此之前我分别在豌豆荚担任后端工程师以及在 GrowingIO 担任后端技术负责人，同时是个 [Scala](https://www.scala-lang.org/) 选手，[Akka](https://akka.io/) 贡献者，北京 Scala Meetup 组织者，[Reactive Design Pattern](https://item.jd.com/12518824.html) 译者。
+
+代表文章：《[不上班的 613 天](https://hawstein.com/2020/02/17/be-an-indie-hacker-for-613-days/)》
+
 
 ## 其它链接
 
