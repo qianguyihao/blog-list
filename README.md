@@ -3719,18 +3719,6 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 
 - 博客地址：<http://macshuo.com/>
 
-### Willerce Zenn
-
-- 博客地址：<http://www.zhengjiale.com/>
-
-代表文章：
-
-- 《[GSeeker停止更新](http://www.zhengjiale.com/post/20/)》
-
-[GSeeker](http://www.gseeker.com/)是一个专门专注[Google](http://willerce.cn/tag/google/)和互联网新闻的博客，前身是幻灭的麦克风，2006年8月份改名了GSeeker并继续由原作者[Ken Wong](http://www.kenwong.cn/)继续编辑！在GSeeker里面可以了解到很多Google的应用技巧及最新的Google有趣的东西。
-
-但在08年的这个端午节,Ken Wong在GSeeker上宣布GSeeker将停止更新。
-
 ### 望月的博客
 
 - 博客地址：<https://wangyue.blog/>
