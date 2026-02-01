@@ -198,14 +198,6 @@
 
 如果您是第一次到访，可以从下面几篇最能代表我风格的文章开始阅读，祝您阅读愉快！
 
-### bang's blog
-
-- 博客地址：http://blog.cnbang.net/
-
-bang，88年生于广东陆丰，毕业于华南师范大学，程序员，喜欢做东西。
-
-经常上[新浪微博](http://weibo.com/bang)，有时用[Instagram](http://instagram.com/bang590)拍照，会去[豆瓣](http://www.douban.com/people/webbang/)找书和电影，偶尔上[twitter](http://twitter.com/bang590)。
-
 ### 一盘家常菜
 
 - 地址：https://life.wellwellsleep.com/
@@ -306,7 +298,6 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 ### 唐巧
 
 > iOS开发，孵化了 小猿搜题 和 小猿口算。斑马智能硬件业务负责人，带领团队研发的产品累计出货量超过 400 万台。著有《iOS 开发进阶》。
-
 
 - 博客地址：http://blog.devtang.com/
 
@@ -1190,7 +1181,9 @@ thoughtworks 高级咨询师；工程师 / 咨询师 / 作家 / 设计学徒；�
 
 作品：RSSHub、RSSHub Radar、DPlayer、APlayer。
 
-### 江宏
+### 1Byte@江宏
+
+> LeanCloud创始人，被并购到心动后曾在 TapTap 担任开发者服务的负责人。EMQ技术负责人。
 
 - 1Byte ：https://1byte.io/
 
@@ -2686,6 +2679,13 @@ RSS 订阅：
 
 - 宝玉的分享：https://baoyu.io/
 
+### bang's blog
+
+- 博客地址：http://blog.cnbang.net/
+
+bang，JSPatch 开发者，88年生于广东陆丰，毕业于华南师范大学，程序员，喜欢做东西。
+
+经常上[新浪微博](http://weibo.com/bang)，有时用[Instagram](http://instagram.com/bang590)拍照，会去[豆瓣](http://www.douban.com/people/webbang/)找书和电影，偶尔上[twitter](http://twitter.com/bang590)。
 
 
 ## 六、技术博客
@@ -2704,6 +2704,27 @@ RSS 订阅：
 - 暂无RSS链接。
 
 提供了经典的 JavaSE、JavaEE、JavaScript 和 Python、Git 等系列教程。
+
+### Innei（拾一）
+
+> 数字游民，NodeJS全栈开发，前支付宝、小红书、Folo。
+
+- 博客地址：https://innei.in/
+
+人生就是不断地给自己贴上标签，或许我们并不需要这么多的标签。所以我把这些藏起来了。
+
+- AI 指挥师（25.4-），员工：Claude Code, CodeX, GitHub Copilot, Cursor, ChatGPT
+
+- 设计开发者（24.6-），技术栈：React, Radix, Framer Motion
+
+- Node 全栈开发者（19.4-），技术栈：Vue.js, React, NestJS, Fastify, MongoDB, prisma
+
+- 准 iOS 开发者（21.2-），技术栈 React Native, Swift UI
+
+- 准准 UI 设计师（N/A）
+
+- 梦想是成为 Design Engineer。
+
 
 ### plantegg
 
@@ -2835,26 +2856,6 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 
 - [开发100个工具](https://zishu.me/projects/)
 
-
-
-### Innei（拾一）
-
-- 博客地址：https://innei.in/
-
-人生就是不断地给自己贴上标签，或许我们并不需要这么多的标签。所以我把这些藏起来了。
-
-- AI 指挥师（25.4-），员工：Claude Code, CodeX, GitHub Copilot, Cursor, ChatGPT
-
-- 设计开发者（24.6-），技术栈：React, Radix, Framer Motion
-
-- Node 全栈开发者（19.4-），技术栈：Vue.js, React, NestJS, Fastify, MongoDB, prisma
-
-- 准 iOS 开发者（21.2-），技术栈 React Native, Swift UI
-
-- 准准 UI 设计师（N/A）
-
-- 梦想是成为 Design Engineer。
-
 ### 鸟窝
 
 - 博客地址：https://colobu.com/
@@ -2886,6 +2887,16 @@ Android系统工程师。目前主要在做 Android 系统开发优化 和 应�
 - Java全站知识体系：https://pdai.tech/
 
 工作10+年，擅长软件开发与设计；曾经肉身翻墙，拿到美国H1B工作签, 在纽约曼哈顿工作；目前在一家外资公司任专家研究员，从事网络安全平台设计和研发工作。
+
+### Tony Bai
+
+> 《Go语言精进之路》作者，Go C程序员，架构师，技术讲师、撰稿人。先后贡献了lcut、cbehave、buildc多个工具框架。
+
+- 地址：https://tonybai.com/
+
+Go程序员，C程序员，技术架构师，技术总监，技术讲师/培训师，技术撰稿人。先后供职于国内某大型软件公司和某创业型数据与基础设施服务公司。喜技术，爱钻研；热爱开源，曾先后贡献了[lcut](https://github.com/bigwhite/lcut)、[cbehave](https://github.com/bigwhite/cbehave)、[buildc](https://github.com/bigwhite/buildc)多个工具框架；喜好写博客，写博十余年，仍孜孜不倦。
+
+
 
 ### 老胡的储物柜
 
