@@ -76,3 +76,6 @@
 - rss-sub-list：<https://github.com/saveweb/rss-list>
 - [博主们的2021年终总结](https://saveweb.othing.xyz/blog/2022/01/21/review-2021/)
 - [川流](https://chuanliu.org/)
+- [MoreRSS](https://morerss.com/zh)
+
+发现和翻译 RSS feeds，掌控自己的信息源，打开全球视野。
