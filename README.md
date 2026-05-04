@@ -20,7 +20,7 @@
 
 如果你也在写博客，欢迎进群交流，以文会友：
 
-<img src="https://img.smyhvae.com/202603041156942.JPG" style="zoom:50%;" />
+<img src="https://img.smyhvae.com/202605041747876.jpg" alt="微信图片_20260504174608_5_126" style="zoom:50%;" />
 
 ## 一、中流砥柱
 
